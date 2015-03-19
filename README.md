@@ -4,6 +4,8 @@ Since I lost my laptop a month back, with that I lost all the collection of my i
 
 _If you know a tool that isn't present here, feel free to open a pull request._
 
+In case of tools/repos with huge code, I will add tool title and description to readme only.
+
 # Requirements
 
 - java
