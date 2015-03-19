@@ -21,9 +21,13 @@ In case of tools/repos with huge code, I will add tool title and description to 
   - XORTool
 
 - Forensics
-  - Volatility - To investigate memory dumps
-  - Shellbags - Investigate NT\_USER.dat files
+  - [Volatility](https://github.com/volatilityfoundation/volatility) - To investigate memory dumps
+  - [Shellbags](https://github.com/williballenthin/shellbags) - Investigate NT\_USER.dat files
   - Foremost - Extract particular kind of files using headers
+	- `apt-get install foremost`
+
+- Reversing
+  - [Krakatau](https://github.com/Storyyeller/Krakatau) - Java decompiler and disassembler
 
 # Other Necessary - To Be Downloaded tools 
 
