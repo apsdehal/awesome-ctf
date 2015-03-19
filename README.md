@@ -33,4 +33,4 @@ In case of tools/repos with huge code, I will add tool title and description to 
 - Reversing
   - [Krakatau](https://github.com/Storyyeller/Krakatau) - Java decompiler and disassembler
   - IDA Pro - Ultimate solution to reversing needs  
-
+  - [Uncompyle](https://github.com/williballenthin/shellbags) - Decompile Python 2.7 binaries (.pyc)
