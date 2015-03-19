@@ -34,3 +34,10 @@ In case of tools/repos with huge code, I will add tool title and description to 
   - [Krakatau](https://github.com/Storyyeller/Krakatau) - Java decompiler and disassembler
   - IDA Pro - Ultimate solution to reversing needs  
   - [Uncompyle](https://github.com/williballenthin/shellbags) - Decompile Python 2.7 binaries (.pyc)
+  - JavaScript Deobfustcators
+	- [Detox](http://relentless-coding.org/projects/jsdetox/install)
+	- [Malzilla](http://malzilla.sourceforge.net/downloads.html)
+	- [Revelo](http://www.kahusecurity.com/tools/Revelo_v0.6.zip)
+	- Further you can put a breakpoint before return statement in debuggers to find the final code to be executed
+  
+
