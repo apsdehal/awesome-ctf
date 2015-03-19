@@ -24,12 +24,13 @@ In case of tools/repos with huge code, I will add tool title and description to 
   - [Volatility](https://github.com/volatilityfoundation/volatility) - To investigate memory dumps
   - [Shellbags](https://github.com/williballenthin/shellbags) - Investigate NT\_USER.dat files
   - Foremost - Extract particular kind of files using headers
-	- `apt-get install foremost`
+	- `apt-get install foremost
+  - Wireshark - Analyze the network dumps
+	- `apt-get install wireshark`
+  - Audacity - Analyze sound files (mp3, m4a, whatever)
+	- `apt-get install audacity`
 
 - Reversing
   - [Krakatau](https://github.com/Storyyeller/Krakatau) - Java decompiler and disassembler
+  - IDA Pro - Ultimate solution to reversing needs  
 
-# Other Necessary - To Be Downloaded tools 
-
-- Wireshark
-- Audacity
