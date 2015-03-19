@@ -41,3 +41,10 @@ In case of tools/repos with huge code, I will add tool title and description to 
 	- Further you can put a breakpoint before return statement in debuggers to find the final code to be executed
   
 
+### Tools used for creation
+
+- JavaScript Obfustcators
+	- Metasploit JavaScript Obfustcator
+	- Uglify
+
+- [Registry Dumper](http://www.kahusecurity.com/tools/RegistryDumper_v0.1.zip) - Dump your registry
