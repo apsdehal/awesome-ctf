@@ -36,6 +36,7 @@ In case of tools/repos with huge code, I will add tool title and description to 
   - extundelete - Used for recovering lost data from mountable images
   - fsck.ext4 - Used to fix corrupt filesystems
   - [RegistryViewer](http://www.gaijin.at/en/getitpage.php?id=regview) - Used to view windows registries
+    - [More registry viewers](http://www.forensicswiki.org/wiki/Windows_Registry)
   - [UsbForensics](http://www.forensicswiki.org/wiki/USB_History_Viewing) - Contains many tools for usb forensics
 
 - Reversing
