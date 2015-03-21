@@ -16,6 +16,7 @@ In case of tools/repos with huge code, I will add tool title and description to 
 - Stegano
   - Stegsolve
   - Steganabara
+  - [Steghide](http://steghide.sourceforge.net/)
 
 - Crypto
   - XORTool
