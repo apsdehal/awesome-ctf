@@ -37,6 +37,7 @@ In case of tools/repos with huge code, I will add tool title and description to 
   - fsck.ext4 - Used to fix corrupt filesystems
   - [RegistryViewer](http://www.gaijin.at/en/getitpage.php?id=regview) - Used to view windows registries
     - [More registry viewers](http://www.forensicswiki.org/wiki/Windows_Registry)
+  - bkhive and samdump2 - Dump SYSTEM and SAM files
   - [UsbForensics](http://www.forensicswiki.org/wiki/USB_History_Viewing) - Contains many tools for usb forensics
 
 - Reversing
