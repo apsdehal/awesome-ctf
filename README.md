@@ -32,6 +32,8 @@ In case of tools/repos with huge code, I will add tool title and description to 
 	- `apt-get install audacity`
   - extundelete - Used for recovering lost data from mountable images
   - fsck.ext4 - Used to fix corrupt filesystems
+  - pngtools - For various analysis related to PNGs
+	- `apt-get install pngtools`
 
 - Reversing
   - [Krakatau](https://github.com/Storyyeller/Krakatau) - Java decompiler and disassembler
