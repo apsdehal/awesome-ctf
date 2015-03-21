@@ -17,6 +17,9 @@ In case of tools/repos with huge code, I will add tool title and description to 
   - Stegsolve
   - Steganabara
   - [Steghide](http://steghide.sourceforge.net/)
+  - pngtools - For various analysis related to PNGs
+    - `apt-get install pngtools`
+  - [SmartDeblur](https://github.com/Y-Vladimir/SmartDeblur) Used to deblur and fix defocused images
 
 - Crypto
   - XORTool
@@ -25,26 +28,24 @@ In case of tools/repos with huge code, I will add tool title and description to 
   - [Volatility](https://github.com/volatilityfoundation/volatility) - To investigate memory dumps
   - [Shellbags](https://github.com/williballenthin/shellbags) - Investigate NT\_USER.dat files
   - Foremost - Extract particular kind of files using headers
-	- `apt-get install foremost
+    - `apt-get install foremost
   - Wireshark - Analyze the network dumps
-	- `apt-get install wireshark`
+    - `apt-get install wireshark`
   - Audacity - Analyze sound files (mp3, m4a, whatever)
-	- `apt-get install audacity`
+    - `apt-get install audacity`
   - extundelete - Used for recovering lost data from mountable images
   - fsck.ext4 - Used to fix corrupt filesystems
-  - pngtools - For various analysis related to PNGs
-	- `apt-get install pngtools`
 
 - Reversing
   - [Krakatau](https://github.com/Storyyeller/Krakatau) - Java decompiler and disassembler
-  - IDA Pro - Ultimate solution to reversing needs  
+  - IDA Pro - Ultimate solution to reversing needs
   - [Uncompyle](https://github.com/williballenthin/shellbags) - Decompile Python 2.7 binaries (.pyc)
   - JavaScript Deobfustcators
 	- [Detox](http://relentless-coding.org/projects/jsdetox/install)
 	- [Malzilla](http://malzilla.sourceforge.net/downloads.html)
 	- [Revelo](http://www.kahusecurity.com/tools/Revelo_v0.6.zip)
 	- Further you can put a breakpoint before return statement in debuggers to find the final code to be executed
-  
+
 
 ### Tools used for creation
 
