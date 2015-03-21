@@ -40,6 +40,11 @@ In case of tools/repos with huge code, I will add tool title and description to 
   - bkhive and samdump2 - Dump SYSTEM and SAM files
   - [UsbForensics](http://www.forensicswiki.org/wiki/USB_History_Viewing) - Contains many tools for usb forensics
 
+- Bruteforcers
+  - John The Ripper
+  - John The Jumbo
+  - Ophcrack
+
 - Reversing
   - [Krakatau](https://github.com/Storyyeller/Krakatau) - Java decompiler and disassembler
   - IDA Pro - Ultimate solution to reversing needs
