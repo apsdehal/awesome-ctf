@@ -30,6 +30,8 @@ In case of tools/repos with huge code, I will add tool title and description to 
 	- `apt-get install wireshark`
   - Audacity - Analyze sound files (mp3, m4a, whatever)
 	- `apt-get install audacity`
+  - extundelete - Used for recovering lost data from mountable images
+  - fsck.ext4 - Used to fix corrupt filesystems
 
 - Reversing
   - [Krakatau](https://github.com/Storyyeller/Krakatau) - Java decompiler and disassembler
