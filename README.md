@@ -38,6 +38,7 @@ In case of tools/repos with huge code, I will add tool title and description to 
   - [RegistryViewer](http://www.gaijin.at/en/getitpage.php?id=regview) - Used to view windows registries
     - [More registry viewers](http://www.forensicswiki.org/wiki/Windows_Registry)
   - bkhive and samdump2 - Dump SYSTEM and SAM files
+  - [creddump](https://code.google.com/p/creddump/) - Dump windows credentials
   - [UsbForensics](http://www.forensicswiki.org/wiki/USB_History_Viewing) - Contains many tools for usb forensics
 
 - Bruteforcers
