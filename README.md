@@ -35,6 +35,7 @@ In case of tools/repos with huge code, I will add tool title and description to 
     - `apt-get install audacity`
   - extundelete - Used for recovering lost data from mountable images
   - fsck.ext4 - Used to fix corrupt filesystems
+  - [RegistryViewer](http://www.gaijin.at/en/getitpage.php?id=regview) - Used to view windows registries
 
 - Reversing
   - [Krakatau](https://github.com/Storyyeller/Krakatau) - Java decompiler and disassembler
