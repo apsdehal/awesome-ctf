@@ -60,6 +60,9 @@ In case of tools/repos with huge code, I will add tool title and description to 
   - [XSSer](http://xsser.sourceforge.net/) - Automated XSS testor
   - [SQLMap](https://github.com/sqlmapproject/sqlmap) - Automatic SQL injection and database takeover tooli
 
+- Exploits
+  - [Metasploit](http://www.metasploit.com/) - Most used penetration testing software
+
 ### Tools used for creation
 
 - JavaScript Obfustcators
