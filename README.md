@@ -63,6 +63,9 @@ In case of tools/repos with huge code, I will add tool title and description to 
 - Exploits
   - [Metasploit](http://www.metasploit.com/) - Most used penetration testing software
 
+### Services
+
+- [Request Bin](http://requestb.in/) - Lets you inspect http requests to a particular url
 ### Tools used for creation
 
 - JavaScript Obfustcators
