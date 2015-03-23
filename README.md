@@ -62,6 +62,7 @@ In case of tools/repos with huge code, I will add tool title and description to 
 
 - Exploits
   - [Metasploit](http://www.metasploit.com/) - Most used penetration testing software
+  - [pwntools](https://github.com/Gallopsled/pwntools) - CTF Framework for writing exploits
 
 ### Services
 
