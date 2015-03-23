@@ -66,6 +66,8 @@ In case of tools/repos with huge code, I will add tool title and description to 
 ### Services
 
 - [Request Bin](http://requestb.in/) - Lets you inspect http requests to a particular url
+- [CSWSH](http://ironwasp.org/cswsh.html) - Cross-Site WebSocket Hijacking Tester 
+
 ### Tools used for creation
 
 - JavaScript Obfustcators
