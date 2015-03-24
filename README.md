@@ -56,6 +56,7 @@ In case of tools/repos with huge code, I will add tool title and description to 
 	- [Revelo](http://www.kahusecurity.com/tools/Revelo_v0.6.zip)
 	- Further you can put a breakpoint before return statement in debuggers to find the final code to be executed
 
+  - [BinWalk](https://github.com/devttys0/binwalk) - Analyze, reverse engineer, and extract firmware images.
 - Web
   - [XSSer](http://xsser.sourceforge.net/) - Automated XSS testor
   - [SQLMap](https://github.com/sqlmapproject/sqlmap) - Automatic SQL injection and database takeover tooli
