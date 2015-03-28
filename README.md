@@ -59,6 +59,8 @@ In case of tools/repos with huge code, I will add tool title and description to 
   - [BinWalk](https://github.com/devttys0/binwalk) - Analyze, reverse engineer, and extract firmware images.
   - [Jadx](https://github.com/skylot/jadx) - Decompile Android files
   - [ApkTool](ibotpeaches.github.io/Apktool/) - Android Decompiler
+  - [apk2Gold](https://github.com/lxdvs/apk2gold) - Yet another Android decompiler
+
 - Web
   - [XSSer](http://xsser.sourceforge.net/) - Automated XSS testor
   - [SQLMap](https://github.com/sqlmapproject/sqlmap) - Automatic SQL injection and database takeover tooli
