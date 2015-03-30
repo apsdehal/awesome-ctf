@@ -60,6 +60,8 @@ In case of tools/repos with huge code, I will add tool title and description to 
   - [Jadx](https://github.com/skylot/jadx) - Decompile Android files
   - [ApkTool](http://ibotpeaches.github.io/Apktool/) - Android Decompiler
   - [apk2Gold](https://github.com/lxdvs/apk2gold) - Yet another Android decompiler
+  - [Boomerang](https://github.com/nemerle/boomerang) - Decompile x86 binaries to C
+
 
 - Web
   - [XSSer](http://xsser.sourceforge.net/) - Automated XSS testor
