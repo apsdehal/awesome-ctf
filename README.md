@@ -23,6 +23,7 @@ In case of tools/repos with huge code, I will add tool title and description to 
 
 - Crypto
   - XORTool
+  - [RSATool](https://github.com/ius/rsatool) - Generate private key with knowledge of p and q
 
 - Forensics
   - [Volatility](https://github.com/volatilityfoundation/volatility) - To investigate memory dumps
