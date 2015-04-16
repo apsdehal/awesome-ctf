@@ -42,7 +42,7 @@ In case of tools/repos with huge code, I will add tool title and description to 
   - [creddump](https://code.google.com/p/creddump/) - Dump windows credentials
   - [UsbForensics](http://www.forensicswiki.org/wiki/USB_History_Viewing) - Contains many tools for usb forensics
   - [ResourcesExtract] - Extract various filetypes from exes
-
+  - [CFF Explorer](http://www.ntcore.com/exsuite.php) - PE Editor
 
 - Bruteforcers
   - John The Ripper
