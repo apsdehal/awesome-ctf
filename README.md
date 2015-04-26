@@ -17,8 +17,8 @@ It takes time to build up collection of tools used in ctf and remember them all.
 
 - [CTF Tools](#ctf-tools)
   - [Create](#create)
-    - [Web](#create-web)
     - [Forensics](#create-forensics)
+    - [Web](#create-web)
   - [Solve](#solve)
     - [Attacks](#solve-attacks)
     - [Bruteforcers](#solve-bruteforcers)
@@ -71,15 +71,15 @@ It takes time to build up collection of tools used in ctf and remember them all.
 
 *Tools used for solving Crypto challenges*
 
-- [XORTool](https://github.com/hellman/xortool) - A tool to analyze multi-byte xor cipher
 - [RSATool](https://github.com/ius/rsatool) - Generate private key with knowledge of p and q
+- [XORTool](https://github.com/hellman/xortool) - A tool to analyze multi-byte xor cipher
 
 ## Bruteforcers
 
 *Tools used for various kind of bruteforcing (passwords etc.)*
 
-- [John The Ripper](http://www.openwall.com/john/) - Password Cracker
 - [John The Jumbo](https://github.com/magnumripper/JohnTheRipper) - Community enhanced version of John the Ripper
+- [John The Ripper](http://www.openwall.com/john/) - Password Cracker
 - [Ophcrack](http://ophcrack.sourceforge.net/) - Windows password cracker based on rainbow tables.
 
 ## Exploits
@@ -114,7 +114,7 @@ It takes time to build up collection of tools used in ctf and remember them all.
 
 *Registry Viewers*
 - [RegistryViewer](http://www.gaijin.at/en/getitpage.php?id=regview) - Used to view windows registries
-- [Extra](http://www.forensicswiki.org/wiki/Windows_Registry) - More registry viewers
+- [Windows Registry Viewers](http://www.forensicswiki.org/wiki/Windows_Registry) - More registry viewers
 
 ## Reversing
 
