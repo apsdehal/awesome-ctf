@@ -1,0 +1,29 @@
+{
+	"name": "ctf-tools",
+	"title": "CTF Tools",
+	"description": "A curated list of CTF frameworks, libraries, resources and softwares.",
+	"version": "1.0.0",
+	"homepage": "http://github.com/apsdehal/ctf-tool",
+	"author": {
+		"name": "Amanpreet Singh and contributors",
+		"url": "https://github.com/apsdehal/ctf-tools/graphs/contributors"
+	},
+	"repository": {
+		"type": "git",
+		"url": "https://github.com/apsdehal/ctf-tools.git"
+	},
+	"bugs": "https://github.com/apsdehal/ctf-tools/issues",
+	"licenses": [
+		{
+			"type": "MIT",
+			"url": "https://github.com/apsdehal/ctf-tools/LICENSE.txt"
+		}
+	],
+	"engines": {
+		"node": ">= 0.8.0"
+	},
+	"scripts": {
+		"test": "node test.js",
+	},
+	"keywords": []
+}
