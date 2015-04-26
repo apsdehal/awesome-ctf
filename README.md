@@ -1,6 +1,6 @@
 # CTF Tools
 
-A curated list of awesome CTF frameworks, libraries and software.
+A curated list of awesome CTF frameworks, libraries, resources and softwares.
 
 ### Contributing
 
@@ -26,6 +26,11 @@ Please take a quick gander at the [contribution guidelines](https://github.com/a
     - [Services](#solve-services)
     - [Steganography](#solve-stegano)
     - [Web](#solve-web)
+
+- [Resources](#resources)
+  - [Websites](#resources-websites)
+    - [Tutorials](#resources-tutorials)
+
 
 # Create
 
@@ -146,3 +151,13 @@ Please take a quick gander at the [contribution guidelines](https://github.com/a
 
 - [Request Bin](http://requestb.in/) - Lets you inspect http requests to a particular url
 - [CSWSH](http://ironwasp.org/cswsh.html) - Cross-Site WebSocket Hijacking Tester
+
+
+# Resources
+
+## Websites
+
+*Various learning resources available on internet*
+
+## Tutorials
+
