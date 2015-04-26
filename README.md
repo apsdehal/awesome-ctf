@@ -1,4 +1,4 @@
-# CTF Tools
+# CTF Tools [![Build Status](https://travis-ci.org/apsdehal/ctf-tools.svg?branch=master)](https://travis-ci.org/apsdehal/ctf-tools)
 
 A curated list of CTF frameworks, libraries, resources and softwares.
 
