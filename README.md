@@ -155,9 +155,21 @@ Please take a quick gander at the [contribution guidelines](https://github.com/a
 
 # Resources
 
+*Where to discover about CTF*
+
 ## Websites
 
-*Various learning resources available on internet*
+*Various general websites about and on ctf*
+
+- [CTF Time](https://ctftime.org/) - General information on CTF occuring around the worlds
+
+## Writeups Collections
+
+*Collections of CTF writeups*
+
+- [CTF Writeups (Community)](https://github.com/ctfs/) - CTF Writeups Repos maintained by community
+- [Shell Storm](shell-storm.org/repo/CTF/) - CTF Writeups Repo maintained by Jonathan Salwan
 
 ## Tutorials
 
+*Tutorials to learn how to play CTFs*
