@@ -14,8 +14,9 @@
   },
   "bugs": "https://github.com/apsdehal/ctf-tools/issues",
   "devDependencies": {
-    "mocha": "~2.2.1",
-    "marked": "^0.3.3"
+    "cheerio": "^0.19.0",
+    "marked": "^0.3.3",
+    "mocha": "~2.2.1"
   },
   "licenses": [
     {
@@ -29,5 +30,5 @@
   "scripts": {
     "test": "node test.js"
   },
-  "keywords": [],
+  "keywords": []
 }
