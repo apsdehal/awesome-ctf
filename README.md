@@ -14,7 +14,6 @@ Please take a quick gander at the [contribution guidelines](https://github.com/a
   - [Create](#create)
     - [Web](#create-web)
     - [Forensics](#create-forensics)
-
   - [Solve](#solve)
     - [Attacks](#solve-attacks)
     - [Bruteforcers](#solve-bruteforcers)
@@ -28,7 +27,7 @@ Please take a quick gander at the [contribution guidelines](https://github.com/a
     - [Steganography](#solve-stegano)
     - [Web](#solve-web)
 
-## Create
+# Create
 
 *Tools used for creating CTF challenges*
 
@@ -48,7 +47,7 @@ Please take a quick gander at the [contribution guidelines](https://github.com/a
 - Uglify
 
 
-## Solve
+# Solve
 
 *Tools used for solving CTF challenges*
 
