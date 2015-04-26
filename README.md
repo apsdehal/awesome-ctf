@@ -4,7 +4,7 @@ A curated list of CTF frameworks, libraries, resources and softwares.
 
 ### Contributing
 
-Please take a quick look at the [contribution guidelines](https://github.com/apsdehal/ctf-tools/CONTRIBUTING.md) first.
+Please take a quick look at the [contribution guidelines](https://github.com/apsdehal/ctf-tools/blob/master/CONTRIBUTING.md) first.
 
 #### _If you know a tool that isn't present here, feel free to open a pull request._
 
