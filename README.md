@@ -27,4 +27,24 @@ Please take a quick gander at the [contribution guidelines](https://github.com/a
     - [Services](#solve-services)
     - [Steganography](#solve-stegano)
     - [Web](#solve-web)
+
+## Create
+
+*Tools used for creating CTF challenges*
+
+## Forensics
+
+*Tools used for creating Forensics challenges*
+
 - [Registry Dumper](http://www.kahusecurity.com/tools/RegistryDumper_v0.1.zip) - Dump your registry
+
+## Web
+
+*Tools used for creating Web challenges*
+
+*JavaScript Obfustcators*
+
+- Metasploit JavaScript Obfustcator
+- Uglify
+
+
