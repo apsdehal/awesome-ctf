@@ -88,22 +88,23 @@ Please take a quick gander at the [contribution guidelines](https://github.com/a
 
 *Tools used for solving Forensics challenges*
 
-- Audacity - Analyze sound files (mp3, m4a, whatever)
+- [Audacity](http://sourceforge.net/projects/audacity/) - Analyze sound files (mp3, m4a, whatever)
   - `apt-get install audacity`
-- bkhive and samdump2 - Dump SYSTEM and SAM files
+- [bkhive and samdump2](http://sourceforge.net/projects/ophcrack/files/samdump2/) - Dump SYSTEM and SAM files
+  - `apt-get install samdump2 bkhive`
 - [CFF Explorer](http://www.ntcore.com/exsuite.php) - PE Editor
 - [creddump](https://code.google.com/p/creddump/) - Dump windows credentials
-- extundelete - Used for recovering lost data from mountable images
-- Foremost - Extract particular kind of files using headers
+- [extundelete](http://extundelete.sourceforge.net/) - Used for recovering lost data from mountable images
+- [Foremost](http://foremost.sourceforge.net/) - Extract particular kind of files using headers
   - `apt-get install foremost`
-- fsck.ext4 - Used to fix corrupt filesystems
+- [fsck.ext4](http://linux.die.net/man/8/fsck.ext3) - Used to fix corrupt filesystems
 - [Malzilla](http://malzilla.sourceforge.net/) - Malware hunting tool
 - [PDF Streams Inflater](http://malzilla.sourceforge.net/downloads.html) - Find and extract zlib files compressed in PDF files
-- [ResourcesExtract] - Extract various filetypes from exes
+- [ResourcesExtract](http://www.nirsoft.net/utils/resources_extract.html) - Extract various filetypes from exes
 - [Shellbags](https://github.com/williballenthin/shellbags) - Investigate NT\_USER.dat files
 - [UsbForensics](http://www.forensicswiki.org/wiki/USB_History_Viewing) - Contains many tools for usb forensics
 - [Volatility](https://github.com/volatilityfoundation/volatility) - To investigate memory dumps
-- Wireshark - Analyze the network dumps
+- [Wireshark](https://www.wireshark.org/) - Analyze the network dumps
   - `apt-get install wireshark`
 
 *Registry Viewers*
