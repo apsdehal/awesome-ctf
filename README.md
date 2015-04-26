@@ -56,16 +56,11 @@ Please take a quick gander at the [contribution guidelines](https://github.com/a
 
 *Tools used for solving CTF challenges*
 
-## Stegano
+## Attacks
 
-*Tools used for solving Steganography challenges*
+*Tools used for performing various kinds of attacks*
 
-- Stegsolve
-- Steganabara
-- [Steghide](http://steghide.sourceforge.net/)
-- pngtools - For various analysis related to PNGs
-  - `apt-get install pngtools`
-- [SmartDeblur](https://github.com/Y-Vladimir/SmartDeblur) Used to deblur and fix defocused images
+- [Layer 2 attacks](https://github.com/tomac/yersinia) - Attack various protocols on layer 2
 
 ## Crypto
 
@@ -73,6 +68,21 @@ Please take a quick gander at the [contribution guidelines](https://github.com/a
 
 - XORTool
 - [RSATool](https://github.com/ius/rsatool) - Generate private key with knowledge of p and q
+
+## Bruteforcers
+
+*Tools used for various kind of bruteforcing (passwords etc.)*
+
+- John The Ripper
+- John The Jumbo
+- Ophcrack
+
+## Exploits
+
+*Tools used for solving Exploits challenges*
+
+- [Metasploit](http://www.metasploit.com/) - Most used penetration testing software
+- [pwntools](https://github.com/Gallopsled/pwntools) - CTF Framework for writing exploits
 
 ## Forensics
 
@@ -96,54 +106,25 @@ Please take a quick gander at the [contribution guidelines](https://github.com/a
 - [ResourcesExtract] - Extract various filetypes from exes
 - [CFF Explorer](http://www.ntcore.com/exsuite.php) - PE Editor
 
-## Bruteforcers
-
-*Tools used for various kind of bruteforcing (passwords etc.)*
-
-- John The Ripper
-- John The Jumbo
-- Ophcrack
-
 ## Reversing
 
 *Tools used for solving Reversing challenges*
 
-- [Krakatau](https://github.com/Storyyeller/Krakatau) - Java decompiler and disassembler
+- [Androguard](https://github.com/androguard/androguard) - Reverse engineer Android applications
+- [Apk2Gold](https://github.com/lxdvs/apk2gold) - Yet another Android decompiler
+- [ApkTool](http://ibotpeaches.github.io/Apktool/) - Android Decompiler
 - IDA Pro - Ultimate solution to reversing needs
+- [Krakatau](https://github.com/Storyyeller/Krakatau) - Java decompiler and disassembler
+- [Revelo](http://www.kahusecurity.com/tools/Revelo_v0.6.zip)
 - [Uncompyle](https://github.com/williballenthin/shellbags) - Decompile Python 2.7 binaries (.pyc)
-- JavaScript Deobfustcators
+
+*JavaScript Deobfustcators*
+
 - [Detox](http://relentless-coding.org/projects/jsdetox/install)
 - [Malzilla](http://malzilla.sourceforge.net/downloads.html)
-- [Revelo](http://www.kahusecurity.com/tools/Revelo_v0.6.zip)
-- Further you can put a breakpoint before return statement in debuggers to find the final code to be executed
-
 - [BinWalk](https://github.com/devttys0/binwalk) - Analyze, reverse engineer, and extract firmware images.
 - [Jadx](https://github.com/skylot/jadx) - Decompile Android files
-- [ApkTool](http://ibotpeaches.github.io/Apktool/) - Android Decompiler
-- [apk2Gold](https://github.com/lxdvs/apk2gold) - Yet another Android decompiler
 - [Boomerang](https://github.com/nemerle/boomerang) - Decompile x86 binaries to C
-
-
-## Web
-
-*Tools used for solving Web challenges*
-
-- [XSSer](http://xsser.sourceforge.net/) - Automated XSS testor
-- [SQLMap](https://github.com/sqlmapproject/sqlmap) - Automatic SQL injection and database takeover tooli
-
-## Exploits
-
-*Tools used for solving Exploits challenges*
-
-- [Metasploit](http://www.metasploit.com/) - Most used penetration testing software
-- [pwntools](https://github.com/Gallopsled/pwntools) - CTF Framework for writing exploits
-
-
-## Attacks
-
-*Tools used for performing various kinds of attacks*
-
-- [Layer 2 attacks](https://github.com/tomac/yersinia) - Attack various protocols on layer 2
 
 ## Services
 
@@ -151,6 +132,24 @@ Please take a quick gander at the [contribution guidelines](https://github.com/a
 
 - [Request Bin](http://requestb.in/) - Lets you inspect http requests to a particular url
 - [CSWSH](http://ironwasp.org/cswsh.html) - Cross-Site WebSocket Hijacking Tester
+
+## Stegano
+
+*Tools used for solving Steganography challenges*
+
+- Stegsolve
+- Steganabara
+- [Steghide](http://steghide.sourceforge.net/)
+- pngtools - For various analysis related to PNGs
+  - `apt-get install pngtools`
+- [SmartDeblur](https://github.com/Y-Vladimir/SmartDeblur) Used to deblur and fix defocused images
+
+## Web
+
+*Tools used for solving Web challenges*
+
+- [XSSer](http://xsser.sourceforge.net/) - Automated XSS testor
+- [SQLMap](https://github.com/sqlmapproject/sqlmap) - Automatic SQL injection and database takeover tooli
 
 
 # Resources
