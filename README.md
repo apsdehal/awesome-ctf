@@ -53,8 +53,8 @@ It takes time to build up collection of tools used in ctf and remember them all.
 
 *JavaScript Obfustcators*
 
-- Metasploit JavaScript Obfustcator
-- Uglify
+- [Metasploit JavaScript Obfustcator](https://github.com/rapid7/metasploit-framework/wiki/How-to-obfuscate-JavaScript-in-Metasploit)
+- [Uglify](http://marijnhaverbeke.nl//uglifyjs)
 
 
 # Solve
@@ -71,22 +71,22 @@ It takes time to build up collection of tools used in ctf and remember them all.
 
 *Tools used for solving Crypto challenges*
 
-- XORTool
+- [XORTool](https://github.com/hellman/xortool) - A tool to analyze multi-byte xor cipher
 - [RSATool](https://github.com/ius/rsatool) - Generate private key with knowledge of p and q
 
 ## Bruteforcers
 
 *Tools used for various kind of bruteforcing (passwords etc.)*
 
-- John The Ripper
-- John The Jumbo
-- Ophcrack
+- [John The Ripper](http://www.openwall.com/john/) - Password Cracker
+- [John The Jumbo](https://github.com/magnumripper/JohnTheRipper) - Community enhanced version of John the Ripper
+- [Ophcrack](http://ophcrack.sourceforge.net/) - Windows password cracker based on rainbow tables.
 
 ## Exploits
 
 *Tools used for solving Exploits challenges*
 
-- [Metasploit](http://www.metasploit.com/) - Most used penetration testing software
+- [Metasploit](http://www.metasploit.com/) - Penetration testing software
 - [pwntools](https://github.com/Gallopsled/pwntools) - CTF Framework for writing exploits
 
 ## Forensics
@@ -114,7 +114,7 @@ It takes time to build up collection of tools used in ctf and remember them all.
 
 *Registry Viewers*
 - [RegistryViewer](http://www.gaijin.at/en/getitpage.php?id=regview) - Used to view windows registries
-- [Extra](http://www.forensicswiki.org/wiki/Windows_Registry)
+- [Extra](http://www.forensicswiki.org/wiki/Windows_Registry) - More registry viewers
 
 ## Reversing
 
@@ -125,15 +125,15 @@ It takes time to build up collection of tools used in ctf and remember them all.
 - [ApkTool](http://ibotpeaches.github.io/Apktool/) - Android Decompiler
 - [BinWalk](https://github.com/devttys0/binwalk) - Analyze, reverse engineer, and extract firmware images.
 - [Boomerang](https://github.com/nemerle/boomerang) - Decompile x86 binaries to C
-- IDA Pro - Ultimate solution to reversing needs
+- [IDA Pro](https://www.hex-rays.com/products/ida/) - Most used Reversing software
 - [Jadx](https://github.com/skylot/jadx) - Decompile Android files
 - [Krakatau](https://github.com/Storyyeller/Krakatau) - Java decompiler and disassembler
-- [Revelo](http://www.kahusecurity.com/tools/Revelo_v0.6.zip)
 - [Uncompyle](https://github.com/williballenthin/shellbags) - Decompile Python 2.7 binaries (.pyc)
 
 *JavaScript Deobfustcators*
 
-- [Detox](http://relentless-coding.org/projects/jsdetox/install)
+- [Detox](http://relentless-coding.org/projects/jsdetox/install) - A Javascript malware analysis tool
+- [Revelo](http://www.kahusecurity.com/tools/Revelo_v0.6.zip) - Analyze obfuscated Javascript code
 
 ## Services
 
@@ -146,12 +146,12 @@ It takes time to build up collection of tools used in ctf and remember them all.
 
 *Tools used for solving Steganography challenges*
 
-- pngtools - For various analysis related to PNGs
+- [pngtools](http://www.stillhq.com/pngtools/) - For various analysis related to PNGs
   - `apt-get install pngtools`
-- [SmartDeblur](https://github.com/Y-Vladimir/SmartDeblur) Used to deblur and fix defocused images
-- Steganabara
-- [Steghide](http://steghide.sourceforge.net/)
-- Stegsolve
+- [SmartDeblur](https://github.com/Y-Vladimir/SmartDeblur) - Used to deblur and fix defocused images
+- [Steganabara](https://www.openhub.net/p/steganabara) -  Tool for stegano analysis written in Java
+- [Steghide](http://steghide.sourceforge.net/) - Hide data in various kind of images
+- [Stegsolve](http://www.caesum.com/handbook/Stegsolve.jar) - Apply various steganography techniques to images
 
 ## Web
 
