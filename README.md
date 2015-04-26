@@ -181,3 +181,7 @@ It takes time to build up collection of tools used in ctf and remember them all.
 ## Tutorials
 
 *Tutorials to learn how to play CTFs*
+
+### LICENSE
+
+MIT :)
