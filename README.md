@@ -105,6 +105,8 @@ Please take a quick gander at the [contribution guidelines](https://github.com/a
 - [UsbForensics](http://www.forensicswiki.org/wiki/USB_History_Viewing) - Contains many tools for usb forensics
 - [ResourcesExtract] - Extract various filetypes from exes
 - [CFF Explorer](http://www.ntcore.com/exsuite.php) - PE Editor
+- [Malzilla](http://malzilla.sourceforge.net/) - Malware hunting tool
+- [PDF Streams Inflater](http://malzilla.sourceforge.net/downloads.html) - Find and extract zlib files compressed in PDF files
 
 ## Reversing
 
@@ -121,7 +123,6 @@ Please take a quick gander at the [contribution guidelines](https://github.com/a
 *JavaScript Deobfustcators*
 
 - [Detox](http://relentless-coding.org/projects/jsdetox/install)
-- [Malzilla](http://malzilla.sourceforge.net/downloads.html)
 - [BinWalk](https://github.com/devttys0/binwalk) - Analyze, reverse engineer, and extract firmware images.
 - [Jadx](https://github.com/skylot/jadx) - Decompile Android files
 - [Boomerang](https://github.com/nemerle/boomerang) - Decompile x86 binaries to C
