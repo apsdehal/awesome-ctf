@@ -8,6 +8,11 @@ Please take a quick gander at the [contribution guidelines](https://github.com/a
 
 #### _If you know a tool that isn't present here, feel free to open a pull request._
 
+### Why?
+
+It takes time to build up collection of tools used in ctf and remember them all. This repo helps to keep all these scattered tools at one place.
+
+
 ### Contents
 
 - [CTF Tools](#ctf-tools)
