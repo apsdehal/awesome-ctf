@@ -1,4 +1,4 @@
-# CTF Tools [![Build Status](https://travis-ci.org/apsdehal/ctf-tools.svg?branch=master)](https://travis-ci.org/apsdehal/ctf-tools)
+# Awesome CTF [![Build Status](https://travis-ci.org/apsdehal/ctf-tools.svg?branch=master)](https://travis-ci.org/apsdehal/ctf-tools)
 
 A curated list of CTF frameworks, libraries, resources and softwares.
 
@@ -15,7 +15,7 @@ It takes time to build up collection of tools used in ctf and remember them all.
 
 ### Contents
 
-- [CTF Tools](#ctf-tools)
+- [Awesome CTF](#awesome-ctf)
   - [Create](#create)
     - [Forensics](#create-forensics)
     - [Web](#create-web)

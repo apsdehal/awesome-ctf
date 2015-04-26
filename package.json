@@ -1,18 +1,18 @@
 {
-  "name": "ctf-tools",
-  "title": "CTF Tools",
+  "name": "awesome-ctf",
+  "title": "awesome-ctf",
   "description": "A curated list of CTF frameworks, libraries, resources and softwares.",
   "version": "1.0.0",
-  "homepage": "http://github.com/apsdehal/ctf-tools",
+  "homepage": "http://github.com/apsdehal/awesome-ctf",
   "author": {
     "name": "Amanpreet Singh and contributors",
-    "url": "https://github.com/apsdehal/ctf-tools/graphs/contributors"
+    "url": "https://github.com/apsdehal/awesome-ctf/graphs/contributors"
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/apsdehal/ctf-tools.git"
+    "url": "https://github.com/apsdehal/awesome-ctf.git"
   },
-  "bugs": "https://github.com/apsdehal/ctf-tools/issues",
+  "bugs": "https://github.com/apsdehal/awesome-ctf/issues",
   "devDependencies": {
     "chai": "^2.2.0",
     "cheerio": "^0.19.0",
@@ -22,7 +22,7 @@
   "licenses": [
     {
       "type": "MIT",
-      "url": "https://github.com/apsdehal/ctf-tools/LICENSE.txt"
+      "url": "https://github.com/apsdehal/awesome-ctf/LICENSE.txt"
     }
   ],
   "engines": {
