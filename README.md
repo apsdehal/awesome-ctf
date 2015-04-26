@@ -4,7 +4,6 @@ Since I lost my laptop a month back, with that I lost all the collection of my i
 
 _If you know a tool that isn't present here, feel free to open a pull request._
 
-In case of tools/repos with huge code, I will add tool title and description to readme only.
 
 # Requirements
 
@@ -76,10 +75,11 @@ In case of tools/repos with huge code, I will add tool title and description to 
 
 - Attacks
   - [Layer 2 attacks](https://github.com/tomac/yersinia) - Attack various protocols on layer 2
+
 ### Services
 
 - [Request Bin](http://requestb.in/) - Lets you inspect http requests to a particular url
-- [CSWSH](http://ironwasp.org/cswsh.html) - Cross-Site WebSocket Hijacking Tester 
+- [CSWSH](http://ironwasp.org/cswsh.html) - Cross-Site WebSocket Hijacking Tester
 
 ### Tools used for creation
 
