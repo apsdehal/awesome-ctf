@@ -22,7 +22,6 @@ It takes time to build up collection of tools used in ctf and remember them all.
   - [Solve](#solve)
     - [Attacks](#attacks)
     - [Bruteforcers](#bruteforcers)
-    - [Creation Tools](#create)
     - [Cryptography](#crypto)
     - [Exploits](#exploits)
     - [Forensics](#forensics-1)
