@@ -33,9 +33,11 @@ It takes time to build up collection of tools used in ctf and remember them all.
     - [Web](#solve-web)
 
 - [Resources](#resources)
+  - [Tutorials](#resources-tutorials)
+  - [Wargames](#resources-wargames)
   - [Websites](#resources-websites)
-    - [Tutorials](#resources-tutorials)
-
+  - [Wikis](#resources-wikis)
+  - [Writeups Collections](#resources-writeups)
 
 # Create
 
@@ -165,11 +167,34 @@ It takes time to build up collection of tools used in ctf and remember them all.
 
 *Where to discover about CTF*
 
+## Tutorials
+
+*Tutorials to learn how to play CTFs*
+
+- [CTF Field Guide](https://trailofbits.github.io/ctf/) - Field Guide by Trails of Bits
+
+## Wargames
+
+*Always online CTFs*
+
+- [Backdoor](https://backdoor.sdslabs.co/) - Security Platform by SDSLabs
+- [Exploit Exercises](https://exploit-exercises.com/) - Variety of VMs to learn variety of computer security issues
+- [Hack This Site](https://www.hackthissite.org/) - Training ground for hackers.
+- [Over The Wire](http://overthewire.org/wargames/) - Wargame maintained by OvertheWire Community
+- [WeChall](https://www.wechall.net/) - Always online challenge site
+
 ## Websites
 
 *Various general websites about and on ctf*
 
 - [CTF Time](https://ctftime.org/) - General information on CTF occuring around the worlds
+- [Reddit Security CTF](http://www.reddit.com/r/securityctf) - Reddit CTF category
+
+## Wikis
+
+*Various Wikis available for learning about CTFs*
+
+- [ISIS Lab](https://github.com/isislab/Project-Ideas/wiki) - CTF Wiki by Isis lab
 
 ## Writeups Collections
 
@@ -177,10 +202,8 @@ It takes time to build up collection of tools used in ctf and remember them all.
 
 - [CTF Writeups (Community)](https://github.com/ctfs/) - CTF Writeups Repos maintained by community
 - [Shell Storm](shell-storm.org/repo/CTF/) - CTF Writeups Repo maintained by Jonathan Salwan
+- [Smoke Leet Everyday](https://github.com/smokeleeteveryday/CTF_WRITEUPS) - CTF Writeups Repo maintained by SmokeLeetEveryday team.
 
-## Tutorials
-
-*Tutorials to learn how to play CTFs*
 
 ### LICENSE
 
