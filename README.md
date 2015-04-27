@@ -1,6 +1,6 @@
 # Awesome CTF [![Build Status](https://travis-ci.org/apsdehal/awesome-ctf.svg?branch=master)](https://travis-ci.org/apsdehal/awesome-ctf)
 
-A curated list of CTF frameworks, libraries, resources and softwares.
+A curated list of [Capture The Flag](https://en.wikipedia.org/wiki/Capture_the_flag#Computer_security) (CTF) frameworks, libraries, resources and softwares.
 
 ### Contributing
 
