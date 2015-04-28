@@ -87,6 +87,7 @@ It takes time to build up collection of tools used in ctf and remember them all.
 
 *Tools used for solving Exploits challenges*
 
+- [binjitsu](https://github.com/binjitsu/binjitsu/) - CTF framework and exploit development library
 - [Metasploit](http://www.metasploit.com/) - Penetration testing software
 - [pwntools](https://github.com/Gallopsled/pwntools) - CTF Framework for writing exploits
 
@@ -200,6 +201,7 @@ It takes time to build up collection of tools used in ctf and remember them all.
 *Collections of CTF write-ups*
 
 - [CTF write-ups (community)](https://github.com/ctfs/) - CTF challenges + write-ups archive maintained by the community
+- [pwntools writeups](https://github.com/Gallopsled/pwntools-write-ups) - A collection of CTF write-ups all using pwntools
 - [Shell Storm](shell-storm.org/repo/CTF/) - CTF challenge archive maintained by Jonathan Salwan
 - [Smoke Leet Everyday](https://github.com/smokeleeteveryday/CTF_WRITEUPS) - CTF write-ups repo maintained by SmokeLeetEveryday team.
 
