@@ -197,11 +197,11 @@ It takes time to build up collection of tools used in ctf and remember them all.
 
 ## Writeups Collections
 
-*Collections of CTF writeups*
+*Collections of CTF write-ups*
 
-- [CTF Writeups (Community)](https://github.com/ctfs/) - CTF Writeups Repos maintained by community
-- [Shell Storm](shell-storm.org/repo/CTF/) - CTF Writeups Repo maintained by Jonathan Salwan
-- [Smoke Leet Everyday](https://github.com/smokeleeteveryday/CTF_WRITEUPS) - CTF Writeups Repo maintained by SmokeLeetEveryday team.
+- [CTF write-ups (community)](https://github.com/ctfs/) - CTF challenges + write-ups archive maintained by the community
+- [Shell Storm](shell-storm.org/repo/CTF/) - CTF challenge archive maintained by Jonathan Salwan
+- [Smoke Leet Everyday](https://github.com/smokeleeteveryday/CTF_WRITEUPS) - CTF write-ups repo maintained by SmokeLeetEveryday team.
 
 
 ### LICENSE
