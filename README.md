@@ -172,6 +172,7 @@ It takes time to build up collection of tools used in ctf and remember them all.
 *Tutorials to learn how to play CTFs*
 
 - [CTF Field Guide](https://trailofbits.github.io/ctf/) - Field Guide by Trails of Bits
+- [CTF Resources](http://ctfs.github.io/resources/) -  Start Guide maintained by community
 
 ## Wargames
 
