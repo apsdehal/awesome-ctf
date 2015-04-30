@@ -95,6 +95,8 @@ It takes time to build up collection of tools used in ctf and remember them all.
 
 *Tools used for solving Forensics challenges*
 
+- [Aircrack-Ng](http://www.aircrack-ng.org/) - Crack 802.11 WEP and WPA-PSK keys
+  - `apt-get install aircrack-ng`
 - [Audacity](http://sourceforge.net/projects/audacity/) - Analyze sound files (mp3, m4a, whatever)
   - `apt-get install audacity`
 - [bkhive and samdump2](http://sourceforge.net/projects/ophcrack/files/samdump2/) - Dump SYSTEM and SAM files
@@ -125,6 +127,7 @@ It takes time to build up collection of tools used in ctf and remember them all.
 - [Androguard](https://github.com/androguard/androguard) - Reverse engineer Android applications
 - [Apk2Gold](https://github.com/lxdvs/apk2gold) - Yet another Android decompiler
 - [ApkTool](http://ibotpeaches.github.io/Apktool/) - Android Decompiler
+- [BinUtils](http://www.gnu.org/software/binutils/binutils.html) - Collection of binary tools
 - [BinWalk](https://github.com/devttys0/binwalk) - Analyze, reverse engineer, and extract firmware images.
 - [Boomerang](https://github.com/nemerle/boomerang) - Decompile x86 binaries to C
 - [IDA Pro](https://www.hex-rays.com/products/ida/) - Most used Reversing software
