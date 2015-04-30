@@ -102,7 +102,7 @@ It takes time to build up collection of tools used in ctf and remember them all.
 - [bkhive and samdump2](http://sourceforge.net/projects/ophcrack/files/samdump2/) - Dump SYSTEM and SAM files
   - `apt-get install samdump2 bkhive`
 - [CFF Explorer](http://www.ntcore.com/exsuite.php) - PE Editor
-- [creddump](https://code.google.com/p/creddump/) - Dump windows credentials
+- [creddump](https://github.com/moyix/creddump) - Dump windows credentials
 - [extundelete](http://extundelete.sourceforge.net/) - Used for recovering lost data from mountable images
 - [Foremost](http://foremost.sourceforge.net/) - Extract particular kind of files using headers
   - `apt-get install foremost`
