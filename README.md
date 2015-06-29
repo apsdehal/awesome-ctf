@@ -176,6 +176,7 @@ It takes time to build up collection of tools used in ctf and remember them all.
 
 - [CTF Field Guide](https://trailofbits.github.io/ctf/) - Field Guide by Trails of Bits
 - [CTF Resources](http://ctfs.github.io/resources/) -  Start Guide maintained by community
+- [How to Get Started in CTF](https://www.endgame.com/blog/how-get-started-ctf) - Short guideline for CTF beginners by Endgame
 
 ## Wargames
 
@@ -185,6 +186,7 @@ It takes time to build up collection of tools used in ctf and remember them all.
 - [Exploit Exercises](https://exploit-exercises.com/) - Variety of VMs to learn variety of computer security issues
 - [Hack This Site](https://www.hackthissite.org/) - Training ground for hackers.
 - [Over The Wire](http://overthewire.org/wargames/) - Wargame maintained by OvertheWire Community
+- [VulnHub](https://www.vulnhub.com/) - VM-based for practical in digital security, computer application & network administration. 
 - [WeChall](https://www.wechall.net/) - Always online challenge site
 
 ## Websites
@@ -204,6 +206,7 @@ It takes time to build up collection of tools used in ctf and remember them all.
 
 *Collections of CTF write-ups*
 
+- [Captf](http://captf.com/) - Dumped CTF challenges and materials by psifertex
 - [CTF write-ups (community)](https://github.com/ctfs/) - CTF challenges + write-ups archive maintained by the community
 - [pwntools writeups](https://github.com/Gallopsled/pwntools-write-ups) - A collection of CTF write-ups all using pwntools
 - [Shell Storm](shell-storm.org/repo/CTF/) - CTF challenge archive maintained by Jonathan Salwan
