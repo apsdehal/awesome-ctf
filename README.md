@@ -143,6 +143,7 @@ It takes time to build up collection of tools used in ctf and remember them all.
 - [Revelo](http://www.kahusecurity.com/tools/Revelo_v0.6.zip) - Analyze obfuscated Javascript code
 
 *SWF Analyzers*
+- [RABCDAsm](https://github.com/CyberShadow/RABCDAsm) - Collection of utilities including an ActionScript 3 assembler/disassembler.
 - [swftools](http://www.swftools.org/) - Collection of utilities to work with SWF files
 - [xxxswf](https://bitbucket.org/Alexander_Hanel/xxxswf) -  A Python script for analyzing Flash files.
 
