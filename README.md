@@ -109,7 +109,7 @@ It takes time to build up collection of tools used in ctf and remember them all.
   - `apt-get install foremost`
 - [fsck.ext4](http://linux.die.net/man/8/fsck.ext3) - Used to fix corrupt filesystems
 - [Malzilla](http://malzilla.sourceforge.net/) - Malware hunting tool
-- [NetworkMiner](http://www.netresec.com/?page=NetworkMiner) - Network Forensic Analysis Tool 
+- [NetworkMiner](http://www.netresec.com/?page=NetworkMiner) - Network Forensic Analysis Tool
 - [PDF Streams Inflater](http://malzilla.sourceforge.net/downloads.html) - Find and extract zlib files compressed in PDF files
 - [ResourcesExtract](http://www.nirsoft.net/utils/resources_extract.html) - Extract various filetypes from exes
 - [Shellbags](https://github.com/williballenthin/shellbags) - Investigate NT\_USER.dat files
@@ -141,6 +141,10 @@ It takes time to build up collection of tools used in ctf and remember them all.
 
 - [Detox](http://relentless-coding.org/projects/jsdetox/install) - A Javascript malware analysis tool
 - [Revelo](http://www.kahusecurity.com/tools/Revelo_v0.6.zip) - Analyze obfuscated Javascript code
+
+*SWF Analyzers*
+- [swftools](http://www.swftools.org/) - Collection of utilities to work with SWF files
+- [xxxswf](https://bitbucket.org/Alexander_Hanel/xxxswf) -  A Python script for analyzing Flash files.
 
 ## Services
 
