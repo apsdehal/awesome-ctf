@@ -103,6 +103,7 @@ It takes time to build up collection of tools used in ctf and remember them all.
   - `apt-get install samdump2 bkhive`
 - [CFF Explorer](http://www.ntcore.com/exsuite.php) - PE Editor
 - [creddump](https://github.com/moyix/creddump) - Dump windows credentials
+- [Exif Tool](http://www.sno.phy.queensu.ca/~phil/exiftool/) - Read, write and edit file metadata
 - [extundelete](http://extundelete.sourceforge.net/) - Used for recovering lost data from mountable images
 - [Foremost](http://foremost.sourceforge.net/) - Extract particular kind of files using headers
   - `apt-get install foremost`
@@ -188,7 +189,7 @@ It takes time to build up collection of tools used in ctf and remember them all.
 - [Exploit Exercises](https://exploit-exercises.com/) - Variety of VMs to learn variety of computer security issues
 - [Hack This Site](https://www.hackthissite.org/) - Training ground for hackers.
 - [Over The Wire](http://overthewire.org/wargames/) - Wargame maintained by OvertheWire Community
-- [VulnHub](https://www.vulnhub.com/) - VM-based for practical in digital security, computer application & network administration. 
+- [VulnHub](https://www.vulnhub.com/) - VM-based for practical in digital security, computer application & network administration.
 - [WeChall](https://www.wechall.net/) - Always online challenge site
 
 ## Websites
