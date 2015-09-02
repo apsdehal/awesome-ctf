@@ -185,6 +185,7 @@ It takes time to build up collection of tools used in ctf and remember them all.
 - [CTF Field Guide](https://trailofbits.github.io/ctf/) - Field Guide by Trails of Bits
 - [CTF Resources](http://ctfs.github.io/resources/) -  Start Guide maintained by community
 - [How to Get Started in CTF](https://www.endgame.com/blog/how-get-started-ctf) - Short guideline for CTF beginners by Endgame
+- [MIPT CTF](https://github.com/xairy/mipt-ctf) - A small course for beginners in CTFs (in Russian)
 
 ## Wargames
 
