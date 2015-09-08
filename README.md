@@ -25,18 +25,18 @@ It takes time to build up collection of tools used in ctf and remember them all.
     - [Cryptography](#crypto)
     - [Exploits](#exploits)
     - [Forensics](#forensics-1)
-    - [Miscellaneous](#misc)
     - [Reversing](#reversing)
     - [Services](#services)
     - [Steganography](#stegano)
     - [Web](#web-1)
 
 - [Resources](#resources)
+  - [Starter Packs](#starter-packs)
   - [Tutorials](#tutorials)
   - [Wargames](#wargames)
   - [Websites](#websites)
   - [Wikis](#wikis)
-  - [Writeups Collections](#writeups)
+  - [Writeups Collections](#writeups-collections)
 
 # Create
 
