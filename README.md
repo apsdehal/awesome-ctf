@@ -178,6 +178,12 @@ It takes time to build up collection of tools used in ctf and remember them all.
 
 *Where to discover about CTF*
 
+## Starter Packs
+
+*Collections of installer scripts, useful tools*
+
+- [CTF Tools](https://github.com/zardus/ctf-tools) - Collection of setup scripts to install various security research tools.
+
 ## Tutorials
 
 *Tutorials to learn how to play CTFs*
