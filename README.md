@@ -103,6 +103,7 @@ It takes time to build up collection of tools used in ctf and remember them all.
   - `apt-get install samdump2 bkhive`
 - [CFF Explorer](http://www.ntcore.com/exsuite.php) - PE Editor
 - [creddump](https://github.com/moyix/creddump) - Dump windows credentials
+- [DVCS Ripper](https://github.com/kost/dvcs-ripper) - Rips web accessible (distributed) version control systems
 - [Exif Tool](http://www.sno.phy.queensu.ca/~phil/exiftool/) - Read, write and edit file metadata
 - [extundelete](http://extundelete.sourceforge.net/) - Used for recovering lost data from mountable images
 - [Foremost](http://foremost.sourceforge.net/) - Extract particular kind of files using headers
