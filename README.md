@@ -199,13 +199,13 @@ It takes time to build up collection of tools used in ctf and remember them all.
 
 *Always online CTFs*
 
-- [Backdoor](https://backdoor.sdslabs.co/) - Security Platform by SDSLabs
-- [Exploit Exercises](https://exploit-exercises.com/) - Variety of VMs to learn variety of computer security issues
+- [Backdoor](https://backdoor.sdslabs.co/) - Security Platform by SDSLabs.
+- [Exploit Exercises](https://exploit-exercises.com/) - Variety of VMs to learn variety of computer security issues.
 - [Hack This Site](https://www.hackthissite.org/) - Training ground for hackers.
 - [Over The Wire](http://overthewire.org/wargames/) - Wargame maintained by OvertheWire Community
 - [VulnHub](https://www.vulnhub.com/) - VM-based for practical in digital security, computer application & network administration.
-- [WeChall](https://www.wechall.net/) - Always online challenge site
-
+- [WeChall](https://www.wechall.net/) - Always online challenge site.
+- [SmashTheStack] (http://smashthestack.org/) - A variety of wargames maintained by the SmashTheStack Community.
 ## Websites
 
 *Various general websites about and on ctf*
