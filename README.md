@@ -90,6 +90,7 @@ It takes time to build up collection of tools used in ctf and remember them all.
 - [binjitsu](https://github.com/binjitsu/binjitsu/) - CTF framework and exploit development library
 - [Metasploit](http://www.metasploit.com/) - Penetration testing software
 - [pwntools](https://github.com/Gallopsled/pwntools) - CTF Framework for writing exploits
+- [ROP Gadget](https://github.com/JonathanSalwan/ROPgadget) - Framework for ROP exploitation
 
 ## Forensics
 
