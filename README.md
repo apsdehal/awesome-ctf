@@ -138,6 +138,7 @@ It takes time to build up collection of tools used in ctf and remember them all.
 - [Krakatau](https://github.com/Storyyeller/Krakatau) - Java decompiler and disassembler
 - [radare2](https://github.com/radare/radare2) - A portable reversing framework
 - [Uncompyle](https://github.com/gstarnberger/uncompyle) - Decompile Python 2.7 binaries (.pyc)
+- [WinDbg](http://www.windbg.org/) - Windows debugger distributed by Microsoft
 
 *JavaScript Deobfustcators*
 
