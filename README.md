@@ -66,6 +66,7 @@ It takes time to build up collection of tools used in ctf and remember them all.
 
 *Tools used for performing various kinds of attacks*
 
+- [Bettercap](https://github.com/evilsocket/bettercap) - Framework to perform MITM (Man in the Middle) attacks.
 - [Layer 2 attacks](https://github.com/tomac/yersinia) - Attack various protocols on layer 2
 
 ## Crypto
