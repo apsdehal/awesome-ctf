@@ -92,6 +92,7 @@ It takes time to build up collection of tools used in ctf and remember them all.
 - [binjitsu](https://github.com/binjitsu/binjitsu/) - CTF framework and exploit development library
 - [Metasploit](http://www.metasploit.com/) - Penetration testing software
 - [pwntools](https://github.com/Gallopsled/pwntools) - CTF Framework for writing exploits
+- [qira](https://github.com/BinaryAnalysisPlatform/qira) - QEMU Interactive Runtime Analyser
 - [ROP Gadget](https://github.com/JonathanSalwan/ROPgadget) - Framework for ROP exploitation
 
 ## Forensics
@@ -143,6 +144,7 @@ It takes time to build up collection of tools used in ctf and remember them all.
 - [radare2](https://github.com/radare/radare2) - A portable reversing framework
 - [Uncompyle](https://github.com/gstarnberger/uncompyle) - Decompile Python 2.7 binaries (.pyc)
 - [WinDbg](http://www.windbg.org/) - Windows debugger distributed by Microsoft
+- [z3](https://github.com/Z3Prover/z3) - a theorem prover from Microsoft Research
 
 *JavaScript Deobfustcators*
 
@@ -223,6 +225,7 @@ It takes time to build up collection of tools used in ctf and remember them all.
 
 *Various Wikis available for learning about CTFs*
 
+- [Bamboofox](https://bamboofox.torchpad.com/) - Chinese resources to learn CTF
 - [ISIS Lab](https://github.com/isislab/Project-Ideas/wiki) - CTF Wiki by Isis lab
 
 ## Writeups Collections
