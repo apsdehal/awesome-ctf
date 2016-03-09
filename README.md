@@ -1,4 +1,4 @@
-# Awesome CTF [![Build Status](https://travis-ci.org/apsdehal/awesome-ctf.svg?branch=master)](https://travis-ci.org/apsdehal/awesome-ctf)
+# Awesome CTF [![Build Status](https://travis-ci.org/apsdehal/awesome-ctf.svg?branch=master)](https://travis-ci.org/apsdehal/awesome-ctf) [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 
 A curated list of [Capture The Flag](https://en.wikipedia.org/wiki/Capture_the_flag#Computer_security) (CTF) frameworks, libraries, resources and softwares.
 
@@ -25,18 +25,18 @@ It takes time to build up collection of tools used in ctf and remember them all.
     - [Cryptography](#crypto)
     - [Exploits](#exploits)
     - [Forensics](#forensics-1)
-    - [Miscellaneous](#misc)
     - [Reversing](#reversing)
     - [Services](#services)
     - [Steganography](#stegano)
     - [Web](#web-1)
 
 - [Resources](#resources)
+  - [Starter Packs](#starter-packs)
   - [Tutorials](#tutorials)
   - [Wargames](#wargames)
   - [Websites](#websites)
   - [Wikis](#wikis)
-  - [Writeups Collections](#writeups)
+  - [Writeups Collections](#writeups-collections)
 
 # Create
 
@@ -66,6 +66,7 @@ It takes time to build up collection of tools used in ctf and remember them all.
 
 *Tools used for performing various kinds of attacks*
 
+- [Bettercap](https://github.com/evilsocket/bettercap) - Framework to perform MITM (Man in the Middle) attacks.
 - [Layer 2 attacks](https://github.com/tomac/yersinia) - Attack various protocols on layer 2
 
 ## Crypto
@@ -91,6 +92,8 @@ It takes time to build up collection of tools used in ctf and remember them all.
 - [binjitsu](https://github.com/binjitsu/binjitsu/) - CTF framework and exploit development library
 - [Metasploit](http://www.metasploit.com/) - Penetration testing software
 - [pwntools](https://github.com/Gallopsled/pwntools) - CTF Framework for writing exploits
+- [qira](https://github.com/BinaryAnalysisPlatform/qira) - QEMU Interactive Runtime Analyser
+- [ROP Gadget](https://github.com/JonathanSalwan/ROPgadget) - Framework for ROP exploitation
 
 ## Forensics
 
@@ -104,12 +107,14 @@ It takes time to build up collection of tools used in ctf and remember them all.
   - `apt-get install samdump2 bkhive`
 - [CFF Explorer](http://www.ntcore.com/exsuite.php) - PE Editor
 - [creddump](https://github.com/moyix/creddump) - Dump windows credentials
+- [DVCS Ripper](https://github.com/kost/dvcs-ripper) - Rips web accessible (distributed) version control systems
+- [Exif Tool](http://www.sno.phy.queensu.ca/~phil/exiftool/) - Read, write and edit file metadata
 - [extundelete](http://extundelete.sourceforge.net/) - Used for recovering lost data from mountable images
 - [Foremost](http://foremost.sourceforge.net/) - Extract particular kind of files using headers
   - `apt-get install foremost`
 - [fsck.ext4](http://linux.die.net/man/8/fsck.ext3) - Used to fix corrupt filesystems
 - [Malzilla](http://malzilla.sourceforge.net/) - Malware hunting tool
-- [NetworkMiner](http://www.netresec.com/?page=NetworkMiner) - Network Forensic Analysis Tool 
+- [NetworkMiner](http://www.netresec.com/?page=NetworkMiner) - Network Forensic Analysis Tool
 - [PDF Streams Inflater](http://malzilla.sourceforge.net/downloads.html) - Find and extract zlib files compressed in PDF files
 - [ResourcesExtract](http://www.nirsoft.net/utils/resources_extract.html) - Extract various filetypes from exes
 - [Shellbags](https://github.com/williballenthin/shellbags) - Investigate NT\_USER.dat files
@@ -132,15 +137,24 @@ It takes time to build up collection of tools used in ctf and remember them all.
 - [BinUtils](http://www.gnu.org/software/binutils/binutils.html) - Collection of binary tools
 - [BinWalk](https://github.com/devttys0/binwalk) - Analyze, reverse engineer, and extract firmware images.
 - [Boomerang](https://github.com/nemerle/boomerang) - Decompile x86 binaries to C
+- [GDB](https://www.gnu.org/software/gdb/) - The GNU project debugger
 - [IDA Pro](https://www.hex-rays.com/products/ida/) - Most used Reversing software
 - [Jadx](https://github.com/skylot/jadx) - Decompile Android files
 - [Krakatau](https://github.com/Storyyeller/Krakatau) - Java decompiler and disassembler
+- [radare2](https://github.com/radare/radare2) - A portable reversing framework
 - [Uncompyle](https://github.com/gstarnberger/uncompyle) - Decompile Python 2.7 binaries (.pyc)
+- [WinDbg](http://www.windbg.org/) - Windows debugger distributed by Microsoft
+- [z3](https://github.com/Z3Prover/z3) - a theorem prover from Microsoft Research
 
 *JavaScript Deobfustcators*
 
 - [Detox](http://relentless-coding.org/projects/jsdetox/install) - A Javascript malware analysis tool
 - [Revelo](http://www.kahusecurity.com/tools/Revelo_v0.6.zip) - Analyze obfuscated Javascript code
+
+*SWF Analyzers*
+- [RABCDAsm](https://github.com/CyberShadow/RABCDAsm) - Collection of utilities including an ActionScript 3 assembler/disassembler.
+- [swftools](http://www.swftools.org/) - Collection of utilities to work with SWF files
+- [xxxswf](https://bitbucket.org/Alexander_Hanel/xxxswf) -  A Python script for analyzing Flash files.
 
 ## Services
 
@@ -173,6 +187,12 @@ It takes time to build up collection of tools used in ctf and remember them all.
 
 *Where to discover about CTF*
 
+## Starter Packs
+
+*Collections of installer scripts, useful tools*
+
+- [CTF Tools](https://github.com/zardus/ctf-tools) - Collection of setup scripts to install various security research tools.
+
 ## Tutorials
 
 *Tutorials to learn how to play CTFs*
@@ -180,17 +200,19 @@ It takes time to build up collection of tools used in ctf and remember them all.
 - [CTF Field Guide](https://trailofbits.github.io/ctf/) - Field Guide by Trails of Bits
 - [CTF Resources](http://ctfs.github.io/resources/) -  Start Guide maintained by community
 - [How to Get Started in CTF](https://www.endgame.com/blog/how-get-started-ctf) - Short guideline for CTF beginners by Endgame
+- [MIPT CTF](https://github.com/xairy/mipt-ctf) - A small course for beginners in CTFs (in Russian)
 
 ## Wargames
 
 *Always online CTFs*
 
-- [Backdoor](https://backdoor.sdslabs.co/) - Security Platform by SDSLabs
-- [Exploit Exercises](https://exploit-exercises.com/) - Variety of VMs to learn variety of computer security issues
+- [Backdoor](https://backdoor.sdslabs.co/) - Security Platform by SDSLabs.
+- [Exploit Exercises](https://exploit-exercises.com/) - Variety of VMs to learn variety of computer security issues.
 - [Hack This Site](https://www.hackthissite.org/) - Training ground for hackers.
 - [Over The Wire](http://overthewire.org/wargames/) - Wargame maintained by OvertheWire Community
-- [VulnHub](https://www.vulnhub.com/) - VM-based for practical in digital security, computer application & network administration. 
-- [WeChall](https://www.wechall.net/) - Always online challenge site
+- [SmashTheStack](http://smashthestack.org/) - A variety of wargames maintained by the SmashTheStack Community.
+- [VulnHub](https://www.vulnhub.com/) - VM-based for practical in digital security, computer application & network administration.
+- [WeChall](https://www.wechall.net/) - Always online challenge site.
 
 ## Websites
 
@@ -203,6 +225,7 @@ It takes time to build up collection of tools used in ctf and remember them all.
 
 *Various Wikis available for learning about CTFs*
 
+- [Bamboofox](https://bamboofox.torchpad.com/) - Chinese resources to learn CTF
 - [ISIS Lab](https://github.com/isislab/Project-Ideas/wiki) - CTF Wiki by Isis lab
 
 ## Writeups Collections
