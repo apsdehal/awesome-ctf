@@ -18,6 +18,7 @@ It takes time to build up collection of tools used in ctf and remember them all.
 - [Awesome CTF](#awesome-ctf)
   - [Create](#create)
     - [Forensics](#forensics)
+    - [Platforms](#platforms)
     - [Web](#web)
   - [Solve](#solve)
     - [Attacks](#attacks)
@@ -47,6 +48,10 @@ It takes time to build up collection of tools used in ctf and remember them all.
 *Tools used for creating Forensics challenges*
 
 - [Registry Dumper](http://www.kahusecurity.com/tools/RegistryDumper_v0.1.zip) - Dump your registry
+
+## Platforms
+
+- [fbctf](https://github.com/facebook/fbctf) - Platform to host Capture the Flag competitions from Facebook
 
 ## Web
 
