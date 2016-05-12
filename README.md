@@ -51,7 +51,10 @@ It takes time to build up collection of tools used in ctf and remember them all.
 
 ## Platforms
 
+- [CTFd](https://github.com/isislab/CTFd) - Platform to host jeopardy style CTFs from ISISLab, NYU Tandon
 - [fbctf](https://github.com/facebook/fbctf) - Platform to host Capture the Flag competitions from Facebook
+- [Mellivora](https://github.com/Nakiami/mellivora) - A CTF engine written in PHP
+- [Scorebot](https://github.com/legitbs/scorebot) - Platform for CTFs by Legitbs (Defcon)
 
 ## Web
 
