@@ -1,6 +1,6 @@
 # Awesome CTF [![Build Status](https://travis-ci.org/apsdehal/awesome-ctf.svg?branch=master)](https://travis-ci.org/apsdehal/awesome-ctf) [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 
-A curated list of [Capture The Flag](https://en.wikipedia.org/wiki/Capture_the_flag#Computer_security) (CTF) frameworks, libraries, resources and softwares.
+A curated list of [Capture The Flag](https://en.wikipedia.org/wiki/Capture_the_flag#Computer_security) (CTF) frameworks, libraries, resources, softwares and tutorials. This list aims to help starters as well as seasoned CTF players to find everything related to CTFs at one place.
 
 ### Contributing
 
@@ -50,6 +50,8 @@ It takes time to build up collection of tools used in ctf and remember them all.
 - [Registry Dumper](http://www.kahusecurity.com/tools/RegistryDumper_v0.1.zip) - Dump your registry
 
 ## Platforms
+
+*Projects that can be used to host a CTF*
 
 - [CTFd](https://github.com/isislab/CTFd) - Platform to host jeopardy style CTFs from ISISLab, NYU Tandon
 - [fbctf](https://github.com/facebook/fbctf) - Platform to host Capture the Flag competitions from Facebook
@@ -219,11 +221,12 @@ It takes time to build up collection of tools used in ctf and remember them all.
 - [Exploit Exercises](https://exploit-exercises.com/) - Variety of VMs to learn variety of computer security issues.
 - [Hack This Site](https://www.hackthissite.org/) - Training ground for hackers.
 - [Over The Wire](http://overthewire.org/wargames/) - Wargame maintained by OvertheWire Community
+- [Pwnable.kr](https://pwnable.kr/) - Pwn Game
 - [Ringzer0Team](https://ringzer0team.com/) - Ringzer0 Team Online CTF
 - [SmashTheStack](http://smashthestack.org/) - A variety of wargames maintained by the SmashTheStack Community.
 - [VulnHub](https://www.vulnhub.com/) - VM-based for practical in digital security, computer application & network administration.
+- [WebHacking](http://webhacking.kr) - Hacking challenges for web.
 - [WeChall](https://www.wechall.net/) - Always online challenge site.
-- [Pwnable.kr](https://pwnable.kr/) - Pwn Game
 
 ## Websites
 
@@ -239,7 +242,7 @@ It takes time to build up collection of tools used in ctf and remember them all.
 - [Bamboofox](https://bamboofox.torchpad.com/) - Chinese resources to learn CTF
 - [ISIS Lab](https://github.com/isislab/Project-Ideas/wiki) - CTF Wiki by Isis lab
 - [OpenToAll](http://wiki.opentoallctf.com/) - Open To All Knowledge Base
-- 
+
 ## Writeups Collections
 
 *Collections of CTF write-ups*
