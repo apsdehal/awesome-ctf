@@ -142,6 +142,7 @@ It takes time to build up collection of tools used in ctf and remember them all.
 *Tools used for solving Reversing challenges*
 
 - [Androguard](https://github.com/androguard/androguard) - Reverse engineer Android applications
+- [angr](https://github.com/angr/angr) - platform-agnostic binary analysis framework
 - [Apk2Gold](https://github.com/lxdvs/apk2gold) - Yet another Android decompiler
 - [ApkTool](http://ibotpeaches.github.io/Apktool/) - Android Decompiler
 - [BinUtils](http://www.gnu.org/software/binutils/binutils.html) - Collection of binary tools
