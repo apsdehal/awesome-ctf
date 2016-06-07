@@ -142,8 +142,10 @@ It takes time to build up collection of tools used in ctf and remember them all.
 *Tools used for solving Reversing challenges*
 
 - [Androguard](https://github.com/androguard/androguard) - Reverse engineer Android applications
+- [angr](https://github.com/angr/angr) - platform-agnostic binary analysis framework
 - [Apk2Gold](https://github.com/lxdvs/apk2gold) - Yet another Android decompiler
 - [ApkTool](http://ibotpeaches.github.io/Apktool/) - Android Decompiler
+- [Barf](https://github.com/programa-stic/barf-project) - Binary Analysis and Reverse engineering Framework
 - [BinUtils](http://www.gnu.org/software/binutils/binutils.html) - Collection of binary tools
 - [BinWalk](https://github.com/devttys0/binwalk) - Analyze, reverse engineer, and extract firmware images.
 - [Boomerang](https://github.com/nemerle/boomerang) - Decompile x86 binaries to C
@@ -219,7 +221,9 @@ It takes time to build up collection of tools used in ctf and remember them all.
 - [Backdoor](https://backdoor.sdslabs.co/) - Security Platform by SDSLabs.
 - [Ctfs.me](http://ctfs.me) - CTF All the time
 - [Exploit Exercises](https://exploit-exercises.com/) - Variety of VMs to learn variety of computer security issues.
+- [Gracker](http://gracker.org) - Binary challenges having a slow learning curve, and write-ups for each level.
 - [Hack This Site](https://www.hackthissite.org/) - Training ground for hackers.
+- [IO](http://io.netgarage.org/) - Wargame for binary challenges.
 - [Over The Wire](http://overthewire.org/wargames/) - Wargame maintained by OvertheWire Community
 - [Pwnable.kr](https://pwnable.kr/) - Pwn Game
 - [Ringzer0Team](https://ringzer0team.com/) - Ringzer0 Team Online CTF
