@@ -150,6 +150,7 @@ It takes time to build up collection of tools used in ctf and remember them all.
 - [BinWalk](https://github.com/devttys0/binwalk) - Analyze, reverse engineer, and extract firmware images.
 - [Boomerang](https://github.com/nemerle/boomerang) - Decompile x86 binaries to C
 - [GDB](https://www.gnu.org/software/gdb/) - The GNU project debugger
+- [Hopper](http://www.hopperapp.com/) - Reverse engineering tool (disassembler) for OSX and Linux
 - [IDA Pro](https://www.hex-rays.com/products/ida/) - Most used Reversing software
 - [Jadx](https://github.com/skylot/jadx) - Decompile Android files
 - [Krakatau](https://github.com/Storyyeller/Krakatau) - Java decompiler and disassembler
@@ -179,6 +180,8 @@ It takes time to build up collection of tools used in ctf and remember them all.
 
 *Tools used for solving Steganography challenges*
 
+- [Convert](http://www.imagemagick.org/script/convert.php) - Convert images b/w formats and apply filters
+- [ImageMagick](http://www.imagemagick.org/script/index.php) - Tool for manipulating images
 - [pngtools](http://www.stillhq.com/pngtools/) - For various analysis related to PNGs
   - `apt-get install pngtools`
 - [SmartDeblur](https://github.com/Y-Vladimir/SmartDeblur) - Used to deblur and fix defocused images
