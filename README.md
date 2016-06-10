@@ -19,6 +19,7 @@ It takes time to build up collection of tools used in ctf and remember them all.
   - [Create](#create)
     - [Forensics](#forensics)
     - [Platforms](#platforms)
+    - [Steganography](#steganography)
     - [Web](#web)
   - [Solve](#solve)
     - [Attacks](#attacks)
@@ -57,6 +58,13 @@ It takes time to build up collection of tools used in ctf and remember them all.
 - [fbctf](https://github.com/facebook/fbctf) - Platform to host Capture the Flag competitions from Facebook
 - [Mellivora](https://github.com/Nakiami/mellivora) - A CTF engine written in PHP
 - [Scorebot](https://github.com/legitbs/scorebot) - Platform for CTFs by Legitbs (Defcon)
+
+## Steganography
+
+*Tools used to create stego challenges*
+
+Check solve section for steganography.
+
 
 ## Web
 
