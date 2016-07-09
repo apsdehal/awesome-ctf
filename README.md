@@ -273,4 +273,4 @@ Check solve section for steganography.
 
 ### LICENSE
 
-MIT :)
+CC0 :)
