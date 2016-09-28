@@ -30,7 +30,7 @@ It takes time to build up collection of tools used in ctf and remember them all.
     - [Networking](#networking)
     - [Reversing](#reversing)
     - [Services](#services)
-    - [Steganography](#steganograpy-1)
+    - [Steganography](#steganography-1)
     - [Web](#web-1)
 
 - [Resources](#resources)
