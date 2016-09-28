@@ -30,7 +30,7 @@ It takes time to build up collection of tools used in ctf and remember them all.
     - [Networking](#networking)
     - [Reversing](#reversing)
     - [Services](#services)
-    - [Steganography](#stegano)
+    - [Steganography](#steganograpy-1)
     - [Web](#web-1)
 
 - [Resources](#resources)
@@ -200,16 +200,21 @@ Check solve section for steganography.
 - [CSWSH](http://ironwasp.org/cswsh.html) - Cross-Site WebSocket Hijacking Tester
 - [Request Bin](http://requestb.in/) - Lets you inspect http requests to a particular url
 
-## Stegano
+## Steganography
 
 *Tools used for solving Steganography challenges*
 
 - [Convert](http://www.imagemagick.org/script/convert.php) - Convert images b/w formats and apply filters
+- [exif](http://manpages.ubuntu.com/manpages/trusty/man1/exif.1.html) - shows EXIF information in JPEG files
+- [exiftool](https://linux.die.net/man/1/exiftool) - Read and write meta information in files
+- [exiv2](http://www.exiv2.org/manpage.html) - Image metadata manipulation tool
 - [ImageMagick](http://www.imagemagick.org/script/index.php) - Tool for manipulating images
+- [outguess](https://www.freebsd.org/cgi/man.cgi?query=outguess+&apropos=0&sektion=0&manpath=FreeBSD+Ports+5.1-RELEASE&format=html) - universal steganographic tool
 - [pngtools](http://www.stillhq.com/pngtools/) - For various analysis related to PNGs
   - `apt-get install pngtools`
 - [SmartDeblur](https://github.com/Y-Vladimir/SmartDeblur) - Used to deblur and fix defocused images
 - [Steganabara](https://www.openhub.net/p/steganabara) -  Tool for stegano analysis written in Java
+- [stegbreak](https://linux.die.net/man/1/stegbreak) - launches brute-force dictionary attacks on JPG image
 - [Steghide](http://steghide.sourceforge.net/) - Hide data in various kind of images
 - [Stegsolve](http://www.caesum.com/handbook/Stegsolve.jar) - Apply various steganography techniques to images
 
