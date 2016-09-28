@@ -200,23 +200,6 @@ Check solve section for steganography.
 - [CSWSH](http://ironwasp.org/cswsh.html) - Cross-Site WebSocket Hijacking Tester
 - [Request Bin](http://requestb.in/) - Lets you inspect http requests to a particular url
 
-## Operating Systems
-
-*Penetration testing and security lab Operating Systems*
-
-- [BackBox](https://backbox.org/) - based on Ubuntu
-- [BlackArch Linux](https://blackarch.org/) - based on Arch Linux
-- [Fedora Security Lab](https://labs.fedoraproject.org/security/) - based on Fedora
-- [Kali Linux](https://www.kali.org/) - based on Debian
-- [Parrot Security OS](https://www.parrotsec.org/) - based on Debian
-- [Pentoo](http://www.pentoo.ch/) - based on Gentoo
-- [URIX OS](http://urix.us/) - based on openSUSE
-- [Wifislax](http://www.wifislax.com/) - based on Slackware
-
-*Malware analysts and reverse-engineering*
-
-- [REMnux](https://remnux.org/) - based on Debian
-
 ## Stegano
 
 *Tools used for solving Steganography challenges*
@@ -242,6 +225,23 @@ Check solve section for steganography.
 # Resources
 
 *Where to discover about CTF*
+
+## Operating Systems
+
+*Penetration testing and security lab Operating Systems*
+
+- [BackBox](https://backbox.org/) - based on Ubuntu
+- [BlackArch Linux](https://blackarch.org/) - based on Arch Linux
+- [Fedora Security Lab](https://labs.fedoraproject.org/security/) - based on Fedora
+- [Kali Linux](https://www.kali.org/) - based on Debian
+- [Parrot Security OS](https://www.parrotsec.org/) - based on Debian
+- [Pentoo](http://www.pentoo.ch/) - based on Gentoo
+- [URIX OS](http://urix.us/) - based on openSUSE
+- [Wifislax](http://www.wifislax.com/) - based on Slackware
+
+*Malware analysts and reverse-engineering*
+
+- [REMnux](https://remnux.org/) - based on Debian
 
 ## Starter Packs
 
