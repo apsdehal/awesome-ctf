@@ -27,6 +27,7 @@ It takes time to build up collection of tools used in ctf and remember them all.
     - [Cryptography](#crypto)
     - [Exploits](#exploits)
     - [Forensics](#forensics-1)
+    - [Networking](#networking)
     - [Reversing](#reversing)
     - [Services](#services)
     - [Steganography](#stegano)
@@ -143,12 +144,22 @@ Check solve section for steganography.
 - [Shellbags](https://github.com/williballenthin/shellbags) - Investigate NT\_USER.dat files
 - [UsbForensics](http://www.forensicswiki.org/wiki/USB_History_Viewing) - Contains many tools for usb forensics
 - [Volatility](https://github.com/volatilityfoundation/volatility) - To investigate memory dumps
-- [Wireshark](https://www.wireshark.org/) - Analyze the network dumps
-  - `apt-get install wireshark`
+
 
 *Registry Viewers*
 - [RegistryViewer](http://www.gaijin.at/en/getitpage.php?id=regview) - Used to view windows registries
 - [Windows Registry Viewers](http://www.forensicswiki.org/wiki/Windows_Registry) - More registry viewers
+
+
+## Networking
+
+*Tools used for solving Networking challenges*
+
+- [Masscan](https://github.com/robertdavidgraham/masscan) - Mass IP port scanner, TCP port scanner
+- [Nmap](https://nmap.org/) - open source utility for network discovery and security auditing
+- [Wireshark](https://www.wireshark.org/) - Analyze the network dumps
+  - `apt-get install wireshark`
+- [Zmap](https://zmap.io/) - an open-source network scanner
 
 ## Reversing
 
