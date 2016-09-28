@@ -33,6 +33,7 @@ It takes time to build up collection of tools used in ctf and remember them all.
     - [Web](#web-1)
 
 - [Resources](#resources)
+  - [Operating Systems](#operating-systems)
   - [Starter Packs](#starter-packs)
   - [Tutorials](#tutorials)
   - [Wargames](#wargames)
@@ -187,6 +188,23 @@ Check solve section for steganography.
 
 - [CSWSH](http://ironwasp.org/cswsh.html) - Cross-Site WebSocket Hijacking Tester
 - [Request Bin](http://requestb.in/) - Lets you inspect http requests to a particular url
+
+## Operating Systems
+
+*Penetration testing and security lab Operating Systems*
+
+- [BackBox](https://backbox.org/) - based on Ubuntu
+- [BlackArch Linux](https://blackarch.org/) - based on Arch Linux
+- [Fedora Security Lab](https://labs.fedoraproject.org/security/) - based on Fedora
+- [Kali Linux](https://www.kali.org/) - based on Debian
+- [Parrot Security OS](https://www.parrotsec.org/) - based on Debian
+- [Pentoo](http://www.pentoo.ch/) - based on Gentoo
+- [URIX OS](http://urix.us/) - based on openSUSE
+- [Wifislax](http://www.wifislax.com/) - based on Slackware
+
+*Malware analysts and reverse-engineering*
+
+- [REMnux](https://remnux.org/) - based on Debian
 
 ## Stegano
 
