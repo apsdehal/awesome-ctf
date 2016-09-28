@@ -27,7 +27,7 @@ It takes time to build up collection of tools used in ctf and remember them all.
     - [Cryptography](#crypto)
     - [Exploits](#exploits)
     - [Forensics](#forensics-1)
-    - [Networking](#networking]
+    - [Networking](#networking)
     - [Reversing](#reversing)
     - [Services](#services)
     - [Steganography](#stegano)
