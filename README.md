@@ -30,7 +30,7 @@ It takes time to build up collection of tools used in ctf and remember them all.
     - [Networking](#networking)
     - [Reversing](#reversing)
     - [Services](#services)
-    - [Steganography](#stegano)
+    - [Steganography](#steganography-1)
     - [Web](#web-1)
 
 - [Resources](#resources)
@@ -57,7 +57,7 @@ It takes time to build up collection of tools used in ctf and remember them all.
 *Projects that can be used to host a CTF*
 
 - [CTFd](https://github.com/isislab/CTFd) - Platform to host jeopardy style CTFs from ISISLab, NYU Tandon
-- [fbctf](https://github.com/facebook/fbctf) - Platform to host Capture the Flag competitions from Facebook
+- [FBCTF](https://github.com/facebook/fbctf) - Platform to host Capture the Flag competitions from Facebook
 - [Mellivora](https://github.com/Nakiami/mellivora) - A CTF engine written in PHP
 - [NightShade](https://github.com/UnrealAkama/NightShade) - A simple security CTF framework
 - [Scorebot](https://github.com/legitbs/scorebot) - Platform for CTFs by Legitbs (Defcon)
@@ -111,11 +111,11 @@ Check solve section for steganography.
 
 *Tools used for solving Exploits challenges*
 
-- [binjitsu](https://github.com/binjitsu/binjitsu/) - CTF framework and exploit development library
+- [Binjitsu](https://github.com/binjitsu/binjitsu/) - CTF framework and exploit development library
 - [DLLInjector](https://github.com/OpenSecurityResearch/dllinjector) - Inject dlls in processes
 - [Metasploit](http://www.metasploit.com/) - Penetration testing software
-- [pwntools](https://github.com/Gallopsled/pwntools) - CTF Framework for writing exploits
-- [qira](https://github.com/BinaryAnalysisPlatform/qira) - QEMU Interactive Runtime Analyser
+- [Pwntools](https://github.com/Gallopsled/pwntools) - CTF Framework for writing exploits
+- [Qira](https://github.com/BinaryAnalysisPlatform/qira) - QEMU Interactive Runtime Analyser
 - [ROP Gadget](https://github.com/JonathanSalwan/ROPgadget) - Framework for ROP exploitation
 
 ## Forensics
@@ -126,17 +126,17 @@ Check solve section for steganography.
   - `apt-get install aircrack-ng`
 - [Audacity](http://sourceforge.net/projects/audacity/) - Analyze sound files (mp3, m4a, whatever)
   - `apt-get install audacity`
-- [bkhive and samdump2](http://sourceforge.net/projects/ophcrack/files/samdump2/) - Dump SYSTEM and SAM files
+- [Bkhive and Samdump2](http://sourceforge.net/projects/ophcrack/files/samdump2/) - Dump SYSTEM and SAM files
   - `apt-get install samdump2 bkhive`
 - [CFF Explorer](http://www.ntcore.com/exsuite.php) - PE Editor
-- [creddump](https://github.com/moyix/creddump) - Dump windows credentials
+- [Creddump](https://github.com/moyix/creddump) - Dump windows credentials
 - [DVCS Ripper](https://github.com/kost/dvcs-ripper) - Rips web accessible (distributed) version control systems
 - [Exif Tool](http://www.sno.phy.queensu.ca/~phil/exiftool/) - Read, write and edit file metadata
-- [extundelete](http://extundelete.sourceforge.net/) - Used for recovering lost data from mountable images
+- [Extundelete](http://extundelete.sourceforge.net/) - Used for recovering lost data from mountable images
 - [Fibratus](https://github.com/rabbitstack/fibratus) - Tool for exploration and tracing of the Windows kernel
 - [Foremost](http://foremost.sourceforge.net/) - Extract particular kind of files using headers
   - `apt-get install foremost`
-- [fsck.ext4](http://linux.die.net/man/8/fsck.ext3) - Used to fix corrupt filesystems
+- [Fsck.ext4](http://linux.die.net/man/8/fsck.ext3) - Used to fix corrupt filesystems
 - [Malzilla](http://malzilla.sourceforge.net/) - Malware hunting tool
 - [NetworkMiner](http://www.netresec.com/?page=NetworkMiner) - Network Forensic Analysis Tool
 - [PDF Streams Inflater](http://malzilla.sourceforge.net/downloads.html) - Find and extract zlib files compressed in PDF files
@@ -166,7 +166,7 @@ Check solve section for steganography.
 *Tools used for solving Reversing challenges*
 
 - [Androguard](https://github.com/androguard/androguard) - Reverse engineer Android applications
-- [angr](https://github.com/angr/angr) - platform-agnostic binary analysis framework
+- [Angr](https://github.com/angr/angr) - platform-agnostic binary analysis framework
 - [Apk2Gold](https://github.com/lxdvs/apk2gold) - Yet another Android decompiler
 - [ApkTool](http://ibotpeaches.github.io/Apktool/) - Android Decompiler
 - [Barf](https://github.com/programa-stic/barf-project) - Binary Analysis and Reverse engineering Framework
@@ -181,7 +181,7 @@ Check solve section for steganography.
 - [radare2](https://github.com/radare/radare2) - A portable reversing framework
 - [Uncompyle](https://github.com/gstarnberger/uncompyle) - Decompile Python 2.7 binaries (.pyc)
 - [WinDbg](http://www.windbg.org/) - Windows debugger distributed by Microsoft
-- [z3](https://github.com/Z3Prover/z3) - a theorem prover from Microsoft Research
+- [Z3](https://github.com/Z3Prover/z3) - a theorem prover from Microsoft Research
 
 *JavaScript Deobfustcators*
 
@@ -190,8 +190,8 @@ Check solve section for steganography.
 
 *SWF Analyzers*
 - [RABCDAsm](https://github.com/CyberShadow/RABCDAsm) - Collection of utilities including an ActionScript 3 assembler/disassembler.
-- [swftools](http://www.swftools.org/) - Collection of utilities to work with SWF files
-- [xxxswf](https://bitbucket.org/Alexander_Hanel/xxxswf) -  A Python script for analyzing Flash files.
+- [Swftools](http://www.swftools.org/) - Collection of utilities to work with SWF files
+- [Xxxswf](https://bitbucket.org/Alexander_Hanel/xxxswf) -  A Python script for analyzing Flash files.
 
 ## Services
 
@@ -200,16 +200,21 @@ Check solve section for steganography.
 - [CSWSH](http://ironwasp.org/cswsh.html) - Cross-Site WebSocket Hijacking Tester
 - [Request Bin](http://requestb.in/) - Lets you inspect http requests to a particular url
 
-## Stegano
+## Steganography
 
 *Tools used for solving Steganography challenges*
 
 - [Convert](http://www.imagemagick.org/script/convert.php) - Convert images b/w formats and apply filters
+- [Exif](http://manpages.ubuntu.com/manpages/trusty/man1/exif.1.html) - Shows EXIF information in JPEG files
+- [Exiftool](https://linux.die.net/man/1/exiftool) - Read and write meta information in files
+- [Exiv2](http://www.exiv2.org/manpage.html) - Image metadata manipulation tool
 - [ImageMagick](http://www.imagemagick.org/script/index.php) - Tool for manipulating images
-- [pngtools](http://www.stillhq.com/pngtools/) - For various analysis related to PNGs
+- [Outguess](https://www.freebsd.org/cgi/man.cgi?query=outguess+&apropos=0&sektion=0&manpath=FreeBSD+Ports+5.1-RELEASE&format=html) - Universal steganographic tool
+- [Pngtools](http://www.stillhq.com/pngtools/) - For various analysis related to PNGs
   - `apt-get install pngtools`
 - [SmartDeblur](https://github.com/Y-Vladimir/SmartDeblur) - Used to deblur and fix defocused images
 - [Steganabara](https://www.openhub.net/p/steganabara) -  Tool for stegano analysis written in Java
+- [Stegbreak](https://linux.die.net/man/1/stegbreak) - Launches brute-force dictionary attacks on JPG image
 - [Steghide](http://steghide.sourceforge.net/) - Hide data in various kind of images
 - [Stegsolve](http://www.caesum.com/handbook/Stegsolve.jar) - Apply various steganography techniques to images
 
@@ -218,7 +223,7 @@ Check solve section for steganography.
 *Tools used for solving Web challenges*
 
 - [SQLMap](https://github.com/sqlmapproject/sqlmap) - Automatic SQL injection and database takeover tooli
-- [w3af](https://github.com/andresriancho/w3af) -  Web Application Attack and Audit Framework.
+- [W3af](https://github.com/andresriancho/w3af) -  Web Application Attack and Audit Framework.
 - [XSSer](http://xsser.sourceforge.net/) - Automated XSS testor
 
 
@@ -230,18 +235,18 @@ Check solve section for steganography.
 
 *Penetration testing and security lab Operating Systems*
 
-- [BackBox](https://backbox.org/) - based on Ubuntu
-- [BlackArch Linux](https://blackarch.org/) - based on Arch Linux
-- [Fedora Security Lab](https://labs.fedoraproject.org/security/) - based on Fedora
-- [Kali Linux](https://www.kali.org/) - based on Debian
-- [Parrot Security OS](https://www.parrotsec.org/) - based on Debian
-- [Pentoo](http://www.pentoo.ch/) - based on Gentoo
-- [URIX OS](http://urix.us/) - based on openSUSE
-- [Wifislax](http://www.wifislax.com/) - based on Slackware
+- [BackBox](https://backbox.org/) - Based on Ubuntu
+- [BlackArch Linux](https://blackarch.org/) - Based on Arch Linux
+- [Fedora Security Lab](https://labs.fedoraproject.org/security/) - Based on Fedora
+- [Kali Linux](https://www.kali.org/) - Based on Debian
+- [Parrot Security OS](https://www.parrotsec.org/) - Based on Debian
+- [Pentoo](http://www.pentoo.ch/) - Based on Gentoo
+- [URIX OS](http://urix.us/) - Based on openSUSE
+- [Wifislax](http://www.wifislax.com/) - Based on Slackware
 
 *Malware analysts and reverse-engineering*
 
-- [REMnux](https://remnux.org/) - based on Debian
+- [REMnux](https://remnux.org/) - Based on Debian
 
 ## Starter Packs
 
