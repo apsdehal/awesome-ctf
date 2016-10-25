@@ -74,7 +74,9 @@ Check solve section for steganography.
 
 *Tools used for creating Web challenges*
 
-*JavaScript Obfustcators*
+- [Damn Vulnerable Web Application](http://www.dvwa.co.uk/) PHP/MySQL web application that is d*** vulnerable
+
+*JavaScript Obfuscators*
 
 - [Metasploit JavaScript Obfustcator](https://github.com/rapid7/metasploit-framework/wiki/How-to-obfuscate-JavaScript-in-Metasploit)
 - [Uglify](http://marijnhaverbeke.nl//uglifyjs)
@@ -253,6 +255,7 @@ Check solve section for steganography.
 *Collections of installer scripts, useful tools*
 
 - [CTF Tools](https://github.com/zardus/ctf-tools) - Collection of setup scripts to install various security research tools.
+- [LazyKali](https://github.com/jlevitsk/lazykali) - A 2016 refresh of LazyKali which simplifies install of tools and configuration.
 
 ## Tutorials
 
@@ -274,6 +277,7 @@ Check solve section for steganography.
 - [Hack This Site](https://www.hackthissite.org/) - Training ground for hackers.
 - [IO](http://io.netgarage.org/) - Wargame for binary challenges.
 - [Over The Wire](http://overthewire.org/wargames/) - Wargame maintained by OvertheWire Community
+- [PicoCTF](https://picoctf.com/) - While picoCTF 2014 is now over, you may still play through the competition.
 - [Pwnable.kr](https://pwnable.kr/) - Pwn Game
 - [Ringzer0Team](https://ringzer0team.com/) - Ringzer0 Team Online CTF
 - [SmashTheStack](http://smashthestack.org/) - A variety of wargames maintained by the SmashTheStack Community.
