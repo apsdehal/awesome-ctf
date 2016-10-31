@@ -174,8 +174,11 @@ Check solve section for steganography.
 - [BinWalk](https://github.com/devttys0/binwalk) - Analyze, reverse engineer, and extract firmware images.
 - [Boomerang](https://github.com/nemerle/boomerang) - Decompile x86 binaries to C
 - [GDB](https://www.gnu.org/software/gdb/) - The GNU project debugger
+- [PEDA](https://github.com/longld/peda) - GDB plugin (only python2.7)
+- [GEF](https://github.com/hugsy/gef) - GDB plugin
 - [Hopper](http://www.hopperapp.com/) - Reverse engineering tool (disassembler) for OSX and Linux
 - [IDA Pro](https://www.hex-rays.com/products/ida/) - Most used Reversing software
+- [Binary Ninja](https://binary.ninja/) - Binary analysis framework
 - [Jadx](https://github.com/skylot/jadx) - Decompile Android files
 - [Krakatau](https://github.com/Storyyeller/Krakatau) - Java decompiler and disassembler
 - [radare2](https://github.com/radare/radare2) - A portable reversing framework
