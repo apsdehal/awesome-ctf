@@ -170,14 +170,17 @@ Check solve section for steganography.
 - [Apk2Gold](https://github.com/lxdvs/apk2gold) - Yet another Android decompiler
 - [ApkTool](http://ibotpeaches.github.io/Apktool/) - Android Decompiler
 - [Barf](https://github.com/programa-stic/barf-project) - Binary Analysis and Reverse engineering Framework
+- [Binary Ninja](https://binary.ninja/) - Binary analysis framework
 - [BinUtils](http://www.gnu.org/software/binutils/binutils.html) - Collection of binary tools
 - [BinWalk](https://github.com/devttys0/binwalk) - Analyze, reverse engineer, and extract firmware images.
 - [Boomerang](https://github.com/nemerle/boomerang) - Decompile x86 binaries to C
 - [GDB](https://www.gnu.org/software/gdb/) - The GNU project debugger
+- [GEF](https://github.com/hugsy/gef) - GDB plugin
 - [Hopper](http://www.hopperapp.com/) - Reverse engineering tool (disassembler) for OSX and Linux
 - [IDA Pro](https://www.hex-rays.com/products/ida/) - Most used Reversing software
 - [Jadx](https://github.com/skylot/jadx) - Decompile Android files
 - [Krakatau](https://github.com/Storyyeller/Krakatau) - Java decompiler and disassembler
+- [PEDA](https://github.com/longld/peda) - GDB plugin (only python2.7)
 - [radare2](https://github.com/radare/radare2) - A portable reversing framework
 - [Uncompyle](https://github.com/gstarnberger/uncompyle) - Decompile Python 2.7 binaries (.pyc)
 - [WinDbg](http://www.windbg.org/) - Windows debugger distributed by Microsoft
