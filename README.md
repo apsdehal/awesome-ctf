@@ -118,6 +118,7 @@ Check solve section for steganography.
 - [Pwntools](https://github.com/Gallopsled/pwntools) - CTF Framework for writing exploits
 - [Qira](https://github.com/BinaryAnalysisPlatform/qira) - QEMU Interactive Runtime Analyser
 - [ROP Gadget](https://github.com/JonathanSalwan/ROPgadget) - Framework for ROP exploitation
+- [v0lt](https://github.com/P1kachu/v0lt) - Security CTF Toolkit
 
 ## Forensics
 
