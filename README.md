@@ -184,6 +184,7 @@ Check solve section for steganography.
 - [Java Decompilers](http://www.javadecompilers.com) - An online decompiler for Java and Android APKs
 - [Krakatau](https://github.com/Storyyeller/Krakatau) - Java decompiler and disassembler
 - [PEDA](https://github.com/longld/peda) - GDB plugin (only python2.7)
+- [Plasma](https://github.com/joelpx/plasma) - An interactive disassembler for x86/ARM/MIPS which can generate indented pseudo-code with colored syntax.
 - [radare2](https://github.com/radare/radare2) - A portable reversing framework
 - [Uncompyle](https://github.com/gstarnberger/uncompyle) - Decompile Python 2.7 binaries (.pyc)
 - [WinDbg](http://www.windbg.org/) - Windows debugger distributed by Microsoft
