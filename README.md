@@ -162,6 +162,7 @@ Check solve section for steganography.
 - [Wireshark](https://www.wireshark.org/) - Analyze the network dumps
   - `apt-get install wireshark`
 - [Zmap](https://zmap.io/) - an open-source network scanner
+- [Nipe](https://github.com/GouveaHeitor/nipe) - Nipe is a script to make Tor Network your default gateway. 
 
 ## Reversing
 
