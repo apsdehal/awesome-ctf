@@ -295,6 +295,10 @@ Check solve section for steganography.
 - [WebHacking](http://webhacking.kr) - Hacking challenges for web.
 - [WeChall](https://www.wechall.net/) - Always online challenge site.
 
+*Self-hosted CTFs*
+
+- [Juice Shop CTF](https://github.com/bkimminich/juice-shop-ctf) - Scripts and tools for hosting a CTF on [OWASP Juice Shop](https://www.owasp.org/index.php/OWASP_Juice_Shop_Project) easily.
+
 ## Websites
 
 *Various general websites about and on ctf*
