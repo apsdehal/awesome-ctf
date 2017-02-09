@@ -112,7 +112,6 @@ Check solve section for steganography.
 
 *Tools used for solving Exploits challenges*
 
-- [Binjitsu](https://github.com/binjitsu/binjitsu/) - CTF framework and exploit development library
 - [DLLInjector](https://github.com/OpenSecurityResearch/dllinjector) - Inject dlls in processes
 - [Metasploit](http://www.metasploit.com/) - Penetration testing software
 - [Pwntools](https://github.com/Gallopsled/pwntools) - CTF Framework for writing exploits
