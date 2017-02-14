@@ -104,6 +104,7 @@ Check solve section for steganography.
 
 *Tools used for various kind of bruteforcing (passwords etc.)*
 
+- [Hashcat](https://hashcat.net/hashcat/) - Password Cracker
 - [John The Jumbo](https://github.com/magnumripper/JohnTheRipper) - Community enhanced version of John the Ripper
 - [John The Ripper](http://www.openwall.com/john/) - Password Cracker
 - [Ophcrack](http://ophcrack.sourceforge.net/) - Windows password cracker based on rainbow tables.
