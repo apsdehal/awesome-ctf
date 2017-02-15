@@ -76,7 +76,9 @@ Check solve section for steganography.
 
 *Tools used for creating Web challenges*
 
-*JavaScript Obfustcators*
+- [Damn Vulnerable Web Application](http://www.dvwa.co.uk/) PHP/MySQL web application that is d*** vulnerable
+
+*JavaScript Obfuscators*
 
 - [Metasploit JavaScript Obfustcator](https://github.com/rapid7/metasploit-framework/wiki/How-to-obfuscate-JavaScript-in-Metasploit)
 - [Uglify](http://marijnhaverbeke.nl//uglifyjs)
