@@ -115,6 +115,7 @@ Check solve section for steganography.
 *Tools used for solving Exploits challenges*
 
 - [DLLInjector](https://github.com/OpenSecurityResearch/dllinjector) - Inject dlls in processes
+- [libformatstr](https://github.com/hellman/libformatstr) - Simplify format string exploitation.
 - [Metasploit](http://www.metasploit.com/) - Penetration testing software
 - [Pwntools](https://github.com/Gallopsled/pwntools) - CTF Framework for writing exploits
 - [Qira](https://github.com/BinaryAnalysisPlatform/qira) - QEMU Interactive Runtime Analyser
