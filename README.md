@@ -50,6 +50,7 @@ It takes time to build up collection of tools used in ctf and remember them all.
 
 *Tools used for creating Forensics challenges*
 
+- [Dnscat](https://wiki.skullsecurity.org/Dnscat) - Hosts communication through DNS
 - [Registry Dumper](http://www.kahusecurity.com/tools/RegistryDumper_v0.1.zip) - Dump your registry
 
 ## Platforms
