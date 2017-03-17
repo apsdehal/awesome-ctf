@@ -62,6 +62,7 @@ It takes time to build up collection of tools used in ctf and remember them all.
 - [HackTheArch](https://github.com/mcpa-stlouis/hack-the-arch) - CTF scoring platform
 - [Mellivora](https://github.com/Nakiami/mellivora) - A CTF engine written in PHP
 - [NightShade](https://github.com/UnrealAkama/NightShade) - A simple security CTF framework
+- [OpenCTF](https://github.com/easyctf/openctf) - CTF in a box. Minimal setup required.
 - [Scorebot](https://github.com/legitbs/scorebot) - Platform for CTFs by Legitbs (Defcon)
 
 
