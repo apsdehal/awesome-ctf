@@ -111,6 +111,8 @@ Check solve section for steganography.
 - [John The Jumbo](https://github.com/magnumripper/JohnTheRipper) - Community enhanced version of John the Ripper
 - [John The Ripper](http://www.openwall.com/john/) - Password Cracker
 - [Ophcrack](http://ophcrack.sourceforge.net/) - Windows password cracker based on rainbow tables.
+- [patator](https://github.com/lanjelot/patator) - Patator is a multi-purpose brute-forcer, with a modular design.
+- [nozzlr](https://github.com/intrd/nozzlr) - Nozzlr is a bruteforce framework, trully modular and script-friendly.
 
 ## Exploits
 
