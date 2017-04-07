@@ -63,6 +63,8 @@ It takes time to build up collection of tools used in ctf and remember them all.
 - [Mellivora](https://github.com/Nakiami/mellivora) - A CTF engine written in PHP
 - [NightShade](https://github.com/UnrealAkama/NightShade) - A simple security CTF framework
 - [OpenCTF](https://github.com/easyctf/openctf) - CTF in a box. Minimal setup required.
+- [PicoCTF Platform 2](https://github.com/picoCTF/picoCTF-Platform-2) - A genericized version of picoCTF 2014 that can be easily adapted to host CTF or programming competitions.
+- [RootTheBox](https://github.com/moloch--/RootTheBox) - A Game of Hackers (CTF Scoreboard & Game Manager)
 - [Scorebot](https://github.com/legitbs/scorebot) - Platform for CTFs by Legitbs (Defcon)
 
 
