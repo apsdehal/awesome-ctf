@@ -300,7 +300,6 @@ Check solve section for steganography.
 - [Hack This Site](https://www.hackthissite.org/) - Training ground for hackers.
 - [IO](http://io.netgarage.org/) - Wargame for binary challenges.
 - [Over The Wire](http://overthewire.org/wargames/) - Wargame maintained by OvertheWire Community
-- [PicoCTF](https://picoctf.com/) - While picoCTF 2014 is now over, you may still play through the competition.
 - [Pwnable.kr](http://pwnable.kr/) - Pwn Game
 - [Ringzer0Team](https://ringzer0team.com/) - Ringzer0 Team Online CTF
 - [SmashTheStack](http://smashthestack.org/) - A variety of wargames maintained by the SmashTheStack Community.
