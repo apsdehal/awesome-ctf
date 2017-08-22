@@ -294,6 +294,7 @@ Check solve section for steganography.
 
 *Always online CTFs*
 
+- [WTHack OnlineCTF](https://onlinectf.com) - CTF Practice platform for every level of cyber security enthusiasts.
 - [Backdoor](https://backdoor.sdslabs.co/) - Security Platform by SDSLabs.
 - [Ctfs.me](http://ctfs.me) - CTF All the time
 - [Exploit Exercises](https://exploit-exercises.com/) - Variety of VMs to learn variety of computer security issues.
