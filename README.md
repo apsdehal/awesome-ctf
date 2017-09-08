@@ -294,7 +294,6 @@ Check solve section for steganography.
 
 *Always online CTFs*
 
-- [WTHack OnlineCTF](https://onlinectf.com) - CTF Practice platform for every level of cyber security enthusiasts.
 - [Backdoor](https://backdoor.sdslabs.co/) - Security Platform by SDSLabs.
 - [Ctfs.me](http://ctfs.me) - CTF All the time
 - [Exploit Exercises](https://exploit-exercises.com/) - Variety of VMs to learn variety of computer security issues.
@@ -308,6 +307,7 @@ Check solve section for steganography.
 - [VulnHub](https://www.vulnhub.com/) - VM-based for practical in digital security, computer application & network administration.
 - [WebHacking](http://webhacking.kr) - Hacking challenges for web.
 - [WeChall](https://www.wechall.net/) - Always online challenge site.
+- [WTHack OnlineCTF](https://onlinectf.com) - CTF Practice platform for every level of cyber security enthusiasts.
 
 *Self-hosted CTFs*
 
