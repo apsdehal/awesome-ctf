@@ -300,6 +300,7 @@ Check solve section for steganography.
 - [Ctfs.me](http://ctfs.me) - CTF All the time
 - [Exploit Exercises](https://exploit-exercises.com/) - Variety of VMs to learn variety of computer security issues.
 - [Gracker](http://gracker.org) - Binary challenges having a slow learning curve, and write-ups for each level.
+- [Hack The Box](https://www.hackthebox.eu) - Weekly CTFs for all types of security enthusiasts.
 - [Hack This Site](https://www.hackthissite.org/) - Training ground for hackers.
 - [IO](http://io.netgarage.org/) - Wargame for binary challenges.
 - [Over The Wire](http://overthewire.org/wargames/) - Wargame maintained by OvertheWire Community
