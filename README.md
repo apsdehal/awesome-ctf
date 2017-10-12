@@ -310,6 +310,7 @@ Check solve section for steganography.
 - [WebHacking](http://webhacking.kr) - Hacking challenges for web.
 - [WeChall](https://www.wechall.net/) - Always online challenge site.
 - [WTHack OnlineCTF](https://onlinectf.com) - CTF Practice platform for every level of cyber security enthusiasts.
+- [Hack The Box](https://www.hackthebox.eu) - Weekly CTFs for all types of security enthusiasts.
 
 *Self-hosted CTFs*
 
