@@ -314,6 +314,7 @@ Check solve section for steganography.
 - [WebHacking](http://webhacking.kr) - Hacking challenges for web.
 - [WeChall](https://www.wechall.net/) - Always online challenge site.
 - [WTHack OnlineCTF](https://onlinectf.com) - CTF Practice platform for every level of cyber security enthusiasts.
+- [W3challs](https://w3challs.com) - Wargames, forensics, reversing, and web hacking
 
 *Self-hosted CTFs*
 
