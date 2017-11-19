@@ -171,12 +171,14 @@ Check solve section for steganography.
 
 *Tools used for solving Networking challenges*
 
-- [Masscan](https://github.com/robertdavidgraham/masscan) - Mass IP port scanner, TCP port scanner
+- [Masscan](https://github.com/robertdavidgraham/masscan) - Mass IP port scanner, TCP port scanner.
 - [Nipe](https://github.com/GouveaHeitor/nipe) - Nipe is a script to make Tor Network your default gateway.
-- [Nmap](https://nmap.org/) - open source utility for network discovery and security auditing
-- [Wireshark](https://www.wireshark.org/) - Analyze the network dumps
+- [Nmap](https://nmap.org/) - open source utility for network discovery and security auditing.
+- [Wireshark](https://www.wireshark.org/) - Analyze the network dumps.
   - `apt-get install wireshark`
-- [Zmap](https://zmap.io/) - an open-source network scanner
+- [Zmap](https://zmap.io/) - an open-source network scanner.
+- [Bro](https://www.bro.org/) - an open-source network security monitor.
+- [Monit](https://linoxide.com/monitoring-2/monit-linux/) - a linux tool to check a host on the network (and other non-network activities). 
 
 ## Reversing
 
