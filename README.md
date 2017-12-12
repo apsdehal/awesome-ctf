@@ -250,6 +250,8 @@ Check solve section for steganography.
 ## Web
 
 *Tools used for solving Web challenges*
+
+- [BurpSuite]() - A graphical tool to testing website security. 
 - [Commix](https://github.com/commixproject/commix) - Automated All-in-One OS Command Injection and Exploitation Tool.
 - [Hackbar](https://addons.mozilla.org/en-US/firefox/addon/hackbar/) - Firefox addon for easy web exploitation
 - [OWASP ZAP](https://www.owasp.org/index.php/Projects/OWASP_Zed_Attack_Proxy_Project) - Intercepting proxy to replay, debug, and fuzz HTTP requests and responses
