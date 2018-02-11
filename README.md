@@ -321,6 +321,7 @@ Check solve section for steganography.
 - [WebHacking](http://webhacking.kr) - Hacking challenges for web.
 - [WeChall](https://www.wechall.net/) - Always online challenge site.
 - [WTHack OnlineCTF](https://onlinectf.com) - CTF Practice platform for every level of cyber security enthusiasts. 
+- [Netcat.us](http://netcat.us) - Here you will find resources for learning, practicing, and exploring exploitation and infosec. We have also integrated Discord into our CTF challenge, and points you earn by completing challenges will allow you to progress in the ranks on our Discord server.
 
 *Self-hosted CTFs*
 
