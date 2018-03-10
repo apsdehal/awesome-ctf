@@ -95,7 +95,7 @@ Check solve section for steganography.
 
 *Tools used for performing various kinds of attacks*
 
-- [Bettercap](https://github.com/evilsocket/bettercap) - Framework to perform MITM (Man in the Middle) attacks.
+- [Bettercap](https://github.com/bettercap/bettercap) - Framework to perform MITM (Man in the Middle) attacks.
 - [Layer 2 attacks](https://github.com/tomac/yersinia) - Attack various protocols on layer 2
 
 ## Crypto
