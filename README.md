@@ -321,6 +321,7 @@ Check solve section for steganography.
 - [WebHacking](http://webhacking.kr) - Hacking challenges for web.
 - [WeChall](https://www.wechall.net/) - Always online challenge site.
 - [WTHack OnlineCTF](https://onlinectf.com) - CTF Practice platform for every level of cyber security enthusiasts. 
+- [Hone Your Ninja Skills](https://honeyourskills.ninja/) - Hone your circumvention ninja skills in bypassing security controls and most secure codes of 2020s+
 
 *Self-hosted CTFs*
 
