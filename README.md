@@ -309,6 +309,7 @@ Check solve section for steganography.
 - [Gracker](http://gracker.org) - Binary challenges having a slow learning curve, and write-ups for each level.
 - [Hack The Box](https://www.hackthebox.eu) - Weekly CTFs for all types of security enthusiasts.
 - [Hack This Site](https://www.hackthissite.org/) - Training ground for hackers.
+- [Hone Your Ninja Skills](https://honeyourskills.ninja/) - Web challenges starting from basic ones.
 - [IO](http://io.netgarage.org/) - Wargame for binary challenges.
 - [Over The Wire](http://overthewire.org/wargames/) - Wargame maintained by OvertheWire Community
 - [Pwnable.kr](http://pwnable.kr/) - Pwn Game
@@ -321,6 +322,7 @@ Check solve section for steganography.
 - [WebHacking](http://webhacking.kr) - Hacking challenges for web.
 - [WeChall](https://www.wechall.net/) - Always online challenge site.
 - [WTHack OnlineCTF](https://onlinectf.com) - CTF Practice platform for every level of cyber security enthusiasts. 
+
 
 *Self-hosted CTFs*
 
