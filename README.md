@@ -309,6 +309,7 @@ Check solve section for steganography.
 - [Gracker](http://gracker.org) - Binary challenges having a slow learning curve, and write-ups for each level.
 - [Hack The Box](https://www.hackthebox.eu) - Weekly CTFs for all types of security enthusiasts.
 - [Hack This Site](https://www.hackthissite.org/) - Training ground for hackers.
+- [Hacking-Lab](https://hacking-lab.com/) - Ethical hacking, computer network and security challenge platform.
 - [Hone Your Ninja Skills](https://honeyourskills.ninja/) - Web challenges starting from basic ones.
 - [IO](http://io.netgarage.org/) - Wargame for binary challenges.
 - [Over The Wire](http://overthewire.org/wargames/) - Wargame maintained by OvertheWire Community
