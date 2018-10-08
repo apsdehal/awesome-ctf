@@ -65,7 +65,7 @@ It takes time to build up collection of tools used in ctf and remember them all.
 - [OpenCTF](https://github.com/easyctf/openctf) - CTF in a box. Minimal setup required
 - [PicoCTF Platform 2](https://github.com/picoCTF/picoCTF-Platform-2) - A genericized version of picoCTF 2014 that can be easily adapted to host CTF or programming competitions.
 - [PyChallFactory](https://github.com/pdautry/py_chall_factory) - Small framework to create/manage/package jeopardy CTF challenges
-- [RootTheBox](https://github.com/moloch--/RootTheBox) - A Game of Hackers (CTF Scoreboard & Game Manager
+- [RootTheBox](https://github.com/moloch--/RootTheBox) - A Game of Hackers (CTF Scoreboard & Game Manager)
 - [Scorebot](https://github.com/legitbs/scorebot) - Platform for CTFs by Legitbs (Defcon)
 - [SecGen](https://github.com/cliffe/SecGen) - Security Scenario Generator. Creates randomly vulnerable virtual machines
 
@@ -95,7 +95,7 @@ Check solve section for steganography.
 
 *Tools used for performing various kinds of attacks*
 
-- [Bettercap](https://github.com/evilsocket/bettercap) - Framework to perform MITM (Man in the Middle) attacks.
+- [Bettercap](https://github.com/bettercap/bettercap) - Framework to perform MITM (Man in the Middle) attacks.
 - [Layer 2 attacks](https://github.com/tomac/yersinia) - Attack various protocols on layer 2
 
 ## Crypto
@@ -105,6 +105,7 @@ Check solve section for steganography.
 - [FeatherDuster](https://github.com/nccgroup/featherduster) - An automated, modular cryptanalysis tool
 - [Hash Extender](https://github.com/iagox86/hash_extender) - A utility tool for performing hash length extension attacks
 - [PkCrack](https://www.unix-ag.uni-kl.de/~conrad/krypto/pkcrack.html) - A tool for Breaking PkZip-encryption
+- [RSACTFTool](https://github.com/Ganapati/RsaCtfTool) - A tool for recovering RSA private key with various attack
 - [RSATool](https://github.com/ius/rsatool) - Generate private key with knowledge of p and q
 - [XORTool](https://github.com/hellman/xortool) - A tool to analyze multi-byte xor cipher
 
@@ -170,12 +171,15 @@ Check solve section for steganography.
 
 *Tools used for solving Networking challenges*
 
-- [Masscan](https://github.com/robertdavidgraham/masscan) - Mass IP port scanner, TCP port scanner
+- [Bro](https://www.bro.org/) - An open-source network security monitor.
+- [Masscan](https://github.com/robertdavidgraham/masscan) - Mass IP port scanner, TCP port scanner.
+- [Monit](https://linoxide.com/monitoring-2/monit-linux/) - A linux tool to check a host on the network (and other non-network activities). 
 - [Nipe](https://github.com/GouveaHeitor/nipe) - Nipe is a script to make Tor Network your default gateway.
-- [Nmap](https://nmap.org/) - open source utility for network discovery and security auditing
-- [Wireshark](https://www.wireshark.org/) - Analyze the network dumps
+- [Nmap](https://nmap.org/) - An open source utility for network discovery and security auditing.
+- [Wireshark](https://www.wireshark.org/) - Analyze the network dumps.
   - `apt-get install wireshark`
-- [Zmap](https://zmap.io/) - an open-source network scanner
+- [Zmap](https://zmap.io/) - An open-source network scanner.
+
 
 ## Reversing
 
@@ -199,6 +203,7 @@ Check solve section for steganography.
 - [Java Decompilers](http://www.javadecompilers.com) - An online decompiler for Java and Android APKs
 - [Krakatau](https://github.com/Storyyeller/Krakatau) - Java decompiler and disassembler
 - [PEDA](https://github.com/longld/peda) - GDB plugin (only python2.7)
+- [Pin](https://software.intel.com/en-us/articles/pin-a-dynamic-binary-instrumentation-tool) A dynamic binary instrumentaion tool by Intel
 - [Plasma](https://github.com/joelpx/plasma) - An interactive disassembler for x86/ARM/MIPS which can generate indented pseudo-code with colored syntax.
 - [Pwndbg](https://github.com/pwndbg/pwndbg) - A GDB plugin that provides a suite of utilities to hack around GDB easily. 
 - [radare2](https://github.com/radare/radare2) - A portable reversing framework
@@ -239,16 +244,21 @@ Check solve section for steganography.
 - [SmartDeblur](https://github.com/Y-Vladimir/SmartDeblur) - Used to deblur and fix defocused images
 - [Steganabara](https://www.openhub.net/p/steganabara) -  Tool for stegano analysis written in Java
 - [Stegbreak](https://linux.die.net/man/1/stegbreak) - Launches brute-force dictionary attacks on JPG image
+- [StegCracker](https://github.com/Paradoxis/StegCracker) - Steganography brute-force utility to uncover hidden data inside files 
+- [stegextract](https://github.com/evyatarmeged/stegextract) - Detect hidden files and text in images 
 - [Steghide](http://steghide.sourceforge.net/) - Hide data in various kind of images
 - [Stegsolve](http://www.caesum.com/handbook/Stegsolve.jar) - Apply various steganography techniques to images
 
 ## Web
 
 *Tools used for solving Web challenges*
+
+- [BurpSuite]() - A graphical tool to testing website security. 
 - [Commix](https://github.com/commixproject/commix) - Automated All-in-One OS Command Injection and Exploitation Tool.
 - [Hackbar](https://addons.mozilla.org/en-US/firefox/addon/hackbar/) - Firefox addon for easy web exploitation
 - [OWASP ZAP](https://www.owasp.org/index.php/Projects/OWASP_Zed_Attack_Proxy_Project) - Intercepting proxy to replay, debug, and fuzz HTTP requests and responses
 - [Postman](https://chrome.google.com/webstore/detail/postman/fhbjgbiflinjbdggehcddcbncdddomop?hl=en) - Add on for chrome for debugging network requests
+- [Raccoon](https://github.com/evyatarmeged/Raccoon) - A high performance offensive security tool for reconnaissance and vulnerability scanning
 - [SQLMap](https://github.com/sqlmapproject/sqlmap) - Automatic SQL injection and database takeover tooli
 - [W3af](https://github.com/andresriancho/w3af) -  Web Application Attack and Audit Framework.
 - [XSSer](http://xsser.sourceforge.net/) - Automated XSS testor
@@ -303,15 +313,22 @@ Check solve section for steganography.
 - [Gracker](http://gracker.org) - Binary challenges having a slow learning curve, and write-ups for each level.
 - [Hack The Box](https://www.hackthebox.eu) - Weekly CTFs for all types of security enthusiasts.
 - [Hack This Site](https://www.hackthissite.org/) - Training ground for hackers.
+- [Hacking-Lab](https://hacking-lab.com/) - Ethical hacking, computer network and security challenge platform.
+- [Hone Your Ninja Skills](https://honeyourskills.ninja/) - Web challenges starting from basic ones.
 - [IO](http://io.netgarage.org/) - Wargame for binary challenges.
+- [Microcorruption](https://microcorruption.com) - Embedded security CTF
 - [Over The Wire](http://overthewire.org/wargames/) - Wargame maintained by OvertheWire Community
 - [Pwnable.kr](http://pwnable.kr/) - Pwn Game
 - [Ringzer0Team](https://ringzer0team.com/) - Ringzer0 Team Online CTF
+- [Root-Me](https://www.root-me.org/) - Hacking and Information Security learning platform.
+- [ROP Wargames](https://game.rop.sh/) - ROP Wargames
 - [SmashTheStack](http://smashthestack.org/) - A variety of wargames maintained by the SmashTheStack Community.
 - [VulnHub](https://www.vulnhub.com/) - VM-based for practical in digital security, computer application & network administration.
+- [W3Challs](https://w3challs.com) - A penetration testing training platform, which offers various computer challenges, in various categories.
 - [WebHacking](http://webhacking.kr) - Hacking challenges for web.
 - [WeChall](https://www.wechall.net/) - Always online challenge site.
-- [WTHack OnlineCTF](https://onlinectf.com) - CTF Practice platform for every level of cyber security enthusiasts.
+- [WTHack OnlineCTF](https://onlinectf.com) - CTF Practice platform for every level of cyber security enthusiasts. 
+
 
 *Self-hosted CTFs*
 
@@ -340,7 +357,7 @@ Check solve section for steganography.
 - [CTF write-ups (community)](https://github.com/ctfs/) - CTF challenges + write-ups archive maintained by the community
 - [CTFTime Scrapper](https://github.com/abdilahrf/CTFWriteupScrapper) - Scraps all writeup from ctf time and organize which to read first
 - [pwntools writeups](https://github.com/Gallopsled/pwntools-write-ups) - A collection of CTF write-ups all using pwntools
-- [Shell Storm](shell-storm.org/repo/CTF/) - CTF challenge archive maintained by Jonathan Salwan
+- [Shell Storm](http://shell-storm.org/repo/CTF/) - CTF challenge archive maintained by Jonathan Salwan
 - [Smoke Leet Everyday](https://github.com/smokeleeteveryday/CTF_WRITEUPS) - CTF write-ups repo maintained by SmokeLeetEveryday team.
 
 
