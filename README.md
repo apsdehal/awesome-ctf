@@ -83,7 +83,7 @@ Check solve section for steganography.
 
 *JavaScript Obfustcators*
 
-- [Metasploit JavaScript Obfustcator](https://github.com/rapid7/metasploit-framework/wiki/How-to-obfuscate-JavaScript-in-Metasploit)
+- [Metasploit JavaScript Obfuscator](https://github.com/rapid7/metasploit-framework/wiki/How-to-obfuscate-JavaScript-in-Metasploit)
 - [Uglify](http://marijnhaverbeke.nl//uglifyjs)
 
 
@@ -212,7 +212,7 @@ Check solve section for steganography.
 - [Xocopy](http://reverse.lostrealm.com/tools/xocopy.html) - Program that can copy executables with execute, but no read permission
 - [Z3](https://github.com/Z3Prover/z3) - a theorem prover from Microsoft Research
 
-*JavaScript Deobfustcators*
+*JavaScript Deobfuscators*
 
 - [Detox](http://relentless-coding.org/projects/jsdetox/install) - A Javascript malware analysis tool
 - [Revelo](http://www.kahusecurity.com/tools/Revelo_v0.6.zip) - Analyze obfuscated Javascript code
