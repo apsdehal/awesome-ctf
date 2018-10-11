@@ -320,8 +320,8 @@ Check solve section for steganography.
 - [Over The Wire](http://overthewire.org/wargames/) - Wargame maintained by OvertheWire Community
 - [Pwnable.kr](http://pwnable.kr/) - Pwn Game
 - [Pwnable.tw](https://pwnable.tw/) - Binary wargame
-- [Ringzer0Team](https://ringzer0team.com/) - Ringzer0 Team Online CTF
 - [Reversin.kr](http://reversing.kr/) - Reversing challenge
+- [Ringzer0Team](https://ringzer0team.com/) - Ringzer0 Team Online CTF
 - [Root-Me](https://www.root-me.org/) - Hacking and Information Security learning platform.
 - [ROP Wargames](https://game.rop.sh/) - ROP Wargames
 - [SmashTheStack](http://smashthestack.org/) - A variety of wargames maintained by the SmashTheStack Community.
