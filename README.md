@@ -195,6 +195,7 @@ Check solve section for steganography.
 - [BinWalk](https://github.com/devttys0/binwalk) - Analyze, reverse engineer, and extract firmware images.
 - [Boomerang](https://github.com/nemerle/boomerang) - Decompile x86 binaries to C
 - [ctf_import](https://github.com/docileninja/ctf_import) – run basic functions from stripped binaries cross platform
+- [Frida](https://github.com/frida/) - Dynamic Code Injection
 - [GDB](https://www.gnu.org/software/gdb/) - The GNU project debugger
 - [GEF](https://github.com/hugsy/gef) - GDB plugin
 - [Hopper](http://www.hopperapp.com/) - Reverse engineering tool (disassembler) for OSX and Linux
@@ -202,11 +203,13 @@ Check solve section for steganography.
 - [Jadx](https://github.com/skylot/jadx) - Decompile Android files
 - [Java Decompilers](http://www.javadecompilers.com) - An online decompiler for Java and Android APKs
 - [Krakatau](https://github.com/Storyyeller/Krakatau) - Java decompiler and disassembler
+- [Objection](https://github.com/sensepost/objection) - Runtime Mobile Exploration
 - [PEDA](https://github.com/longld/peda) - GDB plugin (only python2.7)
 - [Pin](https://software.intel.com/en-us/articles/pin-a-dynamic-binary-instrumentation-tool) A dynamic binary instrumentaion tool by Intel
 - [Plasma](https://github.com/joelpx/plasma) - An interactive disassembler for x86/ARM/MIPS which can generate indented pseudo-code with colored syntax.
 - [Pwndbg](https://github.com/pwndbg/pwndbg) - A GDB plugin that provides a suite of utilities to hack around GDB easily. 
 - [radare2](https://github.com/radare/radare2) - A portable reversing framework
+- [Triton](https://github.com/JonathanSalwan/Triton/) - Dynamic Binary Analysis (DBA) framework
 - [Uncompyle](https://github.com/gstarnberger/uncompyle) - Decompile Python 2.7 binaries (.pyc)
 - [WinDbg](http://www.windbg.org/) - Windows debugger distributed by Microsoft
 - [Xocopy](http://reverse.lostrealm.com/tools/xocopy.html) - Program that can copy executables with execute, but no read permission
@@ -248,6 +251,7 @@ Check solve section for steganography.
 - [stegextract](https://github.com/evyatarmeged/stegextract) - Detect hidden files and text in images 
 - [Steghide](http://steghide.sourceforge.net/) - Hide data in various kind of images
 - [Stegsolve](http://www.caesum.com/handbook/Stegsolve.jar) - Apply various steganography techniques to images
+- [Zsteg](https://github.com/zed-0xff/zsteg/) - PNG/BMP analysis
 
 ## Web
 
