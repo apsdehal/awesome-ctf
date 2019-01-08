@@ -285,6 +285,7 @@ Check solve section for steganography.
 *Malware analysts and reverse-engineering*
 
 - [REMnux](https://remnux.org/) - Based on Debian
+- [Flare VM](https://github.com/fireeye/flare-vm/) - Based on Windows
 
 ## Starter Packs
 
