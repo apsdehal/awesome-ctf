@@ -187,8 +187,11 @@ Check solve section for steganography.
 
 - [Androguard](https://github.com/androguard/androguard) - Reverse engineer Android applications
 - [Angr](https://github.com/angr/angr) - platform-agnostic binary analysis framework
+- [Triton](https://github.com/JonathanSalwan/Triton/) - Dynamic Binary Analysis (DBA) framework
 - [Apk2Gold](https://github.com/lxdvs/apk2gold) - Yet another Android decompiler
 - [ApkTool](http://ibotpeaches.github.io/Apktool/) - Android Decompiler
+- [Frida](https://github.com/frida/) - Dynamic Code Injection
+- [Objection](https://github.com/sensepost/objection) - Runtime Mobile Exploration
 - [Barf](https://github.com/programa-stic/barf-project) - Binary Analysis and Reverse engineering Framework
 - [Binary Ninja](https://binary.ninja/) - Binary analysis framework
 - [BinUtils](http://www.gnu.org/software/binutils/binutils.html) - Collection of binary tools
@@ -248,6 +251,7 @@ Check solve section for steganography.
 - [stegextract](https://github.com/evyatarmeged/stegextract) - Detect hidden files and text in images 
 - [Steghide](http://steghide.sourceforge.net/) - Hide data in various kind of images
 - [Stegsolve](http://www.caesum.com/handbook/Stegsolve.jar) - Apply various steganography techniques to images
+- [Zsteg](https://github.com/zed-0xff/zsteg/) - PNG/BMP analysis
 
 ## Web
 
