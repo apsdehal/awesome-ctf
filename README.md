@@ -198,6 +198,7 @@ Check solve section for steganography.
 - [Frida](https://github.com/frida/) - Dynamic Code Injection
 - [GDB](https://www.gnu.org/software/gdb/) - The GNU project debugger
 - [GEF](https://github.com/hugsy/gef) - GDB plugin
+- [Ghidra](https://ghidra-sre.org/) - Open Source suite of reverse engineering tools.  Similar to IDA Pro.
 - [Hopper](http://www.hopperapp.com/) - Reverse engineering tool (disassembler) for OSX and Linux
 - [IDA Pro](https://www.hex-rays.com/products/ida/) - Most used Reversing software
 - [Jadx](https://github.com/skylot/jadx) - Decompile Android files
