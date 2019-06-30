@@ -46,6 +46,9 @@ It takes time to build up collection of tools used in ctf and remember them all.
 
 *Tools used for creating CTF challenges*
 
+- [Kali Linux CTF Blueprints](https://doc.lagout.org/security/Packt.Kali.Linux.CTF.Blueprints.Jul.2014.ISBN.1783985984.pdf) - Online book on building, testing, and customizing your own Capture the Flag challenges.
+
+
 ## Forensics
 
 *Tools used for creating Forensics challenges*
