@@ -198,6 +198,7 @@ Check solve section for steganography.
 - [BinWalk](https://github.com/devttys0/binwalk) - Analyze, reverse engineer, and extract firmware images.
 - [Boomerang](https://github.com/nemerle/boomerang) - Decompile x86 binaries to C
 - [ctf_import](https://github.com/docileninja/ctf_import) – run basic functions from stripped binaries cross platform
+- [cwe_checker](https://github.com/fkie-cad/cwe_checker) - cwe_checker finds vulnerable patterns in binary executables
 - [Frida](https://github.com/frida/) - Dynamic Code Injection
 - [GDB](https://www.gnu.org/software/gdb/) - The GNU project debugger
 - [GEF](https://github.com/hugsy/gef) - GDB plugin
