@@ -62,6 +62,7 @@ It takes time to build up collection of tools used in ctf and remember them all.
 
 - [CTFd](https://github.com/isislab/CTFd) - Platform to host jeopardy style CTFs from ISISLab, NYU Tandon
 - [FBCTF](https://github.com/facebook/fbctf) - Platform to host Capture the Flag competitions from Facebook
+- [Haaukins](https://github.com/aau-network-security/haaukins)- A Highly Accessible and Automated Virtualization Platform for Security Education
 - [HackTheArch](https://github.com/mcpa-stlouis/hack-the-arch) - CTF scoring platform
 - [Mellivora](https://github.com/Nakiami/mellivora) - A CTF engine written in PHP
 - [NightShade](https://github.com/UnrealAkama/NightShade) - A simple security CTF framework
@@ -71,7 +72,7 @@ It takes time to build up collection of tools used in ctf and remember them all.
 - [RootTheBox](https://github.com/moloch--/RootTheBox) - A Game of Hackers (CTF Scoreboard & Game Manager)
 - [Scorebot](https://github.com/legitbs/scorebot) - Platform for CTFs by Legitbs (Defcon)
 - [SecGen](https://github.com/cliffe/SecGen) - Security Scenario Generator. Creates randomly vulnerable virtual machines
-- [Haaukins](https://github.com/aau-network-security/haaukins)- A Highly Accessible and Automated Virtualization Platform for Security Education
+
 
 ## Steganography
 
