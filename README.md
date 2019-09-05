@@ -131,6 +131,7 @@ Check solve section for steganography.
 - [DLLInjector](https://github.com/OpenSecurityResearch/dllinjector) - Inject dlls in processes
 - [libformatstr](https://github.com/hellman/libformatstr) - Simplify format string exploitation.
 - [Metasploit](http://www.metasploit.com/) - Penetration testing software
+  - [Cheatsheet](https://www.comparitech.com/net-admin/metasploit-cheat-sheet/)
 - [one_gadget](https://github.com/david942j/one_gadget) -  A tool to find the one gadget `execve('/bin/sh', NULL, NULL)` call
   - `gem install one_gadget`
 - [Pwntools](https://github.com/Gallopsled/pwntools) - CTF Framework for writing exploits
