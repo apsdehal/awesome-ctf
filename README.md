@@ -166,7 +166,7 @@ Check solve section for steganography.
 - [Shellbags](https://github.com/williballenthin/shellbags) - Investigate NT\_USER.dat files
 - [UsbForensics](http://www.forensicswiki.org/wiki/USB_History_Viewing) - Contains many tools for usb forensics
 - [Volatility](https://github.com/volatilityfoundation/volatility) - To investigate memory dumps
-
+- [Binwalk](https://tools.kali.org/forensics/binwalk) -Binwalk is a tool for searching a given binary image for embedded files and executable code. 
 
 *Registry Viewers*
 - [RegistryViewer](http://www.gaijin.at/en/getitpage.php?id=regview) - Used to view windows registries
