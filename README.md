@@ -10,7 +10,7 @@ Please take a quick look at the [contribution guidelines](https://github.com/aps
 
 ### Why?
 
-It takes time to build up collection of tools used in ctf and remember them all. This repo helps to keep all these scattered tools at one place.
+It takes time to build up collection of tools used in CTF and remember them all. This repo helps to keep all these scattered tools at one place.
 
 
 ### Contents
@@ -353,7 +353,7 @@ Check solve section for steganography.
 
 ## Websites
 
-*Various general websites about and on ctf*
+*Various general websites about and on CTF*
 
 - [CTF Time](https://ctftime.org/) - General information on CTF occuring around the worlds
 - [Reddit Security CTF](http://www.reddit.com/r/securityctf) - Reddit CTF category
@@ -372,7 +372,7 @@ Check solve section for steganography.
 
 - [Captf](http://captf.com/) - Dumped CTF challenges and materials by psifertex
 - [CTF write-ups (community)](https://github.com/ctfs/) - CTF challenges + write-ups archive maintained by the community
-- [CTFTime Scrapper](https://github.com/abdilahrf/CTFWriteupScrapper) - Scraps all writeup from ctf time and organize which to read first
+- [CTFTime Scrapper](https://github.com/abdilahrf/CTFWriteupScrapper) - Scraps all writeup from CTF Time and organize which to read first
 - [pwntools writeups](https://github.com/Gallopsled/pwntools-write-ups) - A collection of CTF write-ups all using pwntools
 - [Shell Storm](http://shell-storm.org/repo/CTF/) - CTF challenge archive maintained by Jonathan Salwan
 - [Smoke Leet Everyday](https://github.com/smokeleeteveryday/CTF_WRITEUPS) - CTF write-ups repo maintained by SmokeLeetEveryday team.
