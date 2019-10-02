@@ -222,6 +222,7 @@ Check solve section for steganography.
 - [WinDbg](http://www.windbg.org/) - Windows debugger distributed by Microsoft
 - [Xocopy](http://reverse.lostrealm.com/tools/xocopy.html) - Program that can copy executables with execute, but no read permission
 - [Z3](https://github.com/Z3Prover/z3) - a theorem prover from Microsoft Research
+-[demovfuscator](https://github.com/kirschju/demovfuscator) - A work-in-progress deobfuscator for movfuscated binaries
 
 *JavaScript Deobfuscators*
 
