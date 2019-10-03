@@ -315,8 +315,8 @@ Check solve section for steganography.
 - [CTF Resources](http://ctfs.github.io/resources/) -  Start Guide maintained by community
 - [Damn Vulnerable Web Application](http://www.dvwa.co.uk/) PHP/MySQL web application that is damn vulnerable
 - [How to Get Started in CTF](https://www.endgame.com/blog/how-get-started-ctf) - Short guideline for CTF beginners by Endgame
-- [MIPT CTF](https://github.com/xairy/mipt-ctf) - A small course for beginners in CTFs (in Russian)
 - [LiveOverFlow](https://www.youtube.com/channel/UClcE-kVhqyiHCcjYwcpfj9w) - Video tutorials on Exploitation.
+- [MIPT CTF](https://github.com/xairy/mipt-ctf) - A small course for beginners in CTFs (in Russian)
 
 ## Wargames
 
@@ -365,9 +365,10 @@ Check solve section for steganography.
 *Various Wikis available for learning about CTFs*
 
 - [Bamboofox](https://bamboofox.torchpad.com/) - Chinese resources to learn CTF
+- [bi0s Wiki](https://teambi0s.gitlab.io/bi0s-wiki/) - Wiki from team bi0s
 - [ISIS Lab](https://github.com/isislab/Project-Ideas/wiki) - CTF Wiki by Isis lab
 - [OpenToAll](http://wiki.opentoallctf.com/) - Open To All Knowledge Base
--[bi0s Wiki](https://teambi0s.gitlab.io/bi0s-wiki/) - Wiki from team bi0s
+
 
 ## Writeups Collections
 
