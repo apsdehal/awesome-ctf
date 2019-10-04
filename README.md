@@ -166,20 +166,20 @@ Check solve section for steganography.
 - [Volatility](https://github.com/volatilityfoundation/volatility) - To investigate memory dumps
 
 *Registry Viewers*
-- [Registry Viewer®](https://accessdata.com/product-download/registry-viewer-2-0-0) - Used to view Windows registries
 - [OfflineRegistryView](https://www.nirsoft.net/utils/offline_registry_view.html) - Simple tool for Windows that allows you to read offline Registry files from external drive and view the desired Registry key in .reg file format
+- [Registry Viewer®](https://accessdata.com/product-download/registry-viewer-2-0-0) - Used to view Windows registries
 
 ## Networking
 
 *Tools used for solving Networking challenges*
 
-- [Zeek](https://www.zeek.org) - An open-source network security monitor.
 - [Masscan](https://github.com/robertdavidgraham/masscan) - Mass IP port scanner, TCP port scanner.
 - [Monit](https://linoxide.com/monitoring-2/monit-linux/) - A linux tool to check a host on the network (and other non-network activities). 
 - [Nipe](https://github.com/GouveaHeitor/nipe) - Nipe is a script to make Tor Network your default gateway.
 - [Nmap](https://nmap.org/) - An open source utility for network discovery and security auditing.
 - [Wireshark](https://www.wireshark.org/) - Analyze the network dumps.
   - `apt-get install wireshark`
+- [Zeek](https://www.zeek.org) - An open-source network security monitor.
 - [Zmap](https://zmap.io/) - An open-source network scanner.
 
 ## Reversing
