@@ -323,7 +323,7 @@ Check solve section for steganography.
 - [Backdoor](https://backdoor.sdslabs.co/) - Security Platform by SDSLabs.
 - [Crackmes](https://crackmes.one/) - Reverse Engineering Challenges
 - [Ctfs.me](http://ctfs.me) - CTF All the time
-- [Exploit Exercises](https://exploit-exercises.com/) - Variety of VMs to learn variety of computer security issues.
+- [exploit.education](http://exploit.education) - Variety of VMs to learn variety of computer security issues.
 - [Gracker](http://gracker.org) - Binary challenges having a slow learning curve, and write-ups for each level.
 - [Hack The Box](https://www.hackthebox.eu) - Weekly CTFs for all types of security enthusiasts.
 - [Hack This Site](https://www.hackthissite.org/) - Training ground for hackers.
