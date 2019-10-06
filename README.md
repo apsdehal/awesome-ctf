@@ -214,6 +214,7 @@ Check solve section for steganography.
 - [Objection](https://github.com/sensepost/objection) - Runtime Mobile Exploration
 - [PEDA](https://github.com/longld/peda) - GDB plugin (only python2.7)
 - [Pin](https://software.intel.com/en-us/articles/pin-a-dynamic-binary-instrumentation-tool) A dynamic binary instrumentaion tool by Intel
+- [PINCE](https://github.com/korcankaraokcu/PINCE) - GDB front-end/reverse engineering tool, focused on game-hacking and automation 
 - [Plasma](https://github.com/joelpx/plasma) - An interactive disassembler for x86/ARM/MIPS which can generate indented pseudo-code with colored syntax.
 - [Pwndbg](https://github.com/pwndbg/pwndbg) - A GDB plugin that provides a suite of utilities to hack around GDB easily. 
 - [radare2](https://github.com/radare/radare2) - A portable reversing framework
