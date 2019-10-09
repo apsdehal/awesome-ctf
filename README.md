@@ -10,8 +10,7 @@ Please take a quick look at the [contribution guidelines](https://github.com/aps
 
 ### Why?
 
-It takes time to build up collection of tools used in ctf and remember them all. This repo helps to keep all these scattered tools at one place.
-
+It takes time to build up collection of tools used in CTF and remember them all. This repo helps to keep all these scattered tools at one place.
 
 ### Contents
 
@@ -42,6 +41,7 @@ It takes time to build up collection of tools used in ctf and remember them all.
   - [Wikis](#wikis)
   - [Writeups Collections](#writeups-collections)
 
+
 # Create
 
 *Tools used for creating CTF challenges*
@@ -53,8 +53,8 @@ It takes time to build up collection of tools used in ctf and remember them all.
 
 *Tools used for creating Forensics challenges*
 
-- [Dnscat](https://wiki.skullsecurity.org/Dnscat) - Hosts communication through DNS.
-- [Registry Dumper](http://www.kahusecurity.com/downloads/RegistryDumper_v0.2.7z) - Dump your registry.
+- [Dnscat2](https://github.com/iagox86/dnscat2) - Hosts communication through DNS.
+- [Registry Dumper](http://www.kahusecurity.com/posts/registry_dumper_find_and_dump_hidden_registry_keys.html) - Dump your registry.
 
 ## Platforms
 
@@ -67,19 +67,17 @@ It takes time to build up collection of tools used in ctf and remember them all.
 - [Mellivora](https://github.com/Nakiami/mellivora) - A CTF engine written in PHP.
 - [NightShade](https://github.com/UnrealAkama/NightShade) - A simple security CTF framework.
 - [OpenCTF](https://github.com/easyctf/openctf) - CTF in a box. Minimal setup required.
-- [PicoCTF Platform 2](https://github.com/picoCTF/picoCTF-Platform-2) - A genericized version of picoCTF 2014 that can be easily adapted to host CTF or programming competitions.
+- [PicoCTF](https://github.com/picoCTF/picoCTF) - The platform used to run picoCTF. A great framework to host any CTF.
 - [PyChallFactory](https://github.com/pdautry/py_chall_factory) - Small framework to create/manage/package jeopardy CTF challenges.
-- [RootTheBox](https://github.com/moloch--/RootTheBox) - A Game of Hackers (CTF Scoreboard & Game Manager)
+- [RootTheBox](https://github.com/moloch--/RootTheBox) - A Game of Hackers (CTF Scoreboard & Game Manager).
 - [Scorebot](https://github.com/legitbs/scorebot) - Platform for CTFs by Legitbs (Defcon).
 - [SecGen](https://github.com/cliffe/SecGen) - Security Scenario Generator. Creates randomly vulnerable virtual machines.
-
 
 ## Steganography
 
 *Tools used to create stego challenges*
 
 Check solve section for steganography.
-
 
 ## Web
 
@@ -88,7 +86,7 @@ Check solve section for steganography.
 *JavaScript Obfustcators*
 
 - [Metasploit JavaScript Obfuscator](https://github.com/rapid7/metasploit-framework/wiki/How-to-obfuscate-JavaScript-in-Metasploit)
-- [Uglify](http://marijnhaverbeke.nl//uglifyjs)
+- [Uglify](https://github.com/mishoo/UglifyJS)
 
 
 # Solve
@@ -100,27 +98,27 @@ Check solve section for steganography.
 *Tools used for performing various kinds of attacks*
 
 - [Bettercap](https://github.com/bettercap/bettercap) - Framework to perform MITM (Man in the Middle) attacks.
-- [Layer 2 attacks](https://github.com/tomac/yersinia) - Attack various protocols on layer 2.
+- [Yersinia](https://github.com/tomac/yersinia) - Attack various protocols on layer 2.
 
 ## Crypto
 
 *Tools used for solving Crypto challenges*
 
-- [FeatherDuster](https://github.com/nccgroup/featherduster) - An automated, modular cryptanalysis tool
-- [Hash Extender](https://github.com/iagox86/hash_extender) - A utility tool for performing hash length extension attacks
-- [padding-oracle-attacker](https://github.com/KishanBagaria/padding-oracle-attacker) - A CLI tool to execute padding oracle attacks
-- [PkCrack](https://www.unix-ag.uni-kl.de/~conrad/krypto/pkcrack.html) - A tool for Breaking PkZip-encryption
-- [RSACTFTool](https://github.com/Ganapati/RsaCtfTool) - A tool for recovering RSA private key with various attack
-- [RSATool](https://github.com/ius/rsatool) - Generate private key with knowledge of p and q
-- [XORTool](https://github.com/hellman/xortool) - A tool to analyze multi-byte xor cipher
+- [FeatherDuster](https://github.com/nccgroup/featherduster) - An automated, modular cryptanalysis tool.
+- [Hash Extender](https://github.com/iagox86/hash_extender) - A utility tool for performing hash length extension attacks.
+- [padding-oracle-attacker](https://github.com/KishanBagaria/padding-oracle-attacker) - A CLI tool to execute padding oracle attacks.
+- [PkCrack](https://www.unix-ag.uni-kl.de/~conrad/krypto/pkcrack.html) - A tool for Breaking PkZip-encryption.
+- [RSACTFTool](https://github.com/Ganapati/RsaCtfTool) - A tool for recovering RSA private key with various attack.
+- [RSATool](https://github.com/ius/rsatool) - Generate private key with knowledge of p and q.
+- [XORTool](https://github.com/hellman/xortool) - A tool to analyze multi-byte xor cipher.
 
 ## Bruteforcers
 
 *Tools used for various kind of bruteforcing (passwords etc.)*
 
 - [Hashcat](https://hashcat.net/hashcat/) - Password Cracker
-- [John The Jumbo](https://github.com/magnumripper/JohnTheRipper) - Community enhanced version of John the Ripper
-- [John The Ripper](http://www.openwall.com/john/) - Password Cracker
+- [John The Jumbo](https://github.com/magnumripper/JohnTheRipper) - Community enhanced version of John the Ripper.
+- [John The Ripper](http://www.openwall.com/john/) - Password Cracker.
 - [Nozzlr](https://github.com/intrd/nozzlr) - Nozzlr is a bruteforce framework, trully modular and script-friendly.
 - [Ophcrack](http://ophcrack.sourceforge.net/) - Windows password cracker based on rainbow tables.
 - [Patator](https://github.com/lanjelot/patator) - Patator is a multi-purpose brute-forcer, with a modular design.
@@ -129,63 +127,60 @@ Check solve section for steganography.
 
 *Tools used for solving Exploits challenges*
 
-- [DLLInjector](https://github.com/OpenSecurityResearch/dllinjector) - Inject dlls in processes
+- [DLLInjector](https://github.com/OpenSecurityResearch/dllinjector) - Inject dlls in processes.
 - [libformatstr](https://github.com/hellman/libformatstr) - Simplify format string exploitation.
-- [Metasploit](http://www.metasploit.com/) - Penetration testing software
+- [Metasploit](http://www.metasploit.com/) - Penetration testing software.
   - [Cheatsheet](https://www.comparitech.com/net-admin/metasploit-cheat-sheet/)
-- [one_gadget](https://github.com/david942j/one_gadget) -  A tool to find the one gadget `execve('/bin/sh', NULL, NULL)` call
+- [one_gadget](https://github.com/david942j/one_gadget) -  A tool to find the one gadget `execve('/bin/sh', NULL, NULL)` call.
   - `gem install one_gadget`
-- [Pwntools](https://github.com/Gallopsled/pwntools) - CTF Framework for writing exploits
-- [Qira](https://github.com/BinaryAnalysisPlatform/qira) - QEMU Interactive Runtime Analyser
-- [ROP Gadget](https://github.com/JonathanSalwan/ROPgadget) - Framework for ROP exploitation
-- [V0lt](https://github.com/P1kachu/v0lt) - Security CTF Toolkit
+- [Pwntools](https://github.com/Gallopsled/pwntools) - CTF Framework for writing exploits.
+- [Qira](https://github.com/BinaryAnalysisPlatform/qira) - QEMU Interactive Runtime Analyser.
+- [ROP Gadget](https://github.com/JonathanSalwan/ROPgadget) - Framework for ROP exploitation.
+- [V0lt](https://github.com/P1kachu/v0lt) - Security CTF Toolkit.
 
 ## Forensics
 
 *Tools used for solving Forensics challenges*
 
-- [Aircrack-Ng](http://www.aircrack-ng.org/) - Crack 802.11 WEP and WPA-PSK keys
+- [Aircrack-Ng](http://www.aircrack-ng.org/) - Crack 802.11 WEP and WPA-PSK keys.
   - `apt-get install aircrack-ng`
-- [Audacity](http://sourceforge.net/projects/audacity/) - Analyze sound files (mp3, m4a, whatever)
+- [Audacity](http://sourceforge.net/projects/audacity/) - Analyze sound files (mp3, m4a, whatever).
   - `apt-get install audacity`
-- [Bkhive and Samdump2](http://sourceforge.net/projects/ophcrack/files/samdump2/) - Dump SYSTEM and SAM files
+- [Bkhive and Samdump2](http://sourceforge.net/projects/ophcrack/files/samdump2/) - Dump SYSTEM and SAM files.
   - `apt-get install samdump2 bkhive`
-- [CFF Explorer](http://www.ntcore.com/exsuite.php) - PE Editor
-- [Creddump](https://github.com/moyix/creddump) - Dump windows credentials
-- [DVCS Ripper](https://github.com/kost/dvcs-ripper) - Rips web accessible (distributed) version control systems
-- [Exif Tool](http://www.sno.phy.queensu.ca/~phil/exiftool/) - Read, write and edit file metadata
-- [Extundelete](http://extundelete.sourceforge.net/) - Used for recovering lost data from mountable images
-- [Fibratus](https://github.com/rabbitstack/fibratus) - Tool for exploration and tracing of the Windows kernel
-- [Foremost](http://foremost.sourceforge.net/) - Extract particular kind of files using headers
+- [CFF Explorer](http://www.ntcore.com/exsuite.php) - PE Editor.
+- [Creddump](https://github.com/moyix/creddump) - Dump windows credentials.
+- [DVCS Ripper](https://github.com/kost/dvcs-ripper) - Rips web accessible (distributed) version control systems.
+- [Exif Tool](http://www.sno.phy.queensu.ca/~phil/exiftool/) - Read, write and edit file metadata.
+- [Extundelete](http://extundelete.sourceforge.net/) - Used for recovering lost data from mountable images.
+- [Fibratus](https://github.com/rabbitstack/fibratus) - Tool for exploration and tracing of the Windows kernel.
+- [Foremost](http://foremost.sourceforge.net/) - Extract particular kind of files using headers.
   - `apt-get install foremost`
-- [Fsck.ext4](http://linux.die.net/man/8/fsck.ext3) - Used to fix corrupt filesystems
-- [Malzilla](http://malzilla.sourceforge.net/) - Malware hunting tool
-- [NetworkMiner](http://www.netresec.com/?page=NetworkMiner) - Network Forensic Analysis Tool
-- [PDF Streams Inflater](http://malzilla.sourceforge.net/downloads.html) - Find and extract zlib files compressed in PDF files
-- [ResourcesExtract](http://www.nirsoft.net/utils/resources_extract.html) - Extract various filetypes from exes
-- [Shellbags](https://github.com/williballenthin/shellbags) - Investigate NT\_USER.dat files
-- [UsbForensics](http://www.forensicswiki.org/wiki/USB_History_Viewing) - Contains many tools for usb forensics
-- [Volatility](https://github.com/volatilityfoundation/volatility) - To investigate memory dumps
-
+- [Fsck.ext4](http://linux.die.net/man/8/fsck.ext3) - Used to fix corrupt filesystems.
+- [Malzilla](http://malzilla.sourceforge.net/) - Malware hunting tool.
+- [NetworkMiner](http://www.netresec.com/?page=NetworkMiner) - Network Forensic Analysis Tool.
+- [PDF Streams Inflater](http://malzilla.sourceforge.net/downloads.html) - Find and extract zlib files compressed in PDF files.
+- [ResourcesExtract](http://www.nirsoft.net/utils/resources_extract.html) - Extract various filetypes from exes.
+- [Shellbags](https://github.com/williballenthin/shellbags) - Investigate NT\_USER.dat files.
+- [USBRip](https://github.com/snovvcrash/usbrip) - Simple CLI forensics tool for tracking USB device artifacts (history of USB events) on GNU/Linux.
+- [Volatility](https://github.com/volatilityfoundation/volatility) - To investigate memory dumps.
 
 *Registry Viewers*
-- [RegistryViewer](http://www.gaijin.at/en/getitpage.php?id=regview) - Used to view windows registries
-- [Windows Registry Viewers](http://www.forensicswiki.org/wiki/Windows_Registry) - More registry viewers
-
+- [OfflineRegistryView](https://www.nirsoft.net/utils/offline_registry_view.html) - Simple tool for Windows that allows you to read offline Registry files from external drive and view the desired Registry key in .reg file format.
+- [Registry Viewer®](https://accessdata.com/product-download/registry-viewer-2-0-0) - Used to view Windows registries.
 
 ## Networking
 
 *Tools used for solving Networking challenges*
 
-- [Bro](https://www.bro.org/) - An open-source network security monitor.
 - [Masscan](https://github.com/robertdavidgraham/masscan) - Mass IP port scanner, TCP port scanner.
 - [Monit](https://linoxide.com/monitoring-2/monit-linux/) - A linux tool to check a host on the network (and other non-network activities). 
 - [Nipe](https://github.com/GouveaHeitor/nipe) - Nipe is a script to make Tor Network your default gateway.
 - [Nmap](https://nmap.org/) - An open source utility for network discovery and security auditing.
 - [Wireshark](https://www.wireshark.org/) - Analyze the network dumps.
   - `apt-get install wireshark`
+- [Zeek](https://www.zeek.org) - An open-source network security monitor.
 - [Zmap](https://zmap.io/) - An open-source network scanner.
-
 
 ## Reversing
 
@@ -228,7 +223,7 @@ Check solve section for steganography.
 *JavaScript Deobfuscators*
 
 - [Detox](http://relentless-coding.org/projects/jsdetox/install) - A Javascript malware analysis tool.
-- [Revelo](http://www.kahusecurity.com/tools/Revelo_v0.6.zip) - Analyze obfuscated Javascript code.
+- [Revelo](http://www.kahusecurity.com/posts/revelo_javascript_deobfuscator.html) - Analyze obfuscated Javascript code.
 
 *SWF Analyzers*
 - [RABCDAsm](https://github.com/CyberShadow/RABCDAsm) - Collection of utilities including an ActionScript 3 assembler/disassembler.
@@ -239,8 +234,8 @@ Check solve section for steganography.
 
 *Various kind of useful services available around the internet*
 
-- [CSWSH](http://ironwasp.org/cswsh.html) - Cross-Site WebSocket Hijacking Tester.
-- [Request Bin](http://requestb.in/) - Lets you inspect http requests to a particular url.
+- [CSWSH](http://cow.cat/cswsh.html) - Cross-Site WebSocket Hijacking Tester.
+- [Request Bin](https://requestbin.com/) - Lets you inspect http requests to a particular url.
 
 ## Steganography
 
@@ -252,7 +247,7 @@ Check solve section for steganography.
 - [Exiv2](http://www.exiv2.org/manpage.html) - Image metadata manipulation tool.
 - [ImageMagick](http://www.imagemagick.org/script/index.php) - Tool for manipulating images.
 - [Outguess](https://www.freebsd.org/cgi/man.cgi?query=outguess+&apropos=0&sektion=0&manpath=FreeBSD+Ports+5.1-RELEASE&format=html) - Universal steganographic tool.
-- [Pngtools](http://www.stillhq.com/pngtools/) - For various analysis related to PNGs.
+- [Pngtools](https://packages.debian.org/sid/pngtools) - For various analysis related to PNGs.
   - `apt-get install pngtools`
 - [SmartDeblur](https://github.com/Y-Vladimir/SmartDeblur) - Used to deblur and fix defocused images.
 - [Steganabara](https://www.openhub.net/p/steganabara) -  Tool for stegano analysis written in Java.
@@ -267,13 +262,14 @@ Check solve section for steganography.
 
 *Tools used for solving Web challenges*
 
-- [BurpSuite]() - A graphical tool to testing website security. 
+- [BurpSuite](https://portswigger.net/burp) - A graphical tool to testing website security. 
 - [Commix](https://github.com/commixproject/commix) - Automated All-in-One OS Command Injection and Exploitation Tool.
-- [Hackbar](https://addons.mozilla.org/en-US/firefox/addon/hackbar/) - Firefox addon for easy web exploitation.
-- [OWASP ZAP](https://www.owasp.org/index.php/Projects/OWASP_Zed_Attack_Proxy_Project) - Intercepting proxy to replay, debug, and fuzz HTTP requests and responses.
+- [Hackbar](https://addons.mozilla.org/en-US/firefox/addon/hackbartool/) - Firefox addon for easy web exploitation.
+- [OWASP ZAP](https://www.owasp.org/index.php/Projects/OWASP_Zed_Attack_Proxy_Project) - Intercepting proxy to replay, debug, and fuzz HTTP requests and responses
 - [Postman](https://chrome.google.com/webstore/detail/postman/fhbjgbiflinjbdggehcddcbncdddomop?hl=en) - Add on for chrome for debugging network requests.
 - [Raccoon](https://github.com/evyatarmeged/Raccoon) - A high performance offensive security tool for reconnaissance and vulnerability scanning.
 - [SQLMap](https://github.com/sqlmapproject/sqlmap) - Automatic SQL injection and database takeover tool.
+  ```pip install sqlmap```
 - [W3af](https://github.com/andresriancho/w3af) -  Web Application Attack and Audit Framework.
 - [XSSer](http://xsser.sourceforge.net/) - Automated XSS testor.
 
@@ -325,9 +321,9 @@ Check solve section for steganography.
 
 - [Backdoor](https://backdoor.sdslabs.co/) - Security Platform by SDSLabs.
 - [Crackmes](https://crackmes.one/) - Reverse Engineering Challenges.
-- [Ctfs.me](http://ctfs.me) - CTF All the time.
-- [Exploit Exercises](https://exploit-exercises.com/) - Variety of VMs to learn variety of computer security issues.
-- [Gracker](http://gracker.org) - Binary challenges having a slow learning curve, and write-ups for each level.
+- [Exploit Exercises](https://exploit-exercises.lains.space/) - Variety of VMs to learn variety of computer security issues.
+- [Exploit.Education](http://exploit.education) - Variety of VMs to learn variety of computer security issues.
+- [Gracker](https://github.com/Samuirai/gracker) - Binary challenges having a slow learning curve, and write-ups for each level.
 - [Hack The Box](https://www.hackthebox.eu) - Weekly CTFs for all types of security enthusiasts.
 - [Hack This Site](https://www.hackthissite.org/) - Training ground for hackers.
 - [Hacking-Lab](https://hacking-lab.com/) - Ethical hacking, computer network and security challenge platform.
@@ -341,14 +337,12 @@ Check solve section for steganography.
 - [Reversin.kr](http://reversing.kr/) - Reversing challenge.
 - [Ringzer0Team](https://ringzer0team.com/) - Ringzer0 Team Online CTF.
 - [Root-Me](https://www.root-me.org/) - Hacking and Information Security learning platform.
-- [ROP Wargames](https://game.rop.sh/) - ROP Wargames
+- [ROP Wargames](https://github.com/xelenonz/game) - ROP Wargames.
 - [SmashTheStack](http://smashthestack.org/) - A variety of wargames maintained by the SmashTheStack Community.
+- [Viblo CTF](https://ctf.viblo.asia) - Various amazing CTF challenges, in many different categories. Has both Practice mode and Contest mode.
 - [VulnHub](https://www.vulnhub.com/) - VM-based for practical in digital security, computer application & network administration.
 - [W3Challs](https://w3challs.com) - A penetration testing training platform, which offers various computer challenges, in various categories.
 - [WebHacking](http://webhacking.kr) - Hacking challenges for web.
-- [WeChall](https://www.wechall.net/) - Always online challenge site.
-- [WTHack OnlineCTF](https://onlinectf.com) - CTF Practice platform for every level of cyber security enthusiasts. 
-
 
 *Self-hosted CTFs*
 
@@ -356,7 +350,7 @@ Check solve section for steganography.
 
 ## Websites
 
-*Various general websites about and on ctf*
+*Various general websites about and on CTF*
 
 - [CTF Time](https://ctftime.org/) - General information on CTF occuring around the worlds.
 - [Reddit Security CTF](http://www.reddit.com/r/securityctf) - Reddit CTF category.
@@ -365,11 +359,10 @@ Check solve section for steganography.
 
 *Various Wikis available for learning about CTFs*
 
-- [Bamboofox](https://bamboofox.torchpad.com/) - Chinese resources to learn CTF.
+- [Bamboofox](https://bamboofox.github.io/) - Chinese resources to learn CTF.
 - [bi0s Wiki](https://teambi0s.gitlab.io/bi0s-wiki/) - Wiki from team bi0s.
 - [ISIS Lab](https://github.com/isislab/Project-Ideas/wiki) - CTF Wiki by Isis lab.
-- [OpenToAll](http://wiki.opentoallctf.com/) - Open To All Knowledge Base.
-
+- [OpenToAll](https://github.com/OpenToAllCTF/Tips) - CTF tips by OTA CTF team members.
 
 ## Writeups Collections
 
@@ -377,11 +370,10 @@ Check solve section for steganography.
 
 - [Captf](http://captf.com/) - Dumped CTF challenges and materials by psifertex.
 - [CTF write-ups (community)](https://github.com/ctfs/) - CTF challenges + write-ups archive maintained by the community.
-- [CTFTime Scrapper](https://github.com/abdilahrf/CTFWriteupScrapper) - Scraps all writeup from ctf time and organize which to read first.
+- [CTFTime Scrapper](https://github.com/abdilahrf/CTFWriteupScrapper) - Scraps all writeup from CTF Time and organize which to read first.
 - [pwntools writeups](https://github.com/Gallopsled/pwntools-write-ups) - A collection of CTF write-ups all using pwntools.
 - [Shell Storm](http://shell-storm.org/repo/CTF/) - CTF challenge archive maintained by Jonathan Salwan.
 - [Smoke Leet Everyday](https://github.com/smokeleeteveryday/CTF_WRITEUPS) - CTF write-ups repo maintained by SmokeLeetEveryday team.
-
 
 ### LICENSE
 
