@@ -15,23 +15,36 @@ It takes time to build up collection of tools used in CTF and remember them all.
 
 ### Contents
 
-- [Awesome CTF](#awesome-ctf)
-  - [Create](#create)
-    - [Forensics](#forensics)
-    - [Platforms](#platforms)
-    - [Steganography](#steganography)
-    - [Web](#web)
-  - [Solve](#solve)
-    - [Attacks](#attacks)
-    - [Bruteforcers](#bruteforcers)
-    - [Cryptography](#crypto)
-    - [Exploits](#exploits)
-    - [Forensics](#forensics-1)
-    - [Networking](#networking)
-    - [Reversing](#reversing)
-    - [Services](#services)
-    - [Steganography](#steganography-1)
-    - [Web](#web-1)
+- [Awesome CTF ![Build Status](https://travis-ci.org/apsdehal/awesome-ctf) ![Awesome](https://github.com/sindresorhus/awesome)](#awesome-ctf-build-statushttpstravis-ciorgapsdehalawesome-ctf-awesomehttpsgithubcomsindresorhusawesome)
+    - [Contributing](#contributing)
+      - [_If you know a tool that isn't present here, feel free to open a pull request._](#if-you-know-a-tool-that-isnt-present-here-feel-free-to-open-a-pull-request)
+    - [Why?](#why)
+    - [Contents](#contents)
+- [Create](#create)
+  - [Forensics](#forensics)
+  - [Platforms](#platforms)
+  - [Steganography](#steganography)
+  - [Web](#web)
+- [Solve](#solve)
+  - [Attacks](#attacks)
+  - [Crypto](#crypto)
+  - [Bruteforcers](#bruteforcers)
+  - [Exploits](#exploits)
+  - [Forensics](#forensics-1)
+  - [Networking](#networking)
+  - [Reversing](#reversing)
+  - [Services](#services)
+  - [Steganography](#steganography-1)
+  - [Web](#web-1)
+- [Resources](#resources)
+  - [Operating Systems](#operating-systems)
+  - [Starter Packs](#starter-packs)
+  - [Tutorials](#tutorials)
+  - [Wargames](#wargames)
+  - [Websites](#websites)
+  - [Wikis](#wikis)
+  - [Writeups Collections](#writeups-collections)
+    - [LICENSE](#license)
 
 - [Resources](#resources)
   - [Operating Systems](#operating-systems)
@@ -249,6 +262,7 @@ Check solve section for steganography.
 - [Exiftool](https://linux.die.net/man/1/exiftool) - Read and write meta information in files
 - [Exiv2](http://www.exiv2.org/manpage.html) - Image metadata manipulation tool
 - [ImageMagick](http://www.imagemagick.org/script/index.php) - Tool for manipulating images
+- [Images Steganography](https://sourceforge.net/projects/image-steg/) - Embeds text and files in images with optional encryption
 - [Outguess](https://www.freebsd.org/cgi/man.cgi?query=outguess+&apropos=0&sektion=0&manpath=FreeBSD+Ports+5.1-RELEASE&format=html) - Universal steganographic tool
 - [Pngtools](http://www.stillhq.com/pngtools/) - For various analysis related to PNGs
   - `apt-get install pngtools`
@@ -264,7 +278,6 @@ Check solve section for steganography.
 ## Web
 
 *Tools used for solving Web challenges*
-
 - [BurpSuite]() - A graphical tool to testing website security. 
 - [Commix](https://github.com/commixproject/commix) - Automated All-in-One OS Command Injection and Exploitation Tool.
 - [Hackbar](https://addons.mozilla.org/en-US/firefox/addon/hackbar/) - Firefox addon for easy web exploitation
