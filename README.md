@@ -12,7 +12,6 @@ Please take a quick look at the [contribution guidelines](https://github.com/aps
 
 It takes time to build up collection of tools used in CTF and remember them all. This repo helps to keep all these scattered tools at one place.
 
-
 ### Contents
 
 - [Awesome CTF](#awesome-ctf)
@@ -42,6 +41,7 @@ It takes time to build up collection of tools used in CTF and remember them all.
   - [Wikis](#wikis)
   - [Writeups Collections](#writeups-collections)
 
+
 # Create
 
 *Tools used for creating CTF challenges*
@@ -53,8 +53,8 @@ It takes time to build up collection of tools used in CTF and remember them all.
 
 *Tools used for creating Forensics challenges*
 
-- [Dnscat](https://wiki.skullsecurity.org/Dnscat) - Hosts communication through DNS
-- [Registry Dumper](http://www.kahusecurity.com/downloads/RegistryDumper_v0.2.7z) - Dump your registry
+- [Dnscat2](https://github.com/iagox86/dnscat2) - Hosts communication through DNS
+- [Registry Dumper](http://www.kahusecurity.com/posts/registry_dumper_find_and_dump_hidden_registry_keys.html) - Dump your registry
 
 ## Platforms
 
@@ -67,19 +67,17 @@ It takes time to build up collection of tools used in CTF and remember them all.
 - [Mellivora](https://github.com/Nakiami/mellivora) - A CTF engine written in PHP
 - [NightShade](https://github.com/UnrealAkama/NightShade) - A simple security CTF framework
 - [OpenCTF](https://github.com/easyctf/openctf) - CTF in a box. Minimal setup required
-- [PicoCTF Platform 2](https://github.com/picoCTF/picoCTF-Platform-2) - A genericized version of picoCTF 2014 that can be easily adapted to host CTF or programming competitions.
+- [PicoCTF](https://github.com/picoCTF/picoCTF) - The platform used to run picoCTF. A great framework to host any CTF.
 - [PyChallFactory](https://github.com/pdautry/py_chall_factory) - Small framework to create/manage/package jeopardy CTF challenges
 - [RootTheBox](https://github.com/moloch--/RootTheBox) - A Game of Hackers (CTF Scoreboard & Game Manager)
 - [Scorebot](https://github.com/legitbs/scorebot) - Platform for CTFs by Legitbs (Defcon)
 - [SecGen](https://github.com/cliffe/SecGen) - Security Scenario Generator. Creates randomly vulnerable virtual machines
-
 
 ## Steganography
 
 *Tools used to create stego challenges*
 
 Check solve section for steganography.
-
 
 ## Web
 
@@ -88,7 +86,7 @@ Check solve section for steganography.
 *JavaScript Obfustcators*
 
 - [Metasploit JavaScript Obfuscator](https://github.com/rapid7/metasploit-framework/wiki/How-to-obfuscate-JavaScript-in-Metasploit)
-- [Uglify](http://marijnhaverbeke.nl//uglifyjs)
+- [Uglify](https://github.com/mishoo/UglifyJS)
 
 
 # Solve
@@ -100,7 +98,7 @@ Check solve section for steganography.
 *Tools used for performing various kinds of attacks*
 
 - [Bettercap](https://github.com/bettercap/bettercap) - Framework to perform MITM (Man in the Middle) attacks.
-- [Layer 2 attacks](https://github.com/tomac/yersinia) - Attack various protocols on layer 2
+- [Yersinia](https://github.com/tomac/yersinia) - Attack various protocols on layer 2
 
 ## Crypto
 
@@ -164,28 +162,25 @@ Check solve section for steganography.
 - [PDF Streams Inflater](http://malzilla.sourceforge.net/downloads.html) - Find and extract zlib files compressed in PDF files
 - [ResourcesExtract](http://www.nirsoft.net/utils/resources_extract.html) - Extract various filetypes from exes
 - [Shellbags](https://github.com/williballenthin/shellbags) - Investigate NT\_USER.dat files
-- [UsbForensics](http://www.forensicswiki.org/wiki/USB_History_Viewing) - Contains many tools for usb forensics
+- [USBRip](https://github.com/snovvcrash/usbrip) - Simple CLI forensics tool for tracking USB device artifacts (history of USB events) on GNU/Linux
 - [Volatility](https://github.com/volatilityfoundation/volatility) - To investigate memory dumps
 
-
 *Registry Viewers*
-- [RegistryViewer](http://www.gaijin.at/en/getitpage.php?id=regview) - Used to view windows registries
-- [Windows Registry Viewers](http://www.forensicswiki.org/wiki/Windows_Registry) - More registry viewers
-
+- [OfflineRegistryView](https://www.nirsoft.net/utils/offline_registry_view.html) - Simple tool for Windows that allows you to read offline Registry files from external drive and view the desired Registry key in .reg file format
+- [Registry Viewer®](https://accessdata.com/product-download/registry-viewer-2-0-0) - Used to view Windows registries
 
 ## Networking
 
 *Tools used for solving Networking challenges*
 
-- [Bro](https://www.bro.org/) - An open-source network security monitor.
 - [Masscan](https://github.com/robertdavidgraham/masscan) - Mass IP port scanner, TCP port scanner.
 - [Monit](https://linoxide.com/monitoring-2/monit-linux/) - A linux tool to check a host on the network (and other non-network activities). 
 - [Nipe](https://github.com/GouveaHeitor/nipe) - Nipe is a script to make Tor Network your default gateway.
 - [Nmap](https://nmap.org/) - An open source utility for network discovery and security auditing.
 - [Wireshark](https://www.wireshark.org/) - Analyze the network dumps.
   - `apt-get install wireshark`
+- [Zeek](https://www.zeek.org) - An open-source network security monitor.
 - [Zmap](https://zmap.io/) - An open-source network scanner.
-
 
 ## Reversing
 
@@ -226,7 +221,7 @@ Check solve section for steganography.
 *JavaScript Deobfuscators*
 
 - [Detox](http://relentless-coding.org/projects/jsdetox/install) - A Javascript malware analysis tool
-- [Revelo](http://www.kahusecurity.com/tools/Revelo_v0.6.zip) - Analyze obfuscated Javascript code
+- [Revelo](http://www.kahusecurity.com/posts/revelo_javascript_deobfuscator.html) - Analyze obfuscated Javascript code
 
 *SWF Analyzers*
 - [RABCDAsm](https://github.com/CyberShadow/RABCDAsm) - Collection of utilities including an ActionScript 3 assembler/disassembler.
@@ -237,8 +232,8 @@ Check solve section for steganography.
 
 *Various kind of useful services available around the internet*
 
-- [CSWSH](http://ironwasp.org/cswsh.html) - Cross-Site WebSocket Hijacking Tester
-- [Request Bin](http://requestb.in/) - Lets you inspect http requests to a particular url
+- [CSWSH](http://cow.cat/cswsh.html) - Cross-Site WebSocket Hijacking Tester
+- [Request Bin](https://requestbin.com/) - Lets you inspect http requests to a particular url
 
 ## Steganography
 
@@ -250,7 +245,7 @@ Check solve section for steganography.
 - [Exiv2](http://www.exiv2.org/manpage.html) - Image metadata manipulation tool
 - [ImageMagick](http://www.imagemagick.org/script/index.php) - Tool for manipulating images
 - [Outguess](https://www.freebsd.org/cgi/man.cgi?query=outguess+&apropos=0&sektion=0&manpath=FreeBSD+Ports+5.1-RELEASE&format=html) - Universal steganographic tool
-- [Pngtools](http://www.stillhq.com/pngtools/) - For various analysis related to PNGs
+- [Pngtools](https://packages.debian.org/sid/pngtools) - For various analysis related to PNGs
   - `apt-get install pngtools`
 - [SmartDeblur](https://github.com/Y-Vladimir/SmartDeblur) - Used to deblur and fix defocused images
 - [Steganabara](https://www.openhub.net/p/steganabara) -  Tool for stegano analysis written in Java
@@ -265,9 +260,9 @@ Check solve section for steganography.
 
 *Tools used for solving Web challenges*
 
-- [BurpSuite]() - A graphical tool to testing website security. 
+- [BurpSuite](https://portswigger.net/burp) - A graphical tool to testing website security. 
 - [Commix](https://github.com/commixproject/commix) - Automated All-in-One OS Command Injection and Exploitation Tool.
-- [Hackbar](https://addons.mozilla.org/en-US/firefox/addon/hackbar/) - Firefox addon for easy web exploitation
+- [Hackbar](https://addons.mozilla.org/en-US/firefox/addon/hackbartool/) - Firefox addon for easy web exploitation
 - [OWASP ZAP](https://www.owasp.org/index.php/Projects/OWASP_Zed_Attack_Proxy_Project) - Intercepting proxy to replay, debug, and fuzz HTTP requests and responses
 - [Postman](https://chrome.google.com/webstore/detail/postman/fhbjgbiflinjbdggehcddcbncdddomop?hl=en) - Add on for chrome for debugging network requests
 - [Raccoon](https://github.com/evyatarmeged/Raccoon) - A high performance offensive security tool for reconnaissance and vulnerability scanning
@@ -322,9 +317,9 @@ Check solve section for steganography.
 
 - [Backdoor](https://backdoor.sdslabs.co/) - Security Platform by SDSLabs.
 - [Crackmes](https://crackmes.one/) - Reverse Engineering Challenges
-- [Ctfs.me](http://ctfs.me) - CTF All the time
-- [exploit.education](http://exploit.education) - Variety of VMs to learn variety of computer security issues.
-- [Gracker](http://gracker.org) - Binary challenges having a slow learning curve, and write-ups for each level.
+- [Exploit Exercises](https://exploit-exercises.lains.space/) - Variety of VMs to learn variety of computer security issues.
+- [Exploit.Education](http://exploit.education) - Variety of VMs to learn variety of computer security issues.
+- [Gracker](https://github.com/Samuirai/gracker) - Binary challenges having a slow learning curve, and write-ups for each level.
 - [Hack The Box](https://www.hackthebox.eu) - Weekly CTFs for all types of security enthusiasts.
 - [Hack This Site](https://www.hackthissite.org/) - Training ground for hackers.
 - [Hacking-Lab](https://hacking-lab.com/) - Ethical hacking, computer network and security challenge platform.
@@ -338,15 +333,12 @@ Check solve section for steganography.
 - [Reversin.kr](http://reversing.kr/) - Reversing challenge
 - [Ringzer0Team](https://ringzer0team.com/) - Ringzer0 Team Online CTF
 - [Root-Me](https://www.root-me.org/) - Hacking and Information Security learning platform.
-- [ROP Wargames](https://game.rop.sh/) - ROP Wargames
+- [ROP Wargames](https://github.com/xelenonz/game) - ROP Wargames
 - [SmashTheStack](http://smashthestack.org/) - A variety of wargames maintained by the SmashTheStack Community.
 - [Viblo CTF](https://ctf.viblo.asia) - Various amazing CTF challenges, in many different categories. Has both Practice mode and Contest mode.
 - [VulnHub](https://www.vulnhub.com/) - VM-based for practical in digital security, computer application & network administration.
 - [W3Challs](https://w3challs.com) - A penetration testing training platform, which offers various computer challenges, in various categories.
 - [WebHacking](http://webhacking.kr) - Hacking challenges for web.
-- [WeChall](https://www.wechall.net/) - Always online challenge site.
-- [WTHack OnlineCTF](https://onlinectf.com) - CTF Practice platform for every level of cyber security enthusiasts. 
-
 
 *Self-hosted CTFs*
 
@@ -363,9 +355,9 @@ Check solve section for steganography.
 
 *Various Wikis available for learning about CTFs*
 
-- [Bamboofox](https://bamboofox.torchpad.com/) - Chinese resources to learn CTF
+- [Bamboofox](https://bamboofox.github.io/) - Chinese resources to learn CTF
 - [ISIS Lab](https://github.com/isislab/Project-Ideas/wiki) - CTF Wiki by Isis lab
-- [OpenToAll](http://wiki.opentoallctf.com/) - Open To All Knowledge Base
+- [OpenToAll](https://github.com/OpenToAllCTF/Tips) - CTF tips by OTA CTF team members
 
 ## Writeups Collections
 
@@ -377,7 +369,6 @@ Check solve section for steganography.
 - [pwntools writeups](https://github.com/Gallopsled/pwntools-write-ups) - A collection of CTF write-ups all using pwntools
 - [Shell Storm](http://shell-storm.org/repo/CTF/) - CTF challenge archive maintained by Jonathan Salwan
 - [Smoke Leet Everyday](https://github.com/smokeleeteveryday/CTF_WRITEUPS) - CTF write-ups repo maintained by SmokeLeetEveryday team.
-
 
 ### LICENSE
 
