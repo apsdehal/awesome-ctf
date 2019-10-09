@@ -243,6 +243,7 @@ Check solve section for steganography.
 
 *Tools used for solving Steganography challenges*
 
+- [AperiSolve](https://aperisolve.fr/) - Aperi'Solve is a platform which performs layer analysis on image (open-source).
 - [Convert](http://www.imagemagick.org/script/convert.php) - Convert images b/w formats and apply filters.
 - [Exif](http://manpages.ubuntu.com/manpages/trusty/man1/exif.1.html) - Shows EXIF information in JPEG files.
 - [Exiftool](https://linux.die.net/man/1/exiftool) - Read and write meta information in files.
