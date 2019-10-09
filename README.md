@@ -124,6 +124,7 @@ Check solve section for steganography.
 - [Nozzlr](https://github.com/intrd/nozzlr) - Nozzlr is a bruteforce framework, trully modular and script-friendly.
 - [Ophcrack](http://ophcrack.sourceforge.net/) - Windows password cracker based on rainbow tables.
 - [Patator](https://github.com/lanjelot/patator) - Patator is a multi-purpose brute-forcer, with a modular design.
+- [Turbo Intruder](https://portswigger.net/research/turbo-intruder-embracing-the-billion-request-attack) - Burp Suite extension for sending large numbers of HTTP requests 
 
 ## Exploits
 
@@ -265,7 +266,7 @@ Check solve section for steganography.
 
 *Tools used for solving Web challenges*
 
-- [BurpSuite]() - A graphical tool to testing website security. 
+- [BurpSuite](https://portswigger.net/) - A graphical tool to testing website security. 
 - [Commix](https://github.com/commixproject/commix) - Automated All-in-One OS Command Injection and Exploitation Tool.
 - [Hackbar](https://addons.mozilla.org/en-US/firefox/addon/hackbar/) - Firefox addon for easy web exploitation
 - [OWASP ZAP](https://www.owasp.org/index.php/Projects/OWASP_Zed_Attack_Proxy_Project) - Intercepting proxy to replay, debug, and fuzz HTTP requests and responses
@@ -346,6 +347,7 @@ Check solve section for steganography.
 - [WebHacking](http://webhacking.kr) - Hacking challenges for web.
 - [WeChall](https://www.wechall.net/) - Always online challenge site.
 - [WTHack OnlineCTF](https://onlinectf.com) - CTF Practice platform for every level of cyber security enthusiasts. 
+- [Hacker101](https://www.hacker101.com/) - CTF from HackerOne
 
 
 *Self-hosted CTFs*
