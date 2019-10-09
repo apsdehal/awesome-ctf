@@ -202,6 +202,7 @@ Check solve section for steganography.
 - [Boomerang](https://github.com/nemerle/boomerang) - Decompile x86 binaries to C.
 - [ctf_import](https://github.com/docileninja/ctf_import) – run basic functions from stripped binaries cross platform.
 - [cwe_checker](https://github.com/fkie-cad/cwe_checker) - cwe_checker finds vulnerable patterns in binary executables.
+- [demovfuscator](https://github.com/kirschju/demovfuscator) - A work-in-progress deobfuscator for movfuscated binaries.
 - [Frida](https://github.com/frida/) - Dynamic Code Injection.
 - [GDB](https://www.gnu.org/software/gdb/) - The GNU project debugger.
 - [GEF](https://github.com/hugsy/gef) - GDB plugin.
@@ -214,7 +215,7 @@ Check solve section for steganography.
 - [Objection](https://github.com/sensepost/objection) - Runtime Mobile Exploration.
 - [PEDA](https://github.com/longld/peda) - GDB plugin (only python2.7).
 - [Pin](https://software.intel.com/en-us/articles/pin-a-dynamic-binary-instrumentation-tool) - A dynamic binary instrumentaion tool by Intel.
--[PinCTF](https://github.com/ChrisTheCoolHut/PinCTF) - A tool which uses intel pin for Side Channel Analysis.
+- [PinCTF](https://github.com/ChrisTheCoolHut/PinCTF) - A tool which uses intel pin for Side Channel Analysis.
 - [Plasma](https://github.com/joelpx/plasma) - An interactive disassembler for x86/ARM/MIPS which can generate indented pseudo-code with colored syntax.
 - [Pwndbg](https://github.com/pwndbg/pwndbg) - A GDB plugin that provides a suite of utilities to hack around GDB easily. 
 - [radare2](https://github.com/radare/radare2) - A portable reversing framework.
@@ -223,7 +224,6 @@ Check solve section for steganography.
 - [WinDbg](http://www.windbg.org/) - Windows debugger distributed by Microsoft.
 - [Xocopy](http://reverse.lostrealm.com/tools/xocopy.html) - Program that can copy executables with execute, but no read permission.
 - [Z3](https://github.com/Z3Prover/z3) - a theorem prover from Microsoft Research.
--[demovfuscator](https://github.com/kirschju/demovfuscator) - A work-in-progress deobfuscator for movfuscated binaries.
 
 *JavaScript Deobfuscators*
 
