@@ -317,8 +317,8 @@ Check solve section for steganography.
 
 - [Backdoor](https://backdoor.sdslabs.co/) - Security Platform by SDSLabs.
 - [Crackmes](https://crackmes.one/) - Reverse Engineering Challenges
-- [Exploit.Education](http://exploit.education) - Variety of VMs to learn variety of computer security issues.
 - [Exploit Exercises](https://exploit-exercises.lains.space/) - Variety of VMs to learn variety of computer security issues.
+- [Exploit.Education](http://exploit.education) - Variety of VMs to learn variety of computer security issues.
 - [Gracker](https://github.com/Samuirai/gracker) - Binary challenges having a slow learning curve, and write-ups for each level.
 - [Hack The Box](https://www.hackthebox.eu) - Weekly CTFs for all types of security enthusiasts.
 - [Hack This Site](https://www.hackthissite.org/) - Training ground for hackers.
