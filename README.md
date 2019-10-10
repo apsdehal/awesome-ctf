@@ -118,6 +118,7 @@ Check solve section for steganography.
 *Tools used for various kind of bruteforcing (passwords etc.)*
 
 - [Hashcat](https://hashcat.net/hashcat/) - Password Cracker
+- [Hydra](https://tools.kali.org/password-attacks/hydra) - A parallelized login cracker which supports numerous protocols to attack
 - [John The Jumbo](https://github.com/magnumripper/JohnTheRipper) - Community enhanced version of John the Ripper.
 - [John The Ripper](http://www.openwall.com/john/) - Password Cracker.
 - [Nozzlr](https://github.com/intrd/nozzlr) - Nozzlr is a bruteforce framework, trully modular and script-friendly.
@@ -248,6 +249,8 @@ Check solve section for steganography.
 - [Exif](http://manpages.ubuntu.com/manpages/trusty/man1/exif.1.html) - Shows EXIF information in JPEG files.
 - [Exiftool](https://linux.die.net/man/1/exiftool) - Read and write meta information in files.
 - [Exiv2](http://www.exiv2.org/manpage.html) - Image metadata manipulation tool.
+- [Image Steganography](https://sourceforge.net/projects/image-steg/) - Embeds text and files in images with optional encryption. Easy-to-use UI.
+- [Image Steganography Online](https://incoherency.co.uk/image-steganography) - This is a client-side Javascript tool to steganographically hide images inside the lower "bits" of other images
 - [ImageMagick](http://www.imagemagick.org/script/index.php) - Tool for manipulating images.
 - [Outguess](https://www.freebsd.org/cgi/man.cgi?query=outguess+&apropos=0&sektion=0&manpath=FreeBSD+Ports+5.1-RELEASE&format=html) - Universal steganographic tool.
 - [Pngtools](https://packages.debian.org/sid/pngtools) - For various analysis related to PNGs.
