@@ -247,9 +247,9 @@ Check solve section for steganography.
 - [Exif](http://manpages.ubuntu.com/manpages/trusty/man1/exif.1.html) - Shows EXIF information in JPEG files.
 - [Exiftool](https://linux.die.net/man/1/exiftool) - Read and write meta information in files.
 - [Exiv2](http://www.exiv2.org/manpage.html) - Image metadata manipulation tool.
-- [ImageMagick](http://www.imagemagick.org/script/index.php) - Tool for manipulating images.
 - [Image Steganography](https://sourceforge.net/projects/image-steg/) - Embeds text and files in images with optional encryption. Easy-to-use UI.
 - [Image Steganography Online](https://incoherency.co.uk/image-steganography) - This is a client-side Javascript tool to steganographically hide images inside the lower "bits" of other images
+- [ImageMagick](http://www.imagemagick.org/script/index.php) - Tool for manipulating images.
 - [Outguess](https://www.freebsd.org/cgi/man.cgi?query=outguess+&apropos=0&sektion=0&manpath=FreeBSD+Ports+5.1-RELEASE&format=html) - Universal steganographic tool.
 - [Pngtools](https://packages.debian.org/sid/pngtools) - For various analysis related to PNGs.
   - `apt-get install pngtools`
