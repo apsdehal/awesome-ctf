@@ -162,6 +162,8 @@ Check solve section for steganography.
 - [Malzilla](http://malzilla.sourceforge.net/) - Malware hunting tool.
 - [NetworkMiner](http://www.netresec.com/?page=NetworkMiner) - Network Forensic Analysis Tool.
 - [PDF Streams Inflater](http://malzilla.sourceforge.net/downloads.html) - Find and extract zlib files compressed in PDF files.
+- [Pngcheck](http://www.libpng.org/pub/png/apps/pngcheck.html) - Verifies the integrity of PNG and dump all of the chunk-level information in human-readable form.
+  - `apt-get install pngcheck`
 - [ResourcesExtract](http://www.nirsoft.net/utils/resources_extract.html) - Extract various filetypes from exes.
 - [Shellbags](https://github.com/williballenthin/shellbags) - Investigate NT\_USER.dat files.
 - [USBRip](https://github.com/snovvcrash/usbrip) - Simple CLI forensics tool for tracking USB device artifacts (history of USB events) on GNU/Linux.
