@@ -347,6 +347,8 @@ Check solve section for steganography.
 - [Ringzer0Team](https://ringzer0team.com/) - Ringzer0 Team Online CTF.
 - [Root-Me](https://www.root-me.org/) - Hacking and Information Security learning platform.
 - [ROP Wargames](https://github.com/xelenonz/game) - ROP Wargames.
+- [SANS HHC](https://holidayhackchallenge.com/past-challenges/) - Challenges with a holiday theme
+  released annually and maintained by SANS.
 - [SmashTheStack](http://smashthestack.org/) - A variety of wargames maintained by the SmashTheStack Community.
 - [Viblo CTF](https://ctf.viblo.asia) - Various amazing CTF challenges, in many different categories. Has both Practice mode and Contest mode.
 - [VulnHub](https://www.vulnhub.com/) - VM-based for practical in digital security, computer application & network administration.
