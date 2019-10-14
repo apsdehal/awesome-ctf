@@ -104,6 +104,7 @@ Check solve section for steganography.
 
 *Tools used for solving Crypto challenges*
 
+- [CyberChef](https://gchq.github.io/CyberChef) - Web app for analysing and decoding data.
 - [FeatherDuster](https://github.com/nccgroup/featherduster) - An automated, modular cryptanalysis tool.
 - [Hash Extender](https://github.com/iagox86/hash_extender) - A utility tool for performing hash length extension attacks.
 - [padding-oracle-attacker](https://github.com/KishanBagaria/padding-oracle-attacker) - A CLI tool to execute padding oracle attacks.
@@ -117,6 +118,7 @@ Check solve section for steganography.
 *Tools used for various kind of bruteforcing (passwords etc.)*
 
 - [Hashcat](https://hashcat.net/hashcat/) - Password Cracker
+- [Hydra](https://tools.kali.org/password-attacks/hydra) - A parallelized login cracker which supports numerous protocols to attack
 - [John The Jumbo](https://github.com/magnumripper/JohnTheRipper) - Community enhanced version of John the Ripper.
 - [John The Ripper](http://www.openwall.com/john/) - Password Cracker.
 - [Nozzlr](https://github.com/intrd/nozzlr) - Nozzlr is a bruteforce framework, trully modular and script-friendly.
@@ -160,6 +162,8 @@ Check solve section for steganography.
 - [Malzilla](http://malzilla.sourceforge.net/) - Malware hunting tool.
 - [NetworkMiner](http://www.netresec.com/?page=NetworkMiner) - Network Forensic Analysis Tool.
 - [PDF Streams Inflater](http://malzilla.sourceforge.net/downloads.html) - Find and extract zlib files compressed in PDF files.
+- [Pngcheck](http://www.libpng.org/pub/png/apps/pngcheck.html) - Verifies the integrity of PNG and dump all of the chunk-level information in human-readable form.
+  - `apt-get install pngcheck`
 - [ResourcesExtract](http://www.nirsoft.net/utils/resources_extract.html) - Extract various filetypes from exes.
 - [Shellbags](https://github.com/williballenthin/shellbags) - Investigate NT\_USER.dat files.
 - [USBRip](https://github.com/snovvcrash/usbrip) - Simple CLI forensics tool for tracking USB device artifacts (history of USB events) on GNU/Linux.
@@ -210,6 +214,7 @@ Check solve section for steganography.
 - [Objection](https://github.com/sensepost/objection) - Runtime Mobile Exploration.
 - [PEDA](https://github.com/longld/peda) - GDB plugin (only python2.7).
 - [Pin](https://software.intel.com/en-us/articles/pin-a-dynamic-binary-instrumentation-tool) - A dynamic binary instrumentaion tool by Intel.
+- [PINCE](https://github.com/korcankaraokcu/PINCE) - GDB front-end/reverse engineering tool, focused on game-hacking and automation.
 - [PinCTF](https://github.com/ChrisTheCoolHut/PinCTF) - A tool which uses intel pin for Side Channel Analysis.
 - [Plasma](https://github.com/joelpx/plasma) - An interactive disassembler for x86/ARM/MIPS which can generate indented pseudo-code with colored syntax.
 - [Pwndbg](https://github.com/pwndbg/pwndbg) - A GDB plugin that provides a suite of utilities to hack around GDB easily. 
@@ -241,10 +246,13 @@ Check solve section for steganography.
 
 *Tools used for solving Steganography challenges*
 
+- [AperiSolve](https://aperisolve.fr/) - Aperi'Solve is a platform which performs layer analysis on image (open-source).
 - [Convert](http://www.imagemagick.org/script/convert.php) - Convert images b/w formats and apply filters.
 - [Exif](http://manpages.ubuntu.com/manpages/trusty/man1/exif.1.html) - Shows EXIF information in JPEG files.
 - [Exiftool](https://linux.die.net/man/1/exiftool) - Read and write meta information in files.
 - [Exiv2](http://www.exiv2.org/manpage.html) - Image metadata manipulation tool.
+- [Image Steganography](https://sourceforge.net/projects/image-steg/) - Embeds text and files in images with optional encryption. Easy-to-use UI.
+- [Image Steganography Online](https://incoherency.co.uk/image-steganography) - This is a client-side Javascript tool to steganographically hide images inside the lower "bits" of other images
 - [ImageMagick](http://www.imagemagick.org/script/index.php) - Tool for manipulating images.
 - [Outguess](https://www.freebsd.org/cgi/man.cgi?query=outguess+&apropos=0&sektion=0&manpath=FreeBSD+Ports+5.1-RELEASE&format=html) - Universal steganographic tool.
 - [Pngtools](https://packages.debian.org/sid/pngtools) - For various analysis related to PNGs.
@@ -331,6 +339,8 @@ Check solve section for steganography.
 - [IO](http://io.netgarage.org/) - Wargame for binary challenges.
 - [Microcorruption](https://microcorruption.com) - Embedded security CTF.
 - [Over The Wire](http://overthewire.org/wargames/) - Wargame maintained by OvertheWire Community.
+- [PentesterLab](https://pentesterlab.com/) - Variety of VM and online challenges (paid).
+- [PWN Challenge](http://pwn.eonew.cn/) - Binary Exploitation Wargame.
 - [Pwnable.kr](http://pwnable.kr/) - Pwn Game.
 - [Pwnable.tw](https://pwnable.tw/) - Binary wargame.
 - [Pwnable.xyz](https://pwnable.xyz/) - Binary Exploitation Wargame.
@@ -338,6 +348,8 @@ Check solve section for steganography.
 - [Ringzer0Team](https://ringzer0team.com/) - Ringzer0 Team Online CTF.
 - [Root-Me](https://www.root-me.org/) - Hacking and Information Security learning platform.
 - [ROP Wargames](https://github.com/xelenonz/game) - ROP Wargames.
+- [SANS HHC](https://holidayhackchallenge.com/past-challenges/) - Challenges with a holiday theme
+  released annually and maintained by SANS.
 - [SmashTheStack](http://smashthestack.org/) - A variety of wargames maintained by the SmashTheStack Community.
 - [Viblo CTF](https://ctf.viblo.asia) - Various amazing CTF challenges, in many different categories. Has both Practice mode and Contest mode.
 - [VulnHub](https://www.vulnhub.com/) - VM-based for practical in digital security, computer application & network administration.
@@ -368,10 +380,14 @@ Check solve section for steganography.
 
 *Collections of CTF write-ups*
 
+- [0e85dc6eaf](https://github.com/0e85dc6eaf/CTF-Writeups) - Write-ups for CTF challenges by 0e85dc6eaf
 - [Captf](http://captf.com/) - Dumped CTF challenges and materials by psifertex.
 - [CTF write-ups (community)](https://github.com/ctfs/) - CTF challenges + write-ups archive maintained by the community.
 - [CTFTime Scrapper](https://github.com/abdilahrf/CTFWriteupScrapper) - Scraps all writeup from CTF Time and organize which to read first.
+- [HackThisSite](https://github.com/HackThisSite/CTF-Writeups) - CTF write-ups repo maintained by HackThisSite team.
+- [Mzfr](https://github.com/mzfr/ctf-writeups/) - CTF competition write-ups by mzfr
 - [pwntools writeups](https://github.com/Gallopsled/pwntools-write-ups) - A collection of CTF write-ups all using pwntools.
+- [SababaSec](https://github.com/SababaSec/ctf-writeups) - A collection of CTF write-ups by the SababaSec team
 - [Shell Storm](http://shell-storm.org/repo/CTF/) - CTF challenge archive maintained by Jonathan Salwan.
 - [Smoke Leet Everyday](https://github.com/smokeleeteveryday/CTF_WRITEUPS) - CTF write-ups repo maintained by SmokeLeetEveryday team.
 
