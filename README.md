@@ -166,6 +166,7 @@ Check solve section for steganography.
   - `apt-get install pngcheck`
 - [ResourcesExtract](http://www.nirsoft.net/utils/resources_extract.html) - Extract various filetypes from exes.
 - [Shellbags](https://github.com/williballenthin/shellbags) - Investigate NT\_USER.dat files.
+- [Snow](https://sbmlabs.com/notes/snow_whitespace_steganography_tool) - A Whitespace Steganography Tool.
 - [USBRip](https://github.com/snovvcrash/usbrip) - Simple CLI forensics tool for tracking USB device artifacts (history of USB events) on GNU/Linux.
 - [Volatility](https://github.com/volatilityfoundation/volatility) - To investigate memory dumps.
 
