@@ -54,6 +54,8 @@ It takes time to build up collection of tools used in CTF and remember them all.
 *Tools used for creating Forensics challenges*
 
 - [Dnscat2](https://github.com/iagox86/dnscat2) - Hosts communication through DNS.
+- [Kroll Artifact Parser and Extractor (KAPE)](https://learn.duffandphelps.com/kape) - Triage program.
+- [Magnet AXIOM](https://www.magnetforensics.com/downloadaxiom) - Artifact-centric DFIR tool.
 - [Registry Dumper](http://www.kahusecurity.com/posts/registry_dumper_find_and_dump_hidden_registry_keys.html) - Dump your registry.
 
 ## Platforms
@@ -181,7 +183,7 @@ Check solve section for steganography.
 *Tools used for solving Networking challenges*
 
 - [Masscan](https://github.com/robertdavidgraham/masscan) - Mass IP port scanner, TCP port scanner.
-- [Monit](https://linoxide.com/monitoring-2/monit-linux/) - A linux tool to check a host on the network (and other non-network activities). 
+- [Monit](https://linoxide.com/monitoring-2/monit-linux/) - A linux tool to check a host on the network (and other non-network activities).
 - [Nipe](https://github.com/GouveaHeitor/nipe) - Nipe is a script to make Tor Network your default gateway.
 - [Nmap](https://nmap.org/) - An open source utility for network discovery and security auditing.
 - [Wireshark](https://www.wireshark.org/) - Analyze the network dumps.
@@ -220,7 +222,7 @@ Check solve section for steganography.
 - [PINCE](https://github.com/korcankaraokcu/PINCE) - GDB front-end/reverse engineering tool, focused on game-hacking and automation.
 - [PinCTF](https://github.com/ChrisTheCoolHut/PinCTF) - A tool which uses intel pin for Side Channel Analysis.
 - [Plasma](https://github.com/joelpx/plasma) - An interactive disassembler for x86/ARM/MIPS which can generate indented pseudo-code with colored syntax.
-- [Pwndbg](https://github.com/pwndbg/pwndbg) - A GDB plugin that provides a suite of utilities to hack around GDB easily. 
+- [Pwndbg](https://github.com/pwndbg/pwndbg) - A GDB plugin that provides a suite of utilities to hack around GDB easily.
 - [radare2](https://github.com/radare/radare2) - A portable reversing framework.
 - [Triton](https://github.com/JonathanSalwan/Triton/) - Dynamic Binary Analysis (DBA) framework.
 - [Uncompyle](https://github.com/gstarnberger/uncompyle) - Decompile Python 2.7 binaries (.pyc).
@@ -274,7 +276,7 @@ Check solve section for steganography.
 
 *Tools used for solving Web challenges*
 
-- [BurpSuite](https://portswigger.net/burp) - A graphical tool to testing website security. 
+- [BurpSuite](https://portswigger.net/burp) - A graphical tool to testing website security.
 - [Commix](https://github.com/commixproject/commix) - Automated All-in-One OS Command Injection and Exploitation Tool.
 - [Hackbar](https://addons.mozilla.org/en-US/firefox/addon/hackbartool/) - Firefox addon for easy web exploitation.
 - [OWASP ZAP](https://www.owasp.org/index.php/Projects/OWASP_Zed_Attack_Proxy_Project) - Intercepting proxy to replay, debug, and fuzz HTTP requests and responses
