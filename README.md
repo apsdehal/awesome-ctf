@@ -112,6 +112,7 @@ Check solve section for steganography.
 - [RSACTFTool](https://github.com/Ganapati/RsaCtfTool) - A tool for recovering RSA private key with various attack.
 - [RSATool](https://github.com/ius/rsatool) - Generate private key with knowledge of p and q.
 - [XORTool](https://github.com/hellman/xortool) - A tool to analyze multi-byte xor cipher.
+- [QuipQuip](https://quipqiup.com) - An online tool for breaking substitution ciphers or vigenere ciphers (without key).
 
 ## Bruteforcers
 
