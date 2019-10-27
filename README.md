@@ -199,7 +199,7 @@ Check solve section for steganography.
 - [Binary Ninja](https://binary.ninja/) - Binary analysis framework.
 - [BinUtils](http://www.gnu.org/software/binutils/binutils.html) - Collection of binary tools.
 - [BinWalk](https://github.com/devttys0/binwalk) - Analyze, reverse engineer, and extract firmware images.
-- [Boomerang](https://github.com/nemerle/boomerang) - Decompile x86 binaries to C.
+- [Boomerang](https://github.com/BoomerangDecompiler/boomerang) - Decompile x86/SPARC/PowerPC/ST-20 binaries to C.
 - [ctf_import](https://github.com/docileninja/ctf_import) – run basic functions from stripped binaries cross platform.
 - [cwe_checker](https://github.com/fkie-cad/cwe_checker) - cwe_checker finds vulnerable patterns in binary executables.
 - [demovfuscator](https://github.com/kirschju/demovfuscator) - A work-in-progress deobfuscator for movfuscated binaries.
