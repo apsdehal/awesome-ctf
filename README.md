@@ -263,6 +263,7 @@ Check solve section for steganography.
 - [Pngtools](https://packages.debian.org/sid/pngtools) - For various analysis related to PNGs.
   - `apt-get install pngtools`
 - [SmartDeblur](https://github.com/Y-Vladimir/SmartDeblur) - Used to deblur and fix defocused images.
+- [Snow](http://www.darkside.com.au/snow/index.html) - A Whitespace Steganography Tool.
 - [Steganabara](https://www.openhub.net/p/steganabara) -  Tool for stegano analysis written in Java.
 - [SteganographyOnline](https://stylesuxx.github.io/steganography/) - Online steganography encoder and decoder.
 - [Stegbreak](https://linux.die.net/man/1/stegbreak) - Launches brute-force dictionary attacks on JPG image.
@@ -335,6 +336,7 @@ Check solve section for steganography.
 
 - [Backdoor](https://backdoor.sdslabs.co/) - Security Platform by SDSLabs.
 - [Crackmes](https://crackmes.one/) - Reverse Engineering Challenges.
+- [CSAW 365](https://365.csaw.io/) - An archive of past CSAWCTF challenges.
 - [Exploit Exercises](https://exploit-exercises.lains.space/) - Variety of VMs to learn variety of computer security issues.
 - [Exploit.Education](http://exploit.education) - Variety of VMs to learn variety of computer security issues.
 - [Gracker](https://github.com/Samuirai/gracker) - Binary challenges having a slow learning curve, and write-ups for each level.
@@ -342,6 +344,7 @@ Check solve section for steganography.
 - [Hack This Site](https://www.hackthissite.org/) - Training ground for hackers.
 - [Hacking-Lab](https://hacking-lab.com/) - Ethical hacking, computer network and security challenge platform.
 - [Hone Your Ninja Skills](https://honeyourskills.ninja/) - Web challenges starting from basic ones.
+- [INFOSEC INSTITUTE CTF](http://ctf.infosecinstitute.com/) - A set of web Challenges for beginners.
 - [IO](http://io.netgarage.org/) - Wargame for binary challenges.
 - [Microcorruption](https://microcorruption.com) - Embedded security CTF.
 - [Over The Wire](http://overthewire.org/wargames/) - Wargame maintained by OvertheWire Community.
@@ -351,6 +354,7 @@ Check solve section for steganography.
 - [Pwnable.kr](http://pwnable.kr/) - Pwn Game.
 - [Pwnable.tw](https://pwnable.tw/) - Binary wargame.
 - [Pwnable.xyz](https://pwnable.xyz/) - Binary Exploitation Wargame.
+- [Pwnadventure](https://www.pwnadventure.com) - An intentionally flawed game.
 - [Reversin.kr](http://reversing.kr/) - Reversing challenge.
 - [Ringzer0Team](https://ringzer0team.com/) - Ringzer0 Team Online CTF.
 - [Root-Me](https://www.root-me.org/) - Hacking and Information Security learning platform.
