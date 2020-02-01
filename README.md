@@ -68,6 +68,7 @@ It takes time to build up collection of tools used in CTF and remember them all.
 - [Haaukins](https://github.com/aau-network-security/haaukins)- A Highly Accessible and Automated Virtualization Platform for Security Education.
 - [HackTheArch](https://github.com/mcpa-stlouis/hack-the-arch) - CTF scoring platform.
 - [Mellivora](https://github.com/Nakiami/mellivora) - A CTF engine written in PHP.
+- [MotherFucking-CTF](https://github.com/andreafioraldi/motherfucking-ctf) - Badass lightweight plaform to host CTFs. No JS involved.
 - [NightShade](https://github.com/UnrealAkama/NightShade) - A simple security CTF framework.
 - [OpenCTF](https://github.com/easyctf/openctf) - CTF in a box. Minimal setup required.
 - [PicoCTF](https://github.com/picoCTF/picoCTF) - The platform used to run picoCTF. A great framework to host any CTF.
@@ -75,7 +76,6 @@ It takes time to build up collection of tools used in CTF and remember them all.
 - [RootTheBox](https://github.com/moloch--/RootTheBox) - A Game of Hackers (CTF Scoreboard & Game Manager).
 - [Scorebot](https://github.com/legitbs/scorebot) - Platform for CTFs by Legitbs (Defcon).
 - [SecGen](https://github.com/cliffe/SecGen) - Security Scenario Generator. Creates randomly vulnerable virtual machines.
-- [MotherFucking-CTF](https://github.com/andreafioraldi/motherfucking-ctf) - Badass lightweight plaform to host CTFs. No JS involved.
 
 ## Steganography
 
