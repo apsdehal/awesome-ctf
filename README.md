@@ -63,6 +63,7 @@ It takes time to build up collection of tools used in CTF and remember them all.
 *Projects that can be used to host a CTF*
 
 - [CTFd](https://github.com/isislab/CTFd) - Platform to host jeopardy style CTFs from ISISLab, NYU Tandon.
+- [echoCTF.RED](https://github.com/echoCTF/echoCTF.RED) - Develop, deploy and maintain your own CTF infrastructure.
 - [FBCTF](https://github.com/facebook/fbctf) - Platform to host Capture the Flag competitions from Facebook.
 - [Haaukins](https://github.com/aau-network-security/haaukins)- A Highly Accessible and Automated Virtualization Platform for Security Education.
 - [HackTheArch](https://github.com/mcpa-stlouis/hack-the-arch) - CTF scoring platform.
@@ -366,7 +367,6 @@ Check solve section for steganography.
 
 *Self-hosted CTFs*
 
-- [echoCTF.RED](https://github.com/echoCTF/echoCTF.RED) - Develop, deploy and maintain your own CTF infrastructure.
 - [Juice Shop CTF](https://github.com/bkimminich/juice-shop-ctf) - Scripts and tools for hosting a CTF on [OWASP Juice Shop](https://www.owasp.org/index.php/OWASP_Juice_Shop_Project) easily.
 
 ## Websites
