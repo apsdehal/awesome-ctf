@@ -335,6 +335,7 @@ Check solve section for steganography.
 
 - [Backdoor](https://backdoor.sdslabs.co/) - Security Platform by SDSLabs.
 - [Crackmes](https://crackmes.one/) - Reverse Engineering Challenges.
+- [echoCTF.RED](https://echoctf.red/) - Online CTF with a variety of targets to attack.
 - [Exploit Exercises](https://exploit-exercises.lains.space/) - Variety of VMs to learn variety of computer security issues.
 - [Exploit.Education](http://exploit.education) - Variety of VMs to learn variety of computer security issues.
 - [Gracker](https://github.com/Samuirai/gracker) - Binary challenges having a slow learning curve, and write-ups for each level.
@@ -365,6 +366,7 @@ Check solve section for steganography.
 
 *Self-hosted CTFs*
 
+- [echoCTF.RED](https://github.com/echoCTF/echoCTF.RED) - Develop, deploy and maintain your own CTF infrastructure.
 - [Juice Shop CTF](https://github.com/bkimminich/juice-shop-ctf) - Scripts and tools for hosting a CTF on [OWASP Juice Shop](https://www.owasp.org/index.php/OWASP_Juice_Shop_Project) easily.
 
 ## Websites
