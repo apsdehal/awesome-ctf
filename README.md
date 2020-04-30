@@ -336,6 +336,7 @@ Check solve section for steganography.
 
 - [Backdoor](https://backdoor.sdslabs.co/) - Security Platform by SDSLabs.
 - [Crackmes](https://crackmes.one/) - Reverse Engineering Challenges.
+- [CryptoHack](https://cryptohack.org/) - Fun cryptography challenges.
 - [echoCTF.RED](https://echoctf.red/) - Online CTF with a variety of targets to attack.
 - [Exploit Exercises](https://exploit-exercises.lains.space/) - Variety of VMs to learn variety of computer security issues.
 - [Exploit.Education](http://exploit.education) - Variety of VMs to learn variety of computer security issues.
