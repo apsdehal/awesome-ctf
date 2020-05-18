@@ -46,7 +46,7 @@ It takes time to build up collection of tools used in CTF and remember them all.
 
 *Tools used for creating CTF challenges*
 
-- [Kali Linux CTF Blueprints](https://doc.lagout.org/security/Packt.Kali.Linux.CTF.Blueprints.Jul.2014.ISBN.1783985984.pdf) - Online book on building, testing, and customizing your own Capture the Flag challenges.
+- [Kali Linux CTF Blueprints](https://www.packtpub.com/eu/networking-and-servers/kali-linux-ctf-blueprints) - Online book on building, testing, and customizing your own Capture the Flag challenges.
 
 
 ## Forensics
@@ -328,9 +328,9 @@ Check solve section for steganography.
 
 - [CTF Field Guide](https://trailofbits.github.io/ctf/) - Field Guide by Trails of Bits.
 - [CTF Resources](http://ctfs.github.io/resources/) -  Start Guide maintained by community.
-- [Damn Vulnerable Web Application](http://www.dvwa.co.uk/) PHP/MySQL web application that is damn vulnerable.
 - [How to Get Started in CTF](https://www.endgame.com/blog/how-get-started-ctf) - Short guideline for CTF beginners by Endgame
 - [Intro. to CTF Course](https://www.hoppersroppers.org/courseCTF.html) - A free course that teaches beginners the basics of forensics, crypto, and web-ex.
+- [IppSec](https://www.youtube.com/channel/UCa6eh7gCkpPo5XXUDfygQQA) - Video tutorials and walkthroughs of popular CTF platforms.
 - [LiveOverFlow](https://www.youtube.com/channel/UClcE-kVhqyiHCcjYwcpfj9w) - Video tutorials on Exploitation.
 - [MIPT CTF](https://github.com/xairy/mipt-ctf) - A small course for beginners in CTFs (in Russian).
 
@@ -374,7 +374,7 @@ Check solve section for steganography.
 
 
 *Self-hosted CTFs*
-
+- [Damn Vulnerable Web Application](http://www.dvwa.co.uk/) - PHP/MySQL web application that is damn vulnerable.
 - [Juice Shop CTF](https://github.com/bkimminich/juice-shop-ctf) - Scripts and tools for hosting a CTF on [OWASP Juice Shop](https://www.owasp.org/index.php/OWASP_Juice_Shop_Project) easily.
 
 ## Websites
