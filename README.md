@@ -76,6 +76,7 @@ It takes time to build up collection of tools used in CTF and remember them all.
 - [RootTheBox](https://github.com/moloch--/RootTheBox) - A Game of Hackers (CTF Scoreboard & Game Manager).
 - [Scorebot](https://github.com/legitbs/scorebot) - Platform for CTFs by Legitbs (Defcon).
 - [SecGen](https://github.com/cliffe/SecGen) - Security Scenario Generator. Creates randomly vulnerable virtual machines.
+- [CyberTalents](https://cybertalents.com/) - Platform that ranks cyber security talents across the globe.
 
 ## Steganography
 
