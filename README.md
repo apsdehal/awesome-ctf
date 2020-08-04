@@ -108,6 +108,7 @@ Check solve section for steganography.
 
 *Tools used for solving Crypto challenges*
 
+- [Ciphey](https://github.com/ciphey/ciphey) - Automated decryption tool using artificial intelligence & natural language processing.
 - [CyberChef](https://gchq.github.io/CyberChef) - Web app for analysing and decoding data.
 - [FeatherDuster](https://github.com/nccgroup/featherduster) - An automated, modular cryptanalysis tool.
 - [Hash Extender](https://github.com/iagox86/hash_extender) - A utility tool for performing hash length extension attacks.
@@ -189,6 +190,7 @@ Check solve section for steganography.
 - [Monit](https://linoxide.com/monitoring-2/monit-linux/) - A linux tool to check a host on the network (and other non-network activities).
 - [Nipe](https://github.com/GouveaHeitor/nipe) - Nipe is a script to make Tor Network your default gateway.
 - [Nmap](https://nmap.org/) - An open source utility for network discovery and security auditing.
+- [RustScan][https://github.com/rustscan/rustscan] - Lightweight and quick open-source port scanner designed to perform Nmap functions in seconds.
 - [Wireshark](https://www.wireshark.org/) - Analyze the network dumps.
   - `apt-get install wireshark`
 - [Zeek](https://www.zeek.org) - An open-source network security monitor.
