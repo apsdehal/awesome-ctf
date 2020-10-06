@@ -333,6 +333,8 @@ Check solve section for steganography.
 - [IppSec](https://www.youtube.com/channel/UCa6eh7gCkpPo5XXUDfygQQA) - Video tutorials and walkthroughs of popular CTF platforms.
 - [LiveOverFlow](https://www.youtube.com/channel/UClcE-kVhqyiHCcjYwcpfj9w) - Video tutorials on Exploitation.
 - [MIPT CTF](https://github.com/xairy/mipt-ctf) - A small course for beginners in CTFs (in Russian).
+- [John Hammond](https://www.youtube.com/user/RootOfTheNull) - Video tutorials on walkthrough of CTF's.
+- [GynvaelEN](https://www.youtube.com/user/GynvaelEN) - Video tutorials on walkthrough of CTF's.
 
 
 ## Wargames
