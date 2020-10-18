@@ -275,6 +275,7 @@ Check solve section for steganography.
 - [StegOnline](https://georgeom.net/StegOnline/upload) - Conduct a wide range of image steganography operations, such as concealing/revealing files hidden within bits (open-source).
 - [Stegsolve](http://www.caesum.com/handbook/Stegsolve.jar) - Apply various steganography techniques to images.
 - [Zsteg](https://github.com/zed-0xff/zsteg/) - PNG/BMP analysis.
+- [Stegbrute](https://github.com/R4yGM/stegbrute) - Fast steganography brute-force tool to discover hidden data inside files
 
 ## Web
 
