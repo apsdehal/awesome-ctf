@@ -46,6 +46,8 @@ It takes time to build up collection of tools used in CTF and remember them all.
 
 *Tools used for creating CTF challenges*
 
+- [Crypto Puzzles](http://rupp.de/crypto_puzzles/crypto_puzzles_web.py) - Online tool for creating beginners ©️ Ȑ ¥ ₱ ァ 🍩     ℃ ♓ 🅰️ ட ᇉ 🆖 ℰ ⑀. Mostly CyberChef proof so players have to think for themselves. (Source on https://github.com/2d4d/crypto_puzzles)
+- [Euli Treasure Hunt](https://github.com/2d4d/euli_treasure_hunt) - Tool for creating a series challenges for a group of beginners in .docx
 - [Kali Linux CTF Blueprints](https://www.packtpub.com/eu/networking-and-servers/kali-linux-ctf-blueprints) - Online book on building, testing, and customizing your own Capture the Flag challenges.
 
 
@@ -89,6 +91,7 @@ Check solve section for steganography.
 
 *JavaScript Obfustcators*
 
+- [jsfuck](http://www.jsfuck.com/) - It uses only six different characters to write and execute code: []()!+  It does not depend on a browser, so you can even run it on Node.js.
 - [Metasploit JavaScript Obfuscator](https://github.com/rapid7/metasploit-framework/wiki/How-to-obfuscate-JavaScript-in-Metasploit)
 - [Uglify](https://github.com/mishoo/UglifyJS)
 
@@ -141,7 +144,7 @@ Check solve section for steganography.
   - [Cheatsheet](https://www.comparitech.com/net-admin/metasploit-cheat-sheet/)
 - [one_gadget](https://github.com/david942j/one_gadget) -  A tool to find the one gadget `execve('/bin/sh', NULL, NULL)` call.
   - `gem install one_gadget`
-- [Pwntools](https://github.com/Gallopsled/pwntools) - CTF Framework for writing exploits.
+- [Pwntools](https://github.com/Gallopsled/pwntools) - CTF Framework for writing exploits in python.
 - [Qira](https://github.com/BinaryAnalysisPlatform/qira) - QEMU Interactive Runtime Analyser.
 - [ROP Gadget](https://github.com/JonathanSalwan/ROPgadget) - Framework for ROP exploitation.
 - [V0lt](https://github.com/P1kachu/v0lt) - Security CTF Toolkit.
@@ -213,7 +216,7 @@ Check solve section for steganography.
 - [Frida](https://github.com/frida/) - Dynamic Code Injection.
 - [GDB](https://www.gnu.org/software/gdb/) - The GNU project debugger.
 - [GEF](https://github.com/hugsy/gef) - GDB plugin.
-- [Ghidra](https://ghidra-sre.org/) - Open Source suite of reverse engineering tools.  Similar to IDA Pro.
+- [Ghidra](https://ghidra-sre.org/) - Open Source suite of reverse engineering tools. Similar to IDA Pro.
 - [Hopper](http://www.hopperapp.com/) - Reverse engineering tool (disassembler) for OSX and Linux.
 - [IDA Pro](https://www.hex-rays.com/products/ida/) - Most used Reversing software.
 - [Jadx](https://github.com/skylot/jadx) - Decompile Android files.
