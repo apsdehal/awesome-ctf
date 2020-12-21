@@ -290,7 +290,8 @@ Check solve section for steganography.
   ```pip install sqlmap```
 - [W3af](https://github.com/andresriancho/w3af) -  Web Application Attack and Audit Framework.
 - [XSSer](http://xsser.sourceforge.net/) - Automated XSS testor.
-
+- [InjectBot](https://github.com/tariqhawis/injectbot) - Web-Based SQLi scanner and exploiter tool
+  ```docker run --name injectbot -d -p 8080:80 tariqhawis/injectbot:latest```
 
 # Resources
 
