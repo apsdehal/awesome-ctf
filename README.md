@@ -290,6 +290,7 @@ Check solve section for steganography.
   ```pip install sqlmap```
 - [W3af](https://github.com/andresriancho/w3af) -  Web Application Attack and Audit Framework.
 - [XSSer](http://xsser.sourceforge.net/) - Automated XSS testor.
+- [CSP Scanner](https://cspscanner.com/) - Analyze a site's Content-Security-Policy (CSP) to find weak links and bypasses.
 
 
 # Resources
