@@ -116,6 +116,7 @@ Check solve section for steganography.
 - [QuipQuip](https://quipqiup.com) - An online tool for breaking substitution ciphers or vigenere ciphers (without key).
 - [RSACTFTool](https://github.com/Ganapati/RsaCtfTool) - A tool for recovering RSA private key with various attack.
 - [RSATool](https://github.com/ius/rsatool) - Generate private key with knowledge of p and q.
+- [untwister](https://github.com/altf4/untwister) - Crack PRNG seed for the most common PRNGs used in programming languages.
 - [XORTool](https://github.com/hellman/xortool) - A tool to analyze multi-byte xor cipher.
 
 ## Bruteforcers
