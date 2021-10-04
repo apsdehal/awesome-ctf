@@ -79,9 +79,10 @@ It takes time to build up collection of tools used in CTF and remember them all.
 
 ## Steganography
 
-*Tools used to create stego challenges*
-
-Check solve section for steganography.
+- [Steghide](http://steghide.sourceforge.net/) - CLI tool to hide data in images and audio files.
+- [exiftools](https://exiftool.org/) - Used to display metadata
+- [Strings(Binutils)](https://www.gnu.org/software/binutils/) - Used to display printable characters of a file.
+- [Binwalk](https://tools.kali.org/forensics/binwalk) - Used for searching embedded files/code.
 
 ## Web
 
