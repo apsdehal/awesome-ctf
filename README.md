@@ -63,6 +63,7 @@ It takes time to build up collection of tools used in CTF and remember them all.
 *Projects that can be used to host a CTF*
 
 - [CTFd](https://github.com/isislab/CTFd) - Platform to host jeopardy style CTFs from ISISLab, NYU Tandon.
+- [CTF Cafe](https://github.com/CTF-Cafe/CTF_Cafe) - CTF Platform that is cheap, stable, easy to setup and customizable.
 - [echoCTF.RED](https://github.com/echoCTF/echoCTF.RED) - Develop, deploy and maintain your own CTF infrastructure.
 - [FBCTF](https://github.com/facebook/fbctf) - Platform to host Capture the Flag competitions from Facebook.
 - [Haaukins](https://github.com/aau-network-security/haaukins)- A Highly Accessible and Automated Virtualization Platform for Security Education.
