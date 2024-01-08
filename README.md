@@ -350,6 +350,7 @@ Check solve section for steganography.
 - [Hack This Site](https://www.hackthissite.org/) - Training ground for hackers.
 - [Hacker101](https://www.hacker101.com/) - CTF from HackerOne
 - [Hacking-Lab](https://hacking-lab.com/) - Ethical hacking, computer network and security challenge platform.
+- [HackMyVM](https://hackmyvm.eu/) - Over 200+ VM Based Machines with option for anonymous or social interations. (leaderboard, badges, messaging)
 - [Hone Your Ninja Skills](https://honeyourskills.ninja/) - Web challenges starting from basic ones.
 - [IO](http://io.netgarage.org/) - Wargame for binary challenges.
 - [Microcorruption](https://microcorruption.com) - Embedded security CTF.
