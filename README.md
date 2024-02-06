@@ -243,6 +243,11 @@ Check solve section for steganography.
 - [Swftools](http://www.swftools.org/) - Collection of utilities to work with SWF files.
 - [Xxxswf](https://bitbucket.org/Alexander_Hanel/xxxswf) -  A Python script for analyzing Flash files.
 
+## Finding 
+
+*Tools used for finding vulnerabilities in code* 
+- [Pixee](https://pixee.ai) - Pixeebot finds security and code quality issues in your code and creates merge-ready pull requests with recommended fixes.
+
 ## Services
 
 *Various kind of useful services available around the internet*
