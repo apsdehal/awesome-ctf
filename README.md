@@ -65,6 +65,7 @@ It takes time to build up collection of tools used in CTF and remember them all.
 - [CTFd](https://github.com/isislab/CTFd) - Platform to host jeopardy style CTFs from ISISLab, NYU Tandon.
 - [echoCTF.RED](https://github.com/echoCTF/echoCTF.RED) - Develop, deploy and maintain your own CTF infrastructure.
 - [FBCTF](https://github.com/facebook/fbctf) - Platform to host Capture the Flag competitions from Facebook.
+- [GZCTF](https://github.com/GZTimeWalker/GZCTF) - A modern CTF platform with highly customizable features.
 - [Haaukins](https://github.com/aau-network-security/haaukins)- A Highly Accessible and Automated Virtualization Platform for Security Education.
 - [HackTheArch](https://github.com/mcpa-stlouis/hack-the-arch) - CTF scoring platform.
 - [Mellivora](https://github.com/Nakiami/mellivora) - A CTF engine written in PHP.
