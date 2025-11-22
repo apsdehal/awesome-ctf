@@ -136,6 +136,7 @@ Check solve section for steganography.
 *Tools used for solving Exploits challenges*
 
 - [DLLInjector](https://github.com/OpenSecurityResearch/dllinjector) - Inject dlls in processes.
+- [Fuck-Jails](https://github.com/MisTraleuh/Fuck-Jails) - Cheatsheets and payloads for escape sandboxes/jails.
 - [libformatstr](https://github.com/hellman/libformatstr) - Simplify format string exploitation.
 - [Metasploit](http://www.metasploit.com/) - Penetration testing software.
   - [Cheatsheet](https://www.comparitech.com/net-admin/metasploit-cheat-sheet/)
