@@ -193,6 +193,7 @@ Check solve section for steganography.
   - `apt-get install wireshark`
 - [Zeek](https://www.zeek.org) - An open-source network security monitor.
 - [Zmap](https://zmap.io/) - An open-source network scanner.
+- [Zenmap](https://nmap.org/zenmap/) - A beginner friendly and open source network scanner with a GUI.
 
 ## Reversing
 
