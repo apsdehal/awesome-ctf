@@ -308,6 +308,7 @@ Check solve section for steganography.
 - [Parrot Security OS](https://www.parrotsec.org/) - Based on Debian.
 - [Pentoo](http://www.pentoo.ch/) - Based on Gentoo.
 - [URIX OS](http://urix.us/) - Based on openSUSE.
+- [NullSec Linux](https://github.com/bad-antics/nullsec-linux) - Security distribution with 135+ tools and specialized editions. Based on Debian 13.
 - [Wifislax](http://www.wifislax.com/) - Based on Slackware.
 
 *Malware analysts and reverse-engineering*
