@@ -117,6 +117,8 @@ Check solve section for steganography.
 - [RSACTFTool](https://github.com/Ganapati/RsaCtfTool) - A tool for recovering RSA private key with various attack.
 - [RSATool](https://github.com/ius/rsatool) - Generate private key with knowledge of p and q.
 - [XORTool](https://github.com/hellman/xortool) - A tool to analyze multi-byte xor cipher.
+- [NullSec Crypto](https://github.com/bad-antics/nullsec-crypto) - Cryptographic analysis toolkit with cipher identification, key recovery, and hash attacks.
+- [NullSec CryptoCheck](https://github.com/bad-antics/nullsec-cryptocheck) - Cryptocurrency wallet and blockchain security analysis tool.
 
 ## Bruteforcers
 
