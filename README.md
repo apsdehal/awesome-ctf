@@ -305,6 +305,7 @@ Check solve section for steganography.
 - [BlackArch Linux](https://blackarch.org/) - Based on Arch Linux.
 - [Fedora Security Lab](https://labs.fedoraproject.org/security/) - Based on Fedora.
 - [Kali Linux](https://www.kali.org/) - Based on Debian.
+- [NullSec Linux](https://github.com/bad-antics/nullsec-linux) - Security-focused distribution with 115+ tools for CTF and security research.
 - [Parrot Security OS](https://www.parrotsec.org/) - Based on Debian.
 - [Pentoo](http://www.pentoo.ch/) - Based on Gentoo.
 - [URIX OS](http://urix.us/) - Based on openSUSE.
