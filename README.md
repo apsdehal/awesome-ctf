@@ -146,6 +146,7 @@ Check solve section for steganography.
 - [ROP Gadget](https://github.com/JonathanSalwan/ROPgadget) - Framework for ROP exploitation.
 - [V0lt](https://github.com/P1kachu/v0lt) - Security CTF Toolkit.
 
+- [NullSec Shellcraft](https://github.com/bad-antics/nullsec-shellcraft) - Shellcode generation toolkit with multi-architecture support and encoding options.
 ## Forensics
 
 *Tools used for solving Forensics challenges*
