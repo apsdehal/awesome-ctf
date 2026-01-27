@@ -371,6 +371,7 @@ Check solve section for steganography.
 - [VulnHub](https://www.vulnhub.com/) - VM-based for practical in digital security, computer application & network administration.
 - [W3Challs](https://w3challs.com) - A penetration testing training platform, which offers various computer challenges, in various categories.
 - [WebHacking](http://webhacking.kr) - Hacking challenges for web.
+- [8kSec AI/LLM Exploitation Challenges](https://academy.8ksec.io/course/ai-exploitation-challenges) - CTF challenges for AI, ML & LLM.
 
 
 *Self-hosted CTFs*
