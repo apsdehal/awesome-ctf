@@ -76,7 +76,7 @@ It takes time to build up collection of tools used in CTF and remember them all.
 - [RootTheBox](https://github.com/moloch--/RootTheBox) - A Game of Hackers (CTF Scoreboard & Game Manager).
 - [Scorebot](https://github.com/legitbs/scorebot) - Platform for CTFs by Legitbs (Defcon).
 - [SecGen](https://github.com/cliffe/SecGen) - Security Scenario Generator. Creates randomly vulnerable virtual machines.
-
+- [CTF-Hub](https://ctf-hub.io) -  Modern CTF platform for hosting and managing competitions team management, challenge/events builder, real-time updates, analyticss.
 ## Steganography
 
 *Tools used to create stego challenges*
