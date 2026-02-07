@@ -376,6 +376,7 @@ Check solve section for steganography.
 *Self-hosted CTFs*
 - [Damn Vulnerable Web Application](http://www.dvwa.co.uk/) - PHP/MySQL web application that is damn vulnerable.
 - [Juice Shop CTF](https://github.com/bkimminich/juice-shop-ctf) - Scripts and tools for hosting a CTF on [OWASP Juice Shop](https://www.owasp.org/index.php/OWASP_Juice_Shop_Project) easily.
+- [OopsSec Store](https://github.com/kOaDT/oss-oopssec-store) - An intentionally vulnerable e-commerce application built with Next.js.
 
 ## Websites
 
