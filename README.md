@@ -117,6 +117,9 @@ Check solve section for steganography.
 - [RSACTFTool](https://github.com/Ganapati/RsaCtfTool) - A tool for recovering RSA private key with various attack.
 - [RSATool](https://github.com/ius/rsatool) - Generate private key with knowledge of p and q.
 - [XORTool](https://github.com/hellman/xortool) - A tool to analyze multi-byte xor cipher.
+- [dcode.fr](https://www.dcode.fr) - Online decoder for hundreds of ciphers, encodings, and puzzles commonly used in CTFs.
+- [hashID](https://github.com/psypanda/hashID) - Identify the different types of hashes used to encrypt data.
+- [SageMath](https://www.sagemath.org/) - Open-source mathematics software system for advanced crypto challenges.
 
 ## Bruteforcers
 
@@ -274,6 +277,10 @@ Check solve section for steganography.
 - [Steghide](http://steghide.sourceforge.net/) - Hide data in various kind of images.
 - [StegOnline](https://georgeom.net/StegOnline/upload) - Conduct a wide range of image steganography operations, such as concealing/revealing files hidden within bits (open-source).
 - [Stegsolve](http://www.caesum.com/handbook/Stegsolve.jar) - Apply various steganography techniques to images.
+- [Stegoveritas](https://github.com/bannsec/stegoVeritas) - Yet another stego tool with support for a wide variety of techniques.
+- [lsb-flag-finder](https://github.com/cazy8/lsb-flag-finder) - Extract LSB data from images and grep for CTF flags across ASCII, Base64, Base32, and ROT13 encodings.
+  - `pip install Pillow`
+- [OpenStego](https://www.openstego.com/) - Open source steganography solution for data hiding and watermarking.
 - [Zsteg](https://github.com/zed-0xff/zsteg/) - PNG/BMP analysis.
 
 ## Web
@@ -290,6 +297,10 @@ Check solve section for steganography.
   ```pip install sqlmap```
 - [W3af](https://github.com/andresriancho/w3af) -  Web Application Attack and Audit Framework.
 - [XSSer](http://xsser.sourceforge.net/) - Automated XSS testor.
+- [ffuf](https://github.com/ffuf/ffuf) - Fast web fuzzer written in Go.
+- [Gobuster](https://github.com/OJ/gobuster) - Directory/file, DNS and VHost brute-forcing tool.
+- [Dirsearch](https://github.com/maurosoria/dirsearch) - Web path discovery tool.
+- [Nuclei](https://github.com/projectdiscovery/nuclei) - Fast and customizable vulnerability scanner based on YAML templates.
 
 
 # Resources
@@ -333,6 +344,8 @@ Check solve section for steganography.
 - [IppSec](https://www.youtube.com/channel/UCa6eh7gCkpPo5XXUDfygQQA) - Video tutorials and walkthroughs of popular CTF platforms.
 - [LiveOverFlow](https://www.youtube.com/channel/UClcE-kVhqyiHCcjYwcpfj9w) - Video tutorials on Exploitation.
 - [MIPT CTF](https://github.com/xairy/mipt-ctf) - A small course for beginners in CTFs (in Russian).
+- [John Hammond](https://www.youtube.com/c/JohnHammond010) - Video walkthroughs of CTF challenges covering forensics, reversing, web, and crypto.
+- [CyberDefenders](https://cyberdefenders.org/) - Blue team CTF challenges for SOC analysts and incident responders.
 
 
 ## Wargames
@@ -348,6 +361,7 @@ Check solve section for steganography.
 - [Gracker](https://github.com/Samuirai/gracker) - Binary challenges having a slow learning curve, and write-ups for each level.
 - [Hack The Box](https://www.hackthebox.eu) - Weekly CTFs for all types of security enthusiasts.
 - [Hack This Site](https://www.hackthissite.org/) - Training ground for hackers.
+- [TryHackMe](https://tryhackme.com/) - Guided, gamified rooms to learn cyber security hands-on.
 - [Hacker101](https://www.hacker101.com/) - CTF from HackerOne
 - [Hacking-Lab](https://hacking-lab.com/) - Ethical hacking, computer network and security challenge platform.
 - [Hone Your Ninja Skills](https://honeyourskills.ninja/) - Web challenges starting from basic ones.
