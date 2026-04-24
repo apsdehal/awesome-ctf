@@ -371,11 +371,13 @@ Check solve section for steganography.
 - [VulnHub](https://www.vulnhub.com/) - VM-based for practical in digital security, computer application & network administration.
 - [W3Challs](https://w3challs.com) - A penetration testing training platform, which offers various computer challenges, in various categories.
 - [WebHacking](http://webhacking.kr) - Hacking challenges for web.
+- [Wraith Academy](https://wraith.sh/academy) - Hands-on AI pentest CTF against live LLM agents.
 
 
 *Self-hosted CTFs*
 - [Damn Vulnerable Web Application](http://www.dvwa.co.uk/) - PHP/MySQL web application that is damn vulnerable.
 - [Juice Shop CTF](https://github.com/bkimminich/juice-shop-ctf) - Scripts and tools for hosting a CTF on [OWASP Juice Shop](https://www.owasp.org/index.php/OWASP_Juice_Shop_Project) easily.
+- [Wraith Challenges](https://github.com/gh0stshe11/wraith-challenges) - Standalone AI security CTF challenges with hybrid LLM + trigger architecture.
 
 ## Websites
 
