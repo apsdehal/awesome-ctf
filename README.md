@@ -20,6 +20,7 @@ It takes time to build up collection of tools used in CTF and remember them all.
     - [Platforms](#platforms)
     - [Steganography](#steganography)
     - [Web](#web)
+- [Burp Suite Community Edition](https://portswigger.net/burp) - Web vulnerability scanner and proxy.
   - [Solve](#solve)
     - [Attacks](#attacks)
     - [Bruteforcers](#bruteforcers)
