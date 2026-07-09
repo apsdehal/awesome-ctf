@@ -249,6 +249,7 @@ Check solve section for steganography.
 
 - [CSWSH](http://cow.cat/cswsh.html) - Cross-Site WebSocket Hijacking Tester.
 - [Request Bin](https://requestbin.com/) - Lets you inspect http requests to a particular url.
+- [Violin](https://github.com/Strategic-Automation/violin) - Supervised, agentic Hermes pentest **profile**: 31 skill-based playbooks (OWASP Top 10, API Top 10, LLM Top 10) with interactive scoping and approval gates for authorised recon, exploit validation, and reporting. Install with `hermes profile install`.
 
 ## Steganography
 
