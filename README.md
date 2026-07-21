@@ -66,6 +66,7 @@ It takes time to build up collection of tools used in CTF and remember them all.
 - [echoCTF.RED](https://github.com/echoCTF/echoCTF.RED) - Develop, deploy and maintain your own CTF infrastructure.
 - [FBCTF](https://github.com/facebook/fbctf) - Platform to host Capture the Flag competitions from Facebook.
 - [Haaukins](https://github.com/aau-network-security/haaukins)- A Highly Accessible and Automated Virtualization Platform for Security Education.
+- [Darkmoon](https://github.com/ASCIT31/Dark-Moon) - Open source (GPL-3.0) autonomous AI penetration testing platform and MCP host covering web, API, Active Directory and Kubernetes, with proof of exploitation and a local privacy gateway.
 - [HackTheArch](https://github.com/mcpa-stlouis/hack-the-arch) - CTF scoring platform.
 - [Mellivora](https://github.com/Nakiami/mellivora) - A CTF engine written in PHP.
 - [MotherFucking-CTF](https://github.com/andreafioraldi/motherfucking-ctf) - Badass lightweight plaform to host CTFs. No JS involved.
