@@ -273,6 +273,7 @@ Check solve section for steganography.
 - [stegextract](https://github.com/evyatarmeged/stegextract) - Detect hidden files and text in images.
 - [Steghide](http://steghide.sourceforge.net/) - Hide data in various kind of images.
 - [StegOnline](https://georgeom.net/StegOnline/upload) - Conduct a wide range of image steganography operations, such as concealing/revealing files hidden within bits (open-source).
+- [STEGO·STUDIO](https://stegostudio.com/) - Client-side image steganography and forensics tool for hiding, analyzing, and recovering hidden data, with support for several third-party steganography formats. Runs entirely in the browser and works offline.
 - [Stegsolve](http://www.caesum.com/handbook/Stegsolve.jar) - Apply various steganography techniques to images.
 - [Zsteg](https://github.com/zed-0xff/zsteg/) - PNG/BMP analysis.
 
