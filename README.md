@@ -210,6 +210,7 @@ Check solve section for steganography.
 - [ctf_import](https://github.com/docileninja/ctf_import) – run basic functions from stripped binaries cross platform.
 - [cwe_checker](https://github.com/fkie-cad/cwe_checker) - cwe_checker finds vulnerable patterns in binary executables.
 - [demovfuscator](https://github.com/kirschju/demovfuscator) - A work-in-progress deobfuscator for movfuscated binaries.
+- [fnprint](https://github.com/1rhino2/fnprint) - Fingerprints functions by behavior (microexecution) to name them in stripped binaries and patch-diff builds.
 - [Frida](https://github.com/frida/) - Dynamic Code Injection.
 - [GDB](https://www.gnu.org/software/gdb/) - The GNU project debugger.
 - [GEF](https://github.com/hugsy/gef) - GDB plugin.
