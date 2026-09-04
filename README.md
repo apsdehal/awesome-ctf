@@ -319,6 +319,8 @@ Check solve section for steganography.
 
 *Collections of installer scripts, useful tools*
 
+- [CTF Skills](https://github.com/yuzu-octopus/ctf-skills) - Collection of 10 modular Agent Skills for AI coding agents to solve CTF challenges across Web, Pwn, Crypto, Reverse Engineering, Forensics, and OSINT.
+  `npx skills add yuzu-octopus/ctf-skills --all`
 - [CTF Tools](https://github.com/zardus/ctf-tools) - Collection of setup scripts to install various security research tools.
 - [LazyKali](https://github.com/jlevitsk/lazykali) - A 2016 refresh of LazyKali which simplifies install of tools and configuration.
 
