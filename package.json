@@ -29,7 +29,7 @@
     "node": ">= 0.8.0"
   },
   "scripts": {
-    "test": "./node_modules/mocha/bin/mocha -u bdd tests/test.js"
+    "test": "mocha -u bdd tests/test.js"
   },
   "keywords": []
 }
