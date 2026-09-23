@@ -351,6 +351,7 @@ Check solve section for steganography.
 - [Hacker101](https://www.hacker101.com/) - CTF from HackerOne
 - [Hacking-Lab](https://hacking-lab.com/) - Ethical hacking, computer network and security challenge platform.
 - [Hone Your Ninja Skills](https://honeyourskills.ninja/) - Web challenges starting from basic ones.
+- [OOPS!](https://oops.codes) - Hands-on offensive-security labs: real vulnerable apps, real terminals, real exploitation, no scripted answers.
 - [IO](http://io.netgarage.org/) - Wargame for binary challenges.
 - [Microcorruption](https://microcorruption.com) - Embedded security CTF.
 - [Over The Wire](http://overthewire.org/wargames/) - Wargame maintained by OvertheWire Community.
