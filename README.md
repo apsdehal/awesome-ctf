@@ -327,6 +327,7 @@ Check solve section for steganography.
 *Tutorials to learn how to play CTFs*
 
 - [CTF Field Guide](https://trailofbits.github.io/ctf/) - Field Guide by Trails of Bits.
+- [CTF PWN Notes](https://github.com/largefriessss/ctf-pwn-notes) - Systematic binary exploitation knowledge base (in Chinese, English guide): ret2*, ROP, format string, heap, ORW and kernel pwn with 32/64-bit pwntools templates.
 - [CTF Resources](http://ctfs.github.io/resources/) -  Start Guide maintained by community.
 - [How to Get Started in CTF](https://www.endgame.com/blog/how-get-started-ctf) - Short guideline for CTF beginners by Endgame
 - [Intro. to CTF Course](https://www.hoppersroppers.org/courseCTF.html) - A free course that teaches beginners the basics of forensics, crypto, and web-ex.
