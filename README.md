@@ -321,6 +321,7 @@ Check solve section for steganography.
 
 - [CTF Tools](https://github.com/zardus/ctf-tools) - Collection of setup scripts to install various security research tools.
 - [LazyKali](https://github.com/jlevitsk/lazykali) - A 2016 refresh of LazyKali which simplifies install of tools and configuration.
+- [ZeroBox](https://github.com/0xdnd/ctf-tracker) - Free offline-first tactical CTF lab tracker, payload generator, and writeup studio.
 
 ## Tutorials
 
