@@ -108,6 +108,7 @@ Check solve section for steganography.
 
 *Tools used for solving Crypto challenges*
 
+- [CaesarCipher.org](https://caesarcipher.org/) - Browser-based classical cipher encoders, decoders, cipher identification and letter-frequency analysis tools.
 - [CyberChef](https://gchq.github.io/CyberChef) - Web app for analysing and decoding data.
 - [FeatherDuster](https://github.com/nccgroup/featherduster) - An automated, modular cryptanalysis tool.
 - [Hash Extender](https://github.com/iagox86/hash_extender) - A utility tool for performing hash length extension attacks.
