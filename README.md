@@ -321,6 +321,7 @@ Check solve section for steganography.
 
 - [CTF Tools](https://github.com/zardus/ctf-tools) - Collection of setup scripts to install various security research tools.
 - [LazyKali](https://github.com/jlevitsk/lazykali) - A 2016 refresh of LazyKali which simplifies install of tools and configuration.
+- [pentest-mcp](https://github.com/keselyoleren/pentest-mcp) - CTF toolkit as an MCP server for AI agents: decoding, crypto/RSA, forensics, stego, PCAP, pwn offsets and web probes, with an engagement gate for challenge targets.
 
 ## Tutorials
 
