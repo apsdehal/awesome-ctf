@@ -162,6 +162,7 @@ Check solve section for steganography.
 - [Exif Tool](http://www.sno.phy.queensu.ca/~phil/exiftool/) - Read, write and edit file metadata.
 - [Extundelete](http://extundelete.sourceforge.net/) - Used for recovering lost data from mountable images.
 - [Fibratus](https://github.com/rabbitstack/fibratus) - Tool for exploration and tracing of the Windows kernel.
+- [Fnet](https://github.com/fyfhcgch/Fnet) - WebUI and CLI toolkit for pcap analysis: flags, credentials, decrypted traffic and carved files.
 - [Foremost](http://foremost.sourceforge.net/) - Extract particular kind of files using headers.
   - `apt-get install foremost`
 - [Fsck.ext4](http://linux.die.net/man/8/fsck.ext3) - Used to fix corrupt filesystems.
