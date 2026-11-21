@@ -158,6 +158,7 @@ Check solve section for steganography.
   - `apt-get install samdump2 bkhive`
 - [CFF Explorer](http://www.ntcore.com/exsuite.php) - PE Editor.
 - [Creddump](https://github.com/moyix/creddump) - Dump windows credentials.
+- [Deepacket](https://github.com/ZeroVectorLabs/deepacket) - Browser-based PCAP/PCAPNG analyzer with stream following, file carving and credential extraction.
 - [DVCS Ripper](https://github.com/kost/dvcs-ripper) - Rips web accessible (distributed) version control systems.
 - [Exif Tool](http://www.sno.phy.queensu.ca/~phil/exiftool/) - Read, write and edit file metadata.
 - [Extundelete](http://extundelete.sourceforge.net/) - Used for recovering lost data from mountable images.
