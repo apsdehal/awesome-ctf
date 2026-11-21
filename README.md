@@ -189,6 +189,7 @@ Check solve section for steganography.
 - [Monit](https://linoxide.com/monitoring-2/monit-linux/) - A linux tool to check a host on the network (and other non-network activities).
 - [Nipe](https://github.com/GouveaHeitor/nipe) - Nipe is a script to make Tor Network your default gateway.
 - [Nmap](https://nmap.org/) - An open source utility for network discovery and security auditing.
+- [PathProbe](https://getpathprobe.com) - Command-line DHCP, VLAN, and QinQ tester with pcapng capture, for authorized lab and CTF networks.
 - [Wireshark](https://www.wireshark.org/) - Analyze the network dumps.
   - `apt-get install wireshark`
 - [Zeek](https://www.zeek.org) - An open-source network security monitor.
