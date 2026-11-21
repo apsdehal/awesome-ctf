@@ -339,6 +339,7 @@ Check solve section for steganography.
 
 *Always online CTFs*
 
+- [AI Labs](https://ailabs.elhackeretico.com) - AI security CTF platform: adversarial chatbots, agent tool abuse and boot2root machines where the LLM is the entry vector.
 - [Backdoor](https://backdoor.sdslabs.co/) - Security Platform by SDSLabs.
 - [Crackmes](https://crackmes.one/) - Reverse Engineering Challenges.
 - [CryptoHack](https://cryptohack.org/) - Fun cryptography challenges.
